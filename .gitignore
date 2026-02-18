@@ -1,0 +1,42 @@
+# Environment and credentials
+.env
+credentials.json
+token.json
+
+# Claude local files (personal preferences)
+.claude/settings.local.json
+.claude/CLAUDE.local.md
+CLAUDE.local.md
+
+# Intermediate/temporary files (regenerable)
+.tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc temp artifacts
+*.tmp
+*.temp
+
+# Logs
+*.log
