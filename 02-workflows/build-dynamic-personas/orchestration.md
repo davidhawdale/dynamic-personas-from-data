@@ -33,3 +33,11 @@ Extract and tag verbatim quotes from interview transcripts, cluster participants
 - Merge: `python3 02-workflows/build-dynamic-personas/merge-quotes.py`
 - Validate completeness: `python3 02-workflows/build-dynamic-personas/verify-quote-extracts-completion.py`
 - If fail: Re-run the failed agent with a specific correction instruction; if second fail, skip and log WARN
+
+### Phase 2: Validate Quotes
+
+- Goal: Confirm every extracted quote is verbatim — no paraphrasing.
+- Run: `python3 02-workflows/build-dynamic-personas/validate-quotes.py`
+- Input: `p1-quote-extraction/quotes.csv` + `p0-prepare/manifest.json` (for transcript paths)
+- Output: `p1-quote-extraction/quote-validation-report.csv` (status, reason, transcript_match, transcript_lines per quote)
+- If FAIL: quote was paraphrased — re-run that participant's extractor with explicit instruction to copy text verbatim; if second fail, flag for human review
