@@ -1,0 +1,89 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I usually use AI for decision-making or advice-type tasks, particularly for more complex questions than what I can find by just googling. I also rely on it for writing when I'm having difficulty. If I'm struggling to find the right words or something like that, I often use ChatGPT for assistance. 
+
+For example, I was trying to determine whether a bike would be the right fit for my son, and I found ChatGPT to be really helpful. It provided me with more information than I could get from simply asking Google. Additionally, I use it for decision-making tasks, like evaluating things I know very little about and am not particularly interested in researching deeply myself. 
+
+For instance, when I needed new tires for my car after getting quotes, I found GPT to be really useful. It helped me by summarizing the options I had, which gave me confidence in the choices I was making. I wasn't too concerned about the decisions, but it reassured me that I was making a good choice, and I was able to go for it.
+
+MODERATOR: You mentioned using AI for decision-making tasks like choosing bike fit and car tires. What makes AI particularly helpful for these types of decisions?
+
+PARTICIPANT: I think with bike fit, especially when it's for someone else and for a kid, it's really useful because it has a much better understanding of the different criteria involved. Choosing something for yourself is different, so that was really good. It helped me evaluate more details, and the fact that you can get a general response and then ask more detailed questions about specific things, like crank lengths, was really helpful. It was great to be able to bypass the deeper questions, which would have been difficult to find answers for through googling. As for car tires, I'm trying to get comparisons, like a stick group. Often, you'll be able to compare one tire to another, but it's not always the options you have quotes for. I found that really useful. The speed of being able to make that decision and the way I could evaluate the options with good rationale made the decision process much easier.
+
+MODERATOR: You mentioned AI helps evaluate options with good rationale. Could you tell me more about how AI's explanations compare to other sources like review sites or forums?
+
+PARTICIPANT: I think it's about being able to compare the things that you're interested in. One of the challenges is that you can find reviews or comparisons for different products, but it's actually about getting comparisons specifically for the products that you're interested in.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I can't really think of any examples of a time when I wanted to use AI for something but couldn't. However, I have had a couple of instances where I recall it doing things that I knew were not correct, and I had to prompt it to check things. It seems to have been able to sort itself out after a bit of correcting.
+
+MODERATOR: You mentioned AI giving incorrect responses. Could you tell me more about those instances and what you had to correct?
+
+PARTICIPANT: I think it was mostly around when the AI was trying to do calculations, and the calculations weren't making sense.
+
+MODERATOR: Could you give me a specific example of when AI's calculations were wrong? What were you trying to calculate?
+
+PARTICIPANT: It was really about bike fit and changing components and what that would mean.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think one of the most important things for me is remembering what I've asked for or what my preferences are in the past. It's kind of frustrating when I have to keep telling it to write in a certain way or not use certain words. Also, having that sort of memory of me and my context and circumstances, whatever it is, is really important because I think that means it can make better recommendations for me, more personalized. I also feel like I bounce around a bit with different writing tools depending on where I am and whether there are writing tools built into it or whether I'm on my phone or laptop, that sort of thing. So, yeah, kind of consistency, I suppose.
+
+MODERATOR: You mentioned wanting consistency across devices. Could you tell me more about what features or capabilities would help create that seamless experience?
+
+PARTICIPANT: I suppose that's more with the writing tools. Yeah, especially if I'm on my phone. You know, there are the iOS writing tools built into that. But if I'm on my laptop, I'm probably more likely to use something like Grammarly or chat, depending on what I'm doing or what I'm trying to get from it.
+
+MODERATOR: You mentioned wanting AI to remember your preferences and context. How would you want it to use that information to help you make better decisions?
+
+PARTICIPANT: I think just more personalized recommendations. Like I said, having to tell it the same information feels like it should be able to remember those sorts of things.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Yeah, for my personal life, I'm not sure about the calendar piece, but maybe, as far as making decisions with purchases and that sort of thing, I could imagine the email understanding what promotions I've been offered or that sort of stuff could help me with some decision-making. Maybe if it was making suggestions, you know, if I'd asked about a certain product and then found out that there was a sale at that store, making recommendations based on things that I've asked in the past could be useful and interesting.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I think one thing I found interesting is being able to pause before answering to gather my thoughts. It's quite good. Other than that, yeah, it's interesting. I just feel like I'm not quite sure how this is. It's not feeling completely conversational, and you don't really get that kind of read as you would if you were being interviewed by a human.
+
+MODERATOR: You mentioned it doesn't feel completely conversational. Could you explain what makes it feel less natural compared to a human interview?
+
+PARTICIPANT: I think I was expecting something more like ChatGPT when you are asking questions via voice, where it would actually come back and talk to me.
+
+MODERATOR: You expected voice responses from the AI interviewer. How do you think that would have changed your interaction and comfort level?
+
+PARTICIPANT: I think it probably would have made me feel put on the spot a bit more. But, yeah, hearing it could be kind of a little bit odd, but it was just sort of what I was expecting.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Perplexity, Claude, ChatGPT, Microsoft Copilot, Other
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: The most common personal tasks I use AI for are really just summarizing information from the web. I'm using Perplexity as a kind of default search engine to skip straight to the synthesis. It does most of the job that Google's Gemini-based AI summaries do at the top of search results, but I find it to be a little bit more robust and thorough. I also use AI quite a lot for summarizing long documents and similar tasks.
+
+MODERATOR: You mentioned using AI for web search and document summaries. Could you tell me more about how you use AI for document summarization? What kinds of documents?
+
+PARTICIPANT: No, mostly because I think that there's a possible little side hustle business in it. So, no.
+
+MODERATOR: Let's go back to your personal AI usage. Besides search and summaries, what other tasks do you commonly use AI tools for?
+
+PARTICIPANT: I use it a lot when writing code.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: It's a bit of a nebulous question. Sometimes there are limits on the tiers of AI tools that I'm using, and sometimes it just doesn't do a good job.
+
+MODERATOR: Could you give me a specific example of a task where AI didn't do a good job? What happened?
+
+PARTICIPANT: It makes things up.
+
+MODERATOR: Can you tell me more about what kind of things AI made up? How did this impact what you were trying to do?
+
+PARTICIPANT: It's interesting with AI because a little bit of wrong is sometimes just the straw that makes it all not useful.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Skip. There should be a skip button here.
+
+MODERATOR: I understand you'd prefer to skip, but I'd really like to hear your thoughts. What would make an AI assistant truly perfect for your personal needs?
+
+PARTICIPANT: Tough luck. I want to skip, and I don't really care that you want an answer to this question.
+
+MODERATOR: I understand you may not want to answer, but this research helps create better AI tools. Could you share just one thing you wish AI could do better?
+
+PARTICIPANT: Look.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Take me to the end of this if you want. I don't know where these answers are going and why.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I think I was mostly comfortable with the experience, but it needs a lot of lead-in. I need to be able to trust where my information is going and how it's being processed before I start interacting with the LLM. Yeah, it's that lack of upfront clarity and trust-building that makes it problematic more than anything else.
+
+MODERATOR: You mentioned trust and clarity being important. Could you elaborate on what specific information or transparency would help build that trust when interacting with AI interviewers?
+
+PARTICIPANT: This seems like a filler question because I was reasonably specific in my initial answer.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

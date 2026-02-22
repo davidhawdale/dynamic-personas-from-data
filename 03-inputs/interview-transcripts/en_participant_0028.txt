@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT, Google Gemini, Microsoft Copilot
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I normally use AI assistance to help me write emails or sometimes do a little bit of research. Not a lot of research, just light research. And that's pretty much it. I think I use it more for business-related tasks than personal-related tasks.
+
+MODERATOR: Could you tell me more about how you use AI for writing emails? What kind of help do you typically need?
+
+PARTICIPANT: Occasionally, if I have an email to write, I might create a draft and then ask the AI assistant to help me correct the grammar. In the past, I used AI to help me write some newsletter content. I would prompt it and then provide a little bit of detail, and that's pretty much it.
+
+MODERATOR: You mentioned newsletters - could you tell me more about how you used AI for that? What kind of content were you creating?
+
+PARTICIPANT: For the newsletters, I was creating a monthly newsletter for a women's nonprofit that I'm a member of. We do volunteer work in our local community. I would ask AI to enhance the content. For example, if there was an event we did, I would write a draft of that message and then ask AI to make it a bit more exciting while still maintaining the general feel of the monthly newsletter. As I mentioned, I use it to help with grammar and to make the content more exciting and appealing.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: So last week, while I was using Facebook, one of my friends shared a post saying that she uses ChatGPT regularly and asked it to describe her, letting her know what ChatGPT thought about her. I thought, well, I could try the same thing. Although I don't use ChatGPT that often, I did use the Meta AI assistant. I asked, "So far, what do you think about me?" But I think the Meta assistant didn't have enough information. Well, no, it wasn't Meta. I think it might have been Meta or Google Gemini. I asked them basically the same prompt: "What do you know about me?" It seems they didn't have enough information, which was okay with me. So, yeah, I wasn't able to get the response I was looking for from the AI assistants because they just didn't have enough information on me.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: For me, the perfect AI assistant would be able to tap into my emails and have access to my calendar. So if I were to say, "What do I have planned for today? How do I need to prepare for my day? Is there something that I said I would do that I haven't yet achieved?" I would love for the AI assistant to help keep me on task. And let's say there's a birthday coming up; I would like the AI assistant to say, "Hey, your dad's birthday is coming up in a few days. Do you want me to order a gift or draft a text message or something like that?" That would be useful. Really, just helping me stay on top of whatever I have in my calendar would be really helpful. Or maybe if the AI assistant heard about an article that I might be interested in, it could propose that I read that article or summarize it for me. Even if there was music that my AI assistant thought I might enjoy hearing for the first time, that would be really helpful.
+
+MODERATOR: You mentioned music recommendations - could you tell me more about what kind of music discovery features you'd want from your AI assistant?
+
+PARTICIPANT: I think if the AI assistant knew the type of music that I enjoyed, it would be able to make music recommendations. That would be really helpful.
+
+MODERATOR: You've mentioned calendar, email, and music integration. How would you want the AI to help manage your tasks and commitments across these different systems?
+
+PARTICIPANT: I think it would be nice if the AI assistant could access my Google account and make recommendations on upcoming events. For example, if the AI assistant said, "Hey, I see that you're available from five to nine on Tuesday. There's an event that you might be interested in," that would be great. Or if there was a concert coming up, maybe the AI assistant could say, "Hey, Lauryn Hill or someone else is coming to Atlanta on this date. I see that you have availability. Would you like me to look for tickets?" That would be really helpful. Additionally, if there was a birthday coming up, the AI assistant could draft a really nice slideshow with some music that my friend or family member really likes. That would be helpful too.
+
+*Q9*
+MODERATOR: Since you've already covered how the AI would integrate with your calendar, email, and music, let's move on to discuss system interconnections. How would you want the AI to connect with other apps or services you use?
+
+PARTICIPANT: I would love it if the AI assistant could tap into or leverage my email, my music library, my calendar, and the weather. If it could make recommendations for my day, that would be really helpful.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I don't have any issues being interviewed by an AI. I think after, I don't know, maybe a few minutes or so, I did realize that I was being interviewed by an AI, and I could tell based on the follow-up questions that were presented to me. That's what made me realize I was being interviewed by an AI. I don't have any issues with this. It's actually nice to know that the AI is listening and is able to provide follow-up questions based on my previous responses. That was really refreshing. We don't always get that from a human interviewer, so that was nice. I don't have any issues with this. It's nice.
+
+MODERATOR: You mentioned noticing you were talking to an AI from the follow-up questions. Could you tell me more about what made these follow-ups different from a human interviewer?
+
+PARTICIPANT: I think a human would probably have follow-up questions in mind, but with this AI interviewer, it feels a little bit more spontaneous. So I would say that's probably the difference between a human interviewer and an AI interviewer.
+
+MODERATOR: Could you explain what makes the AI follow-ups feel more spontaneous compared to human interviewers?
+
+PARTICIPANT: Well, I think a human interviewer might be able to anticipate what you're going to say, but an AI interviewer might not be able to anticipate what you're going to say. I'd be interested in knowing how the AI knows what is worth following up on.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

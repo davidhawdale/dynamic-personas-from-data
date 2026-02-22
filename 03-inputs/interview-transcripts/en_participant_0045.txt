@@ -1,0 +1,79 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT, Google Gemini
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I think most of my personal tasks for AI are honestly the Google summary that happens at the top of the search right now. Because I don't know, I'm a pretty curious person, so I'm constantly googling things. The ability to synthesize information is probably the number one thing that search takes care of and that I need. I will say, that's not in the prompt, but I take it with a grain of salt, and I always make sure to look at the attribution of the links because I know that the summaries can be wrong. So sometimes I'll look at the summary and then I'll also look through all the links as well. It's not a foolproof thing; it's usually like getting started with a summary and then continuing my own research to verify if what's in the summary is true or if there are other angles. 
+
+I also sometimes use ChatGPT if I have a slightly more complicated task that I need to do where the search query would be too narrow or I actually need it to perform some analysis for me. For example, I'm going to be taking some leave, and I needed to calculate how much PTO and sick leave I'd be accruing during that period of time leading up to the leave. I used ChatGPT to help me figure out how many workdays there are between x date and y date. So, those are the two main ways I use it and the types of things that I do. I guess I didn't give you an example of the Google search, but it could be something as simple as how likely am I to get rebound congestion by using nasal spray, I don't know, x times per week, and then it would give me an answer.
+
+MODERATOR: You mentioned using ChatGPT for more complex analysis. Could you share another example of a task where you needed this deeper analysis?
+
+PARTICIPANT: Honestly, maybe this is useful for you to know, but I was kind of hesitating to tell you about the other more complex analysis because it requires me to divulge some stuff about my personal life. But I'll go ahead and do that in good faith. I'm pregnant, and I'm trying to figure out what I need as the bare minimum to bring a child home from the hospital. I went to ChatGPT for this because I feel like it can give me more scenarios than Google Gemini tends to. So it's like, you know, if X applies to you, here's a list of things. If Y applies to you, here's a list of things. The same happened for understanding a little bit more of the nuances around breastfeeding. Like, if you exclusively want to breastfeed or if you also want to pump while you breastfeed. Again, this is really personal, so it's kind of weird divulging this to an AI interviewer. I would actually prefer to share it with a human or have been warned at the beginning that I might be digging into some personal stuff. But, yeah, it's just a little bit more situational. Again, I would never take that as the full truth. I would always go and do my own research. It's just like, oh, here's a potential starting point, and now I can go read more stuff or verify online or talk to friends.
+
+MODERATOR: You mentioned being cautious about AI responses and verifying them. What makes you trust or distrust AI's answers in different situations?
+
+PARTICIPANT: I've had multiple instances where I know that the AI has incorrectly summarized information. Usually, when it's a more bespoke question and there aren't a lot of resources, it can end up overinterpreting or misinterpreting. I can literally tell by clicking on one link that it got it wrong, or I have some background knowledge and it got it wrong. I don't remember a specific instance, but I think I asked it a question about the plot of a book I was reading and a character, and it just gave me total garbage as an answer because not many people had commented on the book in Reddit threads or Goodreads.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I can't remember if we're still talking about personal use cases or work cases. Maybe that would be useful to know. You're asking a researcher to fill out a research thing, so I'm giving you feedback along the way. The only time I've ever had an issue with it is honestly because I ran out of data. I asked it to do some computation, and I wasn't being specific enough about what I wanted. Then I just ran out of free credits, and I didn't want to pay for it.
+
+MODERATOR: Could you tell me more about that computation task where you ran out of credits? What were you trying to accomplish?
+
+PARTICIPANT: I'm honestly having a hard time remembering it, but I think it was something like I fed it a spreadsheet and asked it to calculate some things in a particular way, or aggregate the data in a specific way, but it didn't end up doing it the way I needed it to. I only got to try it once or twice before I ran out of data.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Honestly, the AI tools that I use right now feel pretty adequate for what I need them to be. Maybe it's because I kind of know what I should be using them for and what they're not good for, and I kind of self-limit. But I think the number one thing is, does the AI have an awareness of its own level of credibility or trust? Can it give you a rating that's like, I am X percent confident that the results I'm giving you today are accurate, or this is from 10 sources versus five sources? Just something that can help me understand the likely amount of extra research I'm going to need to do in order to verify what I'm seeing or figure out if it's biased in some way.
+
+MODERATOR: You mentioned wanting AI to show its confidence level. How would you want this confidence rating to be displayed or communicated to you?
+
+PARTICIPANT: This is a pretty hard question, AI interviewer. It was pretty hard to answer. Look, I think the average person is not going to want a confidence interval or know how to interpret that, and I would put myself in that category. I don't want a p-value or something like that. I think I just want the information relayed to me in a way that helps me understand how likely it is that I'm going to need to do follow-up research, or how confident it is. So, I mean, I don't know if that would be numerical or something a little bit fuzzier. Actually, a number would probably be bad because what's the difference between 58% confident and 65% confident? I think I actually want something that's more like a human scale or more categorical, or that gives me a better sense of my next step. So it's like, I'm pretty confident this is right, but you probably want to check a few things, or like, I'm not very confident this is right. You should enter this query in a bunch more times, or like, I'm very confident this is right, and here's why. So, again, give me the confidence in terms of how you got that confidence, and also, what do you want me to do with it rather than just a number.
+
+MODERATOR: You've mentioned how AI could communicate confidence levels. What other features would make your perfect AI assistant better than current tools?
+
+PARTICIPANT: I honestly don't think I can think of anything else.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: The biggest thing I can think of is just the admin that my husband and I have to do to manage our social life and also our tasks that we need to get done throughout the week. If there was a way, I don't know how this would work, but something that could help me see what's coming up, anticipate what's ahead, and also rank order what's most important to tackle now. So, something around urgency and then reminders. That would probably be four things that would be helpful.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I thought the questions were really good. Actually, they were really good follow-up questions, which I find a bit troublesome for my own career—sort of joking, sort of not. I think I pointed out that there were two things that kind of tripped me up along the way. One of them was being asked about my personal experiences and realizing that I had to divulge something quite personal. And, you know, I didn't sign any privacy agreement with this thing. I don't know where the data goes. I mean, does the whole internet know that I'm pregnant now or that I'm thinking about breastfeeding? Probably not. In fact, surely not, but it just feels different than having someone in front of you who can reassure you that your information is private and confidential, and who you know has been trained to think about those things that way, ideally. The other issue was that you started off by asking me very specifically about my personal AI experiences, and then we got a little vaguer as we went on. I wasn't sure if we were still talking about personal stuff or if you wanted me to start talking about work stuff, or if it was okay for me to start talking about work stuff.
+
+MODERATOR: You mentioned feeling uncertain about privacy and data usage. Could you elaborate on what specific privacy assurances would make you feel more comfortable being interviewed by AI?
+
+PARTICIPANT: I don't know. Just take the informed consent model that researchers have and apply it to an AI. Tell me how my data is going to be used, how it's going to be stored, what recourse I have for getting it deleted, or for stopping the interview at any time and having that information scrubbed. I don't think there's anything rocket science here. It's just applying best practices for privacy from human interviewers to a computer. Yeah.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

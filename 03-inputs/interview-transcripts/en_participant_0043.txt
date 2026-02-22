@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Google Gemini, ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use AI when I'm wondering about a health issue, looking for a gift for someone, investigating a problem out of my own interests or curiosity, or coming up with ideas for art projects and creative pursuits.
+
+MODERATOR: Could you tell me more about how you use AI for health-related questions? What kind of information do you typically seek?
+
+PARTICIPANT: I might ask for the various reasons why insomnia might happen suddenly, and I like Google Gemini for that. It shows me the citations and where it's getting the information from. I might look for reasons why you might get certain symptoms or when to be concerned if my child has a rash, that kind of thing.
+
+MODERATOR: You mentioned using AI for creative pursuits. Could you tell me more about how you use it for art projects?
+
+PARTICIPANT: Well, for instance, I'm working on a small miniature curio cabinet, and I used ChatGPT to help me produce a pattern. It was a design based on folk floral patterns, for which I provided the size specifications. It was almost right, but I just had to stretch it out. Then I printed it out and used a graphite transfer to put the pattern onto my project, and then I painted it.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: Honestly, I can't really think of a time that I wanted to use AI for something but couldn't. That might just be because I'm accepting of the fact that I don't have AI in everyday conversation, so I don't think about it. However, I always have my phone available, and I have ChatGPT on my phone. Google uses AI on my phone, so I really don't feel like there's a chance where I'm unable to access it.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think a perfect AI assistant would be able to keep track of my various projects so that I can quickly say, "Please send an email to so-and-so about this detail." It would know which project I'm referring to and the person I'm talking about. It would be able to retrieve that person's email address and start composing an email for me based on the history of the project. My assistant would also be able to browse online and make suggestions for different purchases for items I need to shop for, as well as create calendar events, marketing materials, and all the things that revolve around the various projects I'm working on and my personal life.
+
+MODERATOR: You mentioned project management and shopping assistance. Could you tell me more about how you envision the AI helping with online shopping specifically?
+
+PARTICIPANT: Well, I have tricky shoe problems, for instance. I need a size twelve women's, but one foot is a half size larger and one foot is a size smaller than the other. I've got flat feet and bunions, and it's hard to find shoes that fit me. So, I wind up scouring the Internet, ordering shoes, and sending them back. It would be great if I could find an AI assistant that could do more of that research for me, save me some time, read the reviews, and maybe look at my historical purchasing habits to see what I might have better luck with.
+
+MODERATOR: You mentioned project management and calendar events. How would you want the AI to handle scheduling and coordinating your various projects and personal life?
+
+PARTICIPANT: Well, coordinating projects in my personal life has already improved a lot in that area because of organizing projects in ChatGPT. It has a history of conversation and can feed in documents, so it knows the context when I'm asking a question. I just want to expand on that and allow integration with my calendar and other apps that might feed into those projects. For scheduling, while I'm having a conversation with it, I might decide that I want to apply for this grant. It's helping me write the proposal, and now I want to remember to follow up. So, can you please create a calendar reminder? Maybe it could do that for me, that kind of thing.
+
+*Q9*
+MODERATOR: You've already touched on calendar and email integration. How might the AI be interconnected with other systems you use? What would that enable you to do?
+
+PARTICIPANT: Well, something like Canva would be great, where it might integrate with a marketing material editing platform that has suggestions for formatting and templates and that kind of thing, so that I don't have to transfer information from one to the other. Maybe a Microsoft Word integration directly allowing me to edit a document that I'm working on with ChatGPT rather than copying and pasting. Excel integration would be fantastic. Again, I'm often copying and pasting large amounts of data, and sometimes I have to really hand-feed it information from specific columns or lines because there's too much for the AI to understand separately. So that would save a lot of time. It would allow me to create smarter spreadsheets and better visualizations. I think it would just improve my workflow all around.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: Well, it's interesting. I like having conversations with human beings. I enjoy hearing a voice, so not hearing a voice feels kind of impersonal. However, sometimes your interviewer doesn't listen as well as an AI might, so that's something to consider. It was really neat that I was able to vocalize my responses, and you can analyze them as we go. That's very fun.
+
+MODERATOR: You mentioned the AI listens well. Could you tell me more about what makes AI interviewing different from human interviews in terms of listening and follow-up?
+
+PARTICIPANT: While humans have complex brains, we sometimes think about the next question while the person we're interviewing is answering the last one. We might get distracted and only selectively hear parts of someone's response rather than having the rational distance to remember the various parts of their answer and follow up on them. It's harder to listen and do that than it is for a computer. You don't have the benefit of having a record right away of every word that someone said.
+
+MODERATOR: You mentioned the AI's rational distance and ability to track responses. How does this affect the quality or depth of the interview compared to human interviews?
+
+PARTICIPANT: I think there are interesting aspects to human interviews because we each have our own perspective and experience that comes into play when we're interviewing someone. A person's personality is involved, along with humor, compassion, and empathy. Something that one interviewer picks up on and elaborates might be different from what another interviewer might. So, there is a trade-off there.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

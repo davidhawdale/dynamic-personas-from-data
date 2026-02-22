@@ -1,0 +1,64 @@
+*Q1*
+MODERATOR: What AI tools have you used in the last 3 months for personal purposes (not work-related)? Check all that apply.
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal matters?
+
+*Q3*
+MODERATOR: I would now like to better understand how you usually use AI and where current tools do not meet expectations...
+
+*Q4*
+MODERATOR: For what most common personal tasks do you use AI? Tell us about a few examples.
+PARTICIPANT: I use AI for things that allow me to gather information or find out what I can visit in a given country.
+
+MODERATOR: You mentioned travel planning. How exactly do you use AI to gather information about places to visit?
+PARTICIPANT: I plan what I can visit in a given country on a given day so that I don't have to travel from one end of the city to the other.
+
+MODERATOR: How does AI help you optimize these sightseeing routes? What specific information do you get from it?
+PARTICIPANT: It's best to move around a given city using the metro, public transport such as trams, buses, or trains. I wonder if I can visit two tourist attractions in one day.
+
+*Q5*
+MODERATOR: Tell us about a situation when you wanted to use AI but couldn't. What was the task? What prevented you from using AI?
+PARTICIPANT: I haven't had such a situation yet, although I know that AI is constantly learning and you have to use it wisely because not all information is verified.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you receive from AI tools?
+
+*Q7*
+MODERATOR: Finally, I would like to know what you think the ideal AI assistant should look like...
+
+*Q8*
+MODERATOR: Imagine you have the ideal personal AI assistant. What are the most important things it should do for you? How would it be better than current tools?
+PARTICIPANT: It would be best if it showed verified information, not fake, Linux.
+
+MODERATOR: I understand you want to be sure about the reliability of the information. What other features would be important to you in an ideal AI assistant?
+PARTICIPANT: That in the future it could help in everyday life but not replace face-to-face contact.
+
+MODERATOR: How exactly do you imagine this help in everyday life? What tasks would it perform?
+PARTICIPANT: I'm not sure if I need to see a specialist immediately for a specific illness or if I can wait for an appointment.
+
+*Q9*
+MODERATOR: How could such an AI assistant be connected to other systems you use (e.g., calendar, email, etc.)? What would this enable you to do?
+PARTICIPANT: With the calendar, it could remind me of things I have noted there.
+
+MODERATOR: Besides the calendar, what other systems would you like to connect the AI assistant to?
+PARTICIPANT: Maybe with some home appliances.
+
+MODERATOR: What specific home appliances would you like to connect with the AI assistant and what would it do with them?
+PARTICIPANT: Coffee machine, refrigerator that would inform me that something has run out. That's it.
+
+*Q10*
+MODERATOR: Before we finish, I would like to know your impressions of the conversation with AI...
+
+*Q11*
+MODERATOR: How did you feel answering questions from AI instead of a human? How was this experience different from talking to a person?
+PARTICIPANT: AI still doesn't fully express itself correctly in a given language, so I preferred to contact a person from this side.
+
+MODERATOR: Could you explain more precisely what makes you prefer to talk to a human? What specific language problems did you notice in the conversation with AI?
+PARTICIPANT: Grammatical problems and face-to-face conversations cannot be replaced by artificial intelligence.
+
+MODERATOR: You mentioned that face-to-face conversations are irreplaceable. What exactly do you miss in interaction with AI?
+PARTICIPANT: In interaction with AI, if I talk face to face, I see how the person reacts to the questions asked, how they answer, what their facial expressions are.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and opinions about AI tools! Your answers will help us create better AI assistants that truly meet people's needs.

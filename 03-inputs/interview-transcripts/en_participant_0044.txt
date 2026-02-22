@@ -1,0 +1,85 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Perplexity, Google Gemini
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I typically use AI, like Perplexity and Gemini, to get deeper answers on various topics, whether it's finance-related, stock-related, politics-related, woodworking-related, or pretty much anything I'm interested in. I'll use Gemini or Perplexity to ask questions and format things. I'm also dabbling with a few others, like Replit, to build some random apps for my kids.
+
+MODERATOR: You mentioned building apps for your kids. Could you tell me more about what kind of apps you're creating and how AI helps with that?
+
+PARTICIPANT: Yeah, so I built a finance tracking app for my kids. Anytime they get any money, they put it in the bank of debt, and then they can check their balance. They can see how much interest they're accruing, and basically, it helps them learn about spending, saving, and good financial principles. Since they're younger and can't actually have a bank account, this is a good way to start.
+
+MODERATOR: You mentioned using AI for finance, stocks, politics, and woodworking. Could you give me a specific example of how you use AI for one of these interests?
+
+PARTICIPANT: Typically, in the political arena, if there's a question or something that's going on, I'll start asking questions and trying to get to the heart of whatever issue it is, trying to correct any blind spots I may have and get outside my own preconceived ideas about particular issues. I find that a large language model is good at uncovering new sources or different ideas or tracing back where specific ideas come from to the original source. So, it's just a way to help me think deeper about different topics.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: So, where I've tried to use generative AI has typically been around image generation. It's been a while since I've attempted it, but when I was trying, I wanted to develop some stickers. We have a Cricut cutter that makes vinyl stickers, and I had a couple of ideas for different stickers that I wanted to create for my kids and for water bottles and such. I wanted to use AI to generate the images, but I just couldn't get the image that was in my head out in the tool, and it just kind of sucked. So, I had to give up. Since I don't have great drawing ability, I'm going to have to wait for the image generation to catch up.
+
+MODERATOR: Could you tell me more about what specific features or capabilities you were looking for in the AI image generation that it couldn't deliver?
+
+PARTICIPANT: I think it was probably more in terms of my prompt engineering that I'm now a little better at. I have some examples of what I wanted it to look like, but every time I would describe it and try to get the AI to generate the image, it was just all over the place or the wording was just gibberish. It wasn't actually using the words that I wanted where I wanted them, and I couldn't get it to directly place things where I wanted them. So, all the images that it generated were just kind of crap.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think the perfect AI assistant would help me organize, prioritize, and categorize all tasks, whether work or personal. It would help me figure out where I need to spend more of my time. It would essentially be that empty notebook of ideas where I could export all the ideas I have, and then it can help me execute on all of those things.
+
+MODERATOR: You mentioned organizing and prioritizing tasks. Could you give me a specific example of how your perfect AI assistant would help execute on your ideas?
+
+PARTICIPANT: Yeah, I typically have a thousand different ideas for a thousand different things. But, you know, if I don't put them down into a notebook or into a task list, they just kind of disappear. So, if there's a way that I could track all that and then come up with an action item plan of how to actually take this idea and put it into a real-life situation and actually make it work, that's kind of what I'm looking for. It would be able to track all that and then give me a plan of next steps, like, "Okay, here's what you want to do. What's the next thing that you need to do to get that done?"
+
+MODERATOR: You mentioned wanting AI to help create action plans. How would you want the AI to help you prioritize between different ideas and tasks?
+
+PARTICIPANT: That's a good idea or a good question. How would I want it to help prioritize? Basically, it should prioritize based on my larger overarching goals for the year, for that quarter, and for that month. So, like, every year, I do yearly planning and try to figure out what I want to do for the next year. Based on those goals and priorities, that's how it should organize.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Yeah, I think it would be helpful to have email, calendar, voice notes, meeting notes, meeting summaries, and overall task lists. We just got some fancy chore list calendar thing for the kitchen that helps the kids prioritize tasks. If it were integrated with that, that would be cool.
+
+MODERATOR: You mentioned several systems like email, calendar, and chore lists. Could you explain what specific tasks you'd want the AI to help with across these systems?
+
+PARTICIPANT: Well, again, whatever comes through email, whatever is on my calendar, and whatever voice notes I have, it should just take those, organize them, sort them, prioritize them, and then show me a task list for every day.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: Being interviewed by an AI is different in that, I think with a human, there's more relationship, more reciprocity, and more of a conversation. There's a greater back and forth. With an AI, there's none of that, so it relies on me to carry the conversation. My guess is that most of these responses are going to be shorter because I don't necessarily know when to start, when to stop, how deep to go, or how shallow. It reminds me a lot of unmoderated testing with just a screen recorder and a script. This is a little bit more dynamic, which is pretty cool. But, yeah, there's less back and forth than in a human interaction.
+
+MODERATOR: You mentioned this feels like unmoderated testing but more dynamic. Could you elaborate on what makes this AI interview experience more dynamic?
+
+PARTICIPANT: Well, with unmoderated testing, you write your scripts, and those are static questions that don't change. But here, the AI was able to pick up on things that I had said and ask a follow-up question about that with a specific follow-up rather than just a generic "tell me more about why you gave the answer you did" type of question. So, depending on all the different people taking this, you're going to be able to get specific follow-up questions to whatever they responded. That's where it's more dynamic.
+
+MODERATOR: You mentioned the AI can ask specific follow-ups. How does this affect the depth or quality of your responses compared to static questions?
+
+PARTICIPANT: I think it just makes it a little bit more personalized. Putting the specific tools that I mentioned into the task response keeps you on track a little bit more. You can kind of do that with an unmoderated script, but you have to be really good at writing scripts, and you kind of have to know how people are going to respond and take the test. With AI, it can do it on its own a little bit easier, and you don't have to be as skilled.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

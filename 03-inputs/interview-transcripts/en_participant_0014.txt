@@ -1,0 +1,87 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT, Google Gemini
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: Well, most recently, I used Gemini to interpret the results of some car diagnostics because our car broke down. I obviously don't know what the codes mean, so I ran it through Google. I think it's Google Lens, which then gave me an AI interpretation that pretty much lined up with what the mechanic said at the end of the week. I was pretty impressed with that. So, I would say I use AI to help me interpret search results, summarize search results, identify physical things, and find manuals for them. For example, I took a photo of the washing machine and asked, "What does this light mean?" 
+
+What else do I use AI for in personal tasks? I don't know if it's personal, but I sometimes use it to give feedback to colleagues. I also used it to plan a holiday back in 2021. So, yeah, I use it for getting summaries of results that I could have done myself, but it acts like an aggregator, kind of like an RSS feed that consolidates everything.
+
+MODERATOR: You mentioned using AI for car diagnostics and it was accurate. What made you trust the AI interpretation in that situation?
+
+PARTICIPANT: I'm not sure whether I trusted it. I wouldn't have told the car mechanic, "This is what my AI says," but it helped me see that the car mechanic wasn't making things up. It provided me with more context when he spoke to me about certain things. I thought, "Oh, okay, that matches up with what the AI said." So, yeah, I would say I would still rely on a human interpreter or a human QA, not just rely on AI alone.
+
+MODERATOR: You mentioned using AI for holiday planning back in 2021. Could you tell me more about that experience and what you used AI for specifically?
+
+PARTICIPANT: Yeah, so I knew that I wanted a beach holiday and that it was going to be somewhere on the coast of Natal. I knew what sort of time we were going, and I asked ChatGPT to identify a couple of small coastal towns that were family-friendly. From what I can remember, it provided me with a few towns and explained why they were family-friendly. This really helped me narrow things down since I don't have much experience with small towns on the Natal coast. I also spoke to my husband about these towns, and one of them he had actually been to, so it was kind of like human verification.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I don't know whether I've actually ever wanted to use AI and then couldn't, because I think I'm still used to manually searching for things myself. So, I don't really notice it being a problem when AI can't serve me what I would like it to serve me. Actually, I suppose in the case of the washing machine, it wasn't a matter of AI not being able to help me; it was more about me not being able to prompt it with enough information. 
+
+What happened was I took a photo, and I think the change filter light was showing. I wanted to know how to change the filter on that particular tumble dryer because I couldn't work it out. Sorry, my brain is a little bit foggy. I assume AI is going to filter out all these pauses and so on. It kind of didn't read or interpret what I wanted. But again, I don't see that as an AI problem. AI is not plugged into my brain; I still have to give it something to go on. Just because I take a picture, what's the context of that? Which, I guess, I understand from working in UX.
+
+MODERATOR: You mentioned the washing machine filter example. What other tasks have you attempted with AI where you felt the results weren't quite what you needed?
+
+PARTICIPANT: Again, I don't think I really notice when AI doesn't give me the results I expect because I'm used to taking the results and fine-tuning things, providing a little more information until I arrive at what I want. The context you give AI is super important. I don't have a specific task in mind, but it might relate to giving colleagues feedback. I might say, "Okay, that's not quite right. This is more in line with what I was looking for," and so on. So, yeah, maybe that's kind of it.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Perfect personal AI assistant. But probably to take my mom brain and interpret all the things, plug into my brain, see everything gosh. It sounds very scary. But see everything I read, whether it's on WhatsApp or on school newsletters or hear about or talk about, and almost come up with a to do list or an events calendar. Because sometimes I do feel like not necessarily on the calendar so much, but on the to do list, I do sometimes worry about dropping the ball. So, yeah, just kind of helping in day to day life. Not necessarily washing dishes for me, but maybe saying, hey. Like, you should probably wash the dishes. Otherwise, it's going to you're gonna have, like it's gonna be a buildup of things. You're gonna have way too many things that that needs to get done and so on. So, yeah, a plug in on my brain to help me to sort out the mess so that I don't need to think about it, which is also a bit gross because, like, then what do I use my brain for? Like, it's just a filter. So, yeah, I suppose to help me do what I do manually now, which is creating to do lists and creating calendar entries on Google Calendar and so on to remind me of certain dates or events and so on.
+
+MODERATOR: You mentioned wanting AI to help manage tasks and events. What specific challenges do you face with your current manual to-do lists and calendar management?
+
+PARTICIPANT: What challenges? Just that there is a lot, as a full-time employee and a mom of two. It's not necessarily that it's just overwhelming, but there is a lot going on. There are two kids to manage, plus as a family, we have to figure out what we do together. Then there are personal things, like appointments and so on. So, just getting all of those out of my head is important. Otherwise, I do get overwhelmed. I have noticed that happening recently.
+
+MODERATOR: You mentioned feeling overwhelmed recently. What specific tasks or events tend to cause this feeling the most?
+
+PARTICIPANT: Specific tasks or events that tend to cause me to feel overwhelmed are hard to pinpoint. I think it's the ad hoc things as opposed to recurring tasks—things that need to get done and are time-sensitive. For example, when my car broke down, I needed to go to the auto electrician before my holiday, but I didn't make it. I felt almost stuck in a state of paralysis because of all the other things I had to do. So, it might be about not being able to prioritize time-sensitive tasks. 
+
+Also, there's a birthday coming up, and I should probably buy a present for someone. I keep all of that in my head. It would be nice to have help with budgeting, like, "Hey, March is a month with a lot of birthdays. You should start saving for them." It could list the birthdays, how much goes into my bank account, and how much I typically spend on each person. I don't know if it could do that, but setting up a budget and guiding me through it would be helpful. It would be like having colleagues at work who help you prioritize and stay on track.
+
+MODERATOR: You've mentioned wanting AI to help with budgeting and financial planning. How would your ideal AI assistant handle sensitive data like bank accounts while maintaining your privacy and control?
+
+PARTICIPANT: Yeah, I'm not sure how AI would handle it. I mean, I know that there are apps already that plug into your bank account, so I don't know what checks and balances they have, but somehow I trust them. It's a little scary, like handing over sensitive information. I wouldn't want AI to be able to perform any transactions or movements of funds in my bank account. I would like it to have read-only access, if that makes sense.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: How might it be? I have no idea. Plug into my brain. I assume I'd have to allow it some sort of permissions and so on. There would be some sort of setup. What would it enable me to do? I could carry on using those tools as I normally do, or maybe, like, visit that. It would be cool to have a dashboard or something—a dashboard of tasks for the day. Oh my gosh, that would be amazing! Yeah, that I could visit every morning and sort my life out. It's pretty much like a little stand-up with a personal assistant. That would be very cool.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I actually kind of liked it. I felt less intimidated, but, you know, with all my pauses and things that I had to think about and so on, I assumed that the AI was going to filter out that boring stuff. So I didn't feel like I was wasting the interviewer's time. I was really impressed that it picked up on context. It would have been nice to have some sort of disclaimer ahead of time to say that this is what the AI is going to do. You should have known from the, you know, enabling your mic and camera, but just a more explicit disclaimer would have been helpful. And, yeah, I was really impressed, like I said, about the context that it picked up on and delving deeper into topics that I mentioned. That was pretty cool. What was different? I think I mentioned it. Yeah.
+
+MODERATOR: You mentioned feeling less intimidated and that you appreciated the AI picking up context. Could you tell me more about how this affected your openness and honesty in the interview?
+
+PARTICIPANT: I don't think that it affected my openness and honesty in the interview. I pretty much treated AI like I would a normal human.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

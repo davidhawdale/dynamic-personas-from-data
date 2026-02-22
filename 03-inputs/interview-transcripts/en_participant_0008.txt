@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: v0, Figma Make, Cursor
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use AI unintentionally all the time when I'm just Googling things, and the AI summary appears at the top. I find myself using that more than the results sometimes. I also use AI for things like identifying birds. There are AI tools for photo identification or sound identification. Additionally, I use coding tools to build apps in my personal time to gain experience, learn, and have fun. I also rely on AI for translation. In the past, when I've traveled to other countries where I don't speak the language, AI translation has helped with communication.
+
+MODERATOR: You mentioned using AI for bird identification and translation. Could you tell me more about how these AI tools have helped with your hobbies or travel experiences?
+
+PARTICIPANT: Well, for translation, it just helps with communication in situations where I need to ask a question or tell somebody something, and I don't speak the language. So, it's very helpful because it acts as a translator. I think that's a pretty straightforward one. For bird identification, there are apps that let you record sounds or take pictures, and then they identify the type of bird. There are similar ones for plants and other things. That's just for my own edification. It's a hobby, and it makes life more interesting when I can identify the birds around me.
+
+MODERATOR: You mentioned using AI for coding personal projects. What motivates you to build these apps and what kind of things have you created?
+
+PARTICIPANT: What motivates me to build these apps is the fear of being left behind by technology and becoming obsolete. I want to stay current with what's possible and remain relevant to my job. I also find it fascinating to work with an AI assistant that is incredibly good at some things and incredibly bad at others. They can accomplish tasks with code that I am completely unable to do, yet they also make baffling decisions that a human probably would not make. The main project I've worked on is a flashcard app where you can create your own content or import content into it, and it will generate flashcards for you. You can share sets of flashcards and organize them into a curriculum or sequence them in a particular order to create a structured learning path. That's the main thing I've created.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: So this is changing now. But in the past, I've wished I could use AI to do things like, run a heuristic analysis on a design I make to tell me where, where I might be making mistakes or where there are where there's room for improvement. So have it sort of go through a prototype I've created and then report back on how it performs against the sort of classic UX heuristics. It can do that now with static images from what I from what I have seen and what I've tried, And it does okay with that. Not great. I don't think it can still sort of take a whole prototype experience and do a good analysis that way.
+
+MODERATOR: You mentioned AI can analyze static images but not full prototypes. What specific limitations have you encountered when trying to use AI for UX analysis?
+
+PARTICIPANT: The AI agent just doesn't have access to the prototype, and it can't navigate around it. Maybe this has changed now, and perhaps there's a certain way to do it that I don't know. However, I haven't been successful in the past in getting it to actually interact with an interactive prototype that I've created.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I have trouble picturing a perfect AI personal assistant because I don't think I really need one. The most important thing, if I were to need one, would be for it to not hallucinate, for me to be secure that the information it was providing is true and not hallucinations or lies. Often, when interacting with these AI entities, they present information in a very confident and convincing way, even when it's completely wrong. It's really hard to tell the difference or to figure out when those cases are, especially when you're asking about things that you're not an expert in. So that would be the most important thing. I'm not convinced that any of this is better than existing tools. I think there are some really great possibilities out there around prototyping and coding for UX that could make things faster. So far, I would say they're not making things faster in a way that's usable. They can do things faster, but not at the level of quality I need. So overall, it's not faster; it just can't get done correctly. But I think we're making good progress there.
+
+MODERATOR: You mentioned AI tools aren't making things faster at a usable quality level. Could you elaborate on what quality standards you need that current AI tools aren't meeting?
+
+PARTICIPANT: Well, they don't seem to adhere to the style or the constraints that are given to it. For example, in Figma, I can connect it to a design system that's defined in Figma, and I can upload an image created using that design system, an image of a layout using that design system, and ask it to convert that into code. However, it will be wrong in all sorts of wacky ways. It combines different UI elements together in ways that don't make sense. Its color values are either way off or slightly off, and the layout is just different. The time it takes to get it to look like the thing you designed in your design system is much, much longer than if I just did it myself.
+
+MODERATOR: You've shared concerns about AI's accuracy and quality in design tools. Beyond truthfulness and design quality, what other capabilities would make an AI assistant truly valuable for your personal needs?
+
+PARTICIPANT: I don't have a good answer for this. I don't find myself really wanting an AI assistant very often. I think a lot of the things that people would use an AI assistant for, I find more valuable to do myself. For example, an AI assistant can summarize a lot of data or read a PDF and summarize it for me or look up information about something. But in my mind, a big part of the value I get from those things is the act of engaging with the material directly, understanding how it's laid out and how it's presented, and looking for it. It's not just the answer; it's not just the information at the end. It's the whole process of engaging with it, thinking about it, and turning things over in my mind. I worry that AI assistants will skip this process and interfere with people's ability to think critically, synthesize information, and come up with their own ideas. So, I kind of reject the premise of the question.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: There are all sorts of ways they might be connected. For example, it could schedule things for me based on an email I receive. It can update a schedule based on something happening, like if I have an appointment somewhere and then they decide to close that day, it can reschedule for me. However, I don't really want it to do any of those things. I prefer to make those decisions directly. I don't trust an AI assistant enough to know what my choice would be in all those situations. There are lots of other factors involved, so I'm pretty far from wanting an AI assistant to work in that way.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I think it would have felt more natural if the questions were asked verbally or if there was an audio component. I find it sort of uncomfortable to respond verbally to written questions, but maybe that's just me. I think the questions were fine; they were relevant and reflected what I had said previously. So, all good with that.
+
+MODERATOR: You mentioned the questions reflected your previous answers well. Could you elaborate on how this AI interview experience compared to human interviews you've had?
+
+PARTICIPANT: It's hard to make a comparison because human interactions feel very different than having a conversation with someone where I can tell from their tone and what they perk up at, like what I might have said that would have piqued their interest and vice versa. This feels more mechanical, not necessarily in a bad way, but it just doesn't feel like a similar type of interaction to me.
+
+MODERATOR: You mentioned missing the non-verbal cues and tone from human interviews. How does this affect the depth or quality of your responses in an AI interview?
+
+PARTICIPANT: I think I mirror back the sense of it being mechanical in the way I respond. There's a lack of warmth and a lack of connection, and I believe that affects how I choose to engage.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

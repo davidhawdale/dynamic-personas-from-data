@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Monthly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I have used ChatGPT to write cover letters and update my resume about a year ago when I was looking for a job. I have also used it for recipe ideas, and I've uploaded pictures to turn them into black and white pages that kids can color.
+
+MODERATOR: Tell me more about using AI for recipe ideas. What kind of recipes were you looking for?
+
+PARTICIPANT: I had heard a friend used AI for recipe ideas, so I just typed in toddler-friendly meals because I'm a mom. I haven't tried it for adult meals yet, but I am intrigued by the idea. I didn't have a specific recipe in mind, just kind of sick of everything I make.
+
+MODERATOR: You mentioned using AI for job applications and recipes. Did you use it for any other personal tasks?
+
+PARTICIPANT: The other task I used AI for was to make coloring pages. I uploaded a photo of my family and then asked AI to turn it into black and white to create a coloring page. I had seen on social media that this was something you could do to create a customized coloring book.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I tried to use AI for something, but I couldn't find a specific example. One time, I attempted to upload a photo, and it said that it was inappropriate, so I couldn't turn it into a coloring page. However, I was actually kind of pleased that it rejected my photo because it was one that I hadn't considered inappropriate. It was a picture of my daughter using the potty, which I thought would be fun to turn into a coloring page, but it never occurred to me that it was inappropriate.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Imagine my perfect AI personal assistant. I am a little old school and a bit nervous about using AI exclusively. I always like to double-check that it's accurate, both in work and outside of work. So, I don't know if it would handle anything financial for me because I would be worried about it getting it wrong. However, I would be interested in continuing to use it for work, but I also have concerns that it might replace me. So, I don't know if I would have a solid answer to this question.
+
+MODERATOR: I understand you have some concerns about AI. But let's imagine an AI assistant that addresses those concerns - what tasks would you want it to help with in your daily life?
+
+PARTICIPANT: AI in my daily life. I mean, right now, I like that it provides suggested text when I'm emailing. I would like that to continue. I like that it provides summaries for web pages. But again, I don't think I have a good answer because I'm not sure what else it could do. It can't drive a car, it can't take care of my child, and it can't buy groceries for me. So I think right now, I'm just enjoying its current capabilities. I don't yet have a full grasp of what it could do.
+
+MODERATOR: You mentioned enjoying AI's help with emails and summaries. What other daily tasks do you find time-consuming that AI could potentially help with?
+
+PARTICIPANT: I suppose that AI could book appointments for me. So if I wanted to book a nail appointment, acupuncture, or a doctor, it could help with that.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I think AI is currently connected to my email because I have Gmail, and it suggests potential replies to emails already. AI is also interconnected with some of the tools that I use for work, like video editing and transcription, which I love. I think, in terms of my calendar, AI could be helpful because it could inform me if I'm busy during a certain time or if the person I want to meet with is busy. If it notices something that happens regularly, it would notify me that it's recurring, which I think it does right now. So, I guess it would enable me to be more efficient. However, I would be worried about errors, so I would want to double-check things. I would prefer to approve items before they automatically go to email or send a calendar invite.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I really liked how the AI was dynamic and how it provided customized questions based on my previous responses. That was pretty cool. What was different about the experience is that it kind of asked the same question multiple times. It wasn't satisfied with my answer. I think a human would probably rephrase it, reframe it, or provide an example. But overall, this was definitely better than I had expected.
+
+MODERATOR: You mentioned the AI asked similar questions multiple times. How did that affect your engagement with the interview?
+
+PARTICIPANT: You mentioned that the AI asked similar questions multiple times. How did that affect your engagement with the interview? I think I was just kind of frustrated because I didn't have a good answer, and I would have liked it if it was a human who could have pivoted and maybe asked something else. So, it felt a little bit limiting, but I don't think the stakes were very high here, so it didn't matter that it wasn't, you know, the world's greatest interview. It could be a bigger issue if I was interviewing for a job or in a work meeting with a client. But overall, I would say this was more than adequate.
+
+MODERATOR: You mentioned wanting the AI to pivot when answers weren't great. What kind of follow-up approaches would have worked better for you?
+
+PARTICIPANT: Follow-up approaches that would have worked better would have been rephrasing the question. For example, when I said, "What do you want AI to do for you that it currently isn't doing?" I didn't have an answer to that, really. I don't really know what AI can do. So a better question would have been, "What are some tasks that are really time-consuming and arduous in your life today?" Something less direct and more indirect.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

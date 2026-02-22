@@ -1,0 +1,58 @@
+*Q1*
+MODERATOR: What AI tools have you used for personal tasks (outside of work) in the last 3 months? Select all that apply.
+
+*Q2*
+MODERATOR: How often do you use AI tools personally?
+
+*Q3*
+MODERATOR: I would now like to know more about your AI usage habits and the limitations of current tools...
+
+*Q4*
+MODERATOR: For what types of personal tasks do you most often use AI? Give me some concrete examples.
+PARTICIPANT: I use AI to find cooking recipes with what I have in my fridge, to help me write emails when I need a particular tone or phrasing that I can't find. I sometimes have a bit of trouble finding, and it also helps me find itineraries, restaurants, or places of interest when I go on vacation.
+
+MODERATOR: Tell me more about how you use AI for travel planning. What kind of help are you looking for exactly?
+PARTICIPANT: I will ask it questions about the destination and, for example, use Tilt prompts: "Find me a restaurant near the beach, open on a Saturday night, where I can enjoy both seafood and meat for my partner."
+
+MODERATOR: You mentioned using AI for recipes. How does AI help you exactly in this area?
+PARTICIPANT: For recipes, I will tell Liya what items I have in my fridge and in my cupboard. I will tell it that I am looking for a healthy recipe ready in less than 30 minutes. If the recipe I get doesn't suit me, I will ask it to try other recipes.
+
+*Q5*
+MODERATOR: Tell me about a time when you wanted to use AI but couldn't. What was the task? What prevented you from doing it?
+PARTICIPANT: It wasn't a personal task, but a professional task. I had to define random teams and had provided a list of names and surnames with the team in which the people were. I asked it to make teams where there was at least one specific person in each team. For example, I had John from the product team and Mathilde from the tech team, as well as many other names from the product team and the tech team. I told it to make teams of six with at least three people from the product team and three people from the tech team. I couldn't succeed because the file was too big, there were two hundred and fifty names, and it told me that the file was too big and that with the free version, I couldn't do what I wanted. So, I had to do it manually.
+
+MODERATOR: Did you look for other AI solutions that could have handled this task of creating teams, or was the size limitation the main problem?
+PARTICIPANT: So yes, I tried to look for other AI solutions. I went through Gemini in particular. The size limitation was no longer the main problem. So, the problem was just that it created lists with a lot of duplicates. For example, we had Mathilde twice in the same team, or Mathilde was in three different teams, so it was impossible. I still had to go back and redo it 100% myself, because in fact, it was too long to ensure that each team was correct. It was faster to do it myself and start from scratch.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions provided by AI tools?
+
+*Q7*
+MODERATOR: Finally, I would like to know what the ideal AI assistant would look like for you...
+
+*Q8*
+MODERATOR: Imagine you have a perfect personal AI assistant. What would be the most important things it would do for you? How would it be better than current tools?
+PARTICIPANT: For me, a perfect personal assistant would be one that helps me in my personal life to manage my mental load, especially by allowing me to save time, for example, for shopping or planning appointments with the doctor or the vet. It would automatically record my alerts in my calendar, with reminders at the right time to remind me what I need to do. In fact, overall, it's someone who would take initiatives, more than an assistant who would wait for me to tell it to do things. How would it be better than current tools? I think it's precisely the proactivity versus passivity part.
+
+MODERATOR: You mentioned proactivity as a key improvement. Can you give me concrete examples of how this ideal AI assistant would take initiatives proactively?
+PARTICIPANT: A concrete example would be that I notice there is no more butter in the fridge, and I therefore add butter to my shopping list. The productivity would be that, via my drive application, it directly adds the butter to my cart, knowing that it's the butter I usually buy, since it knows it. It's the same principle for medical appointments. For example, analyzing the fact that I go to the hairdresser every six weeks and reminding me to make an appointment a few weeks before, automatically recording appointments in my calendar and having reminders the day before, for example an hour before. Basically, it's scanning my life habits to simplify my life and offer me initiatives that are aligned with my usual lifestyle, whether it's for shopping, recipes, or appointments with the beautician, hairdresser, doctor, etc., when these are usual things that keep coming back.
+
+MODERATOR: You talked about AI analyzing your habits. How would you like AI to handle exceptions or changes in your routine?
+PARTICIPANT: In case of a change in routine, for example, if Sylvia sees that the pencil is clogged, the hairdresser doesn't come every 6 weeks but every 8 weeks, it asks me if I want to keep this new habit and therefore schedule all my future appointments for 8 weeks, or if it's exceptional and it should keep its usual routine outside of this event.
+
+*Q9*
+MODERATOR: You have already mentioned the agenda and shopping. How could AI be connected to other systems you use? What would this allow you to do?
+PARTICIPANT: Overall, the goal would be for AI to be connected, for example, to my agenda, my shopping list, my Drive app, my Planity app for the hairdresser or for regular appointments, like the beautician, etc. This would allow AI to be proactive in scheduling appointments and reminders. For cooking, we generally eat the same things regularly, so it should be connected to my Notes app where I have all my recipes, so I can have relevant recipes according to my tastes, which it knows from all the recipes I've already saved. That's what I like and want to eat, so it can suggest recipes based on those tastes and add all the ingredients directly to my Drive to save me time and lighten my mental load.
+
+*Q10*
+MODERATOR: Before concluding, I would like to know your feelings about being interviewed by an AI...
+
+*Q11*
+MODERATOR: How did you feel being interviewed by an AI rather than a human? What differed in this experience?
+PARTICIPANT: I think AI is less spontaneous than humans. It sticks to a given script, whereas humans will react to my expressions, emotions, and the unspoken parts of my sentence to ask even more targeted questions. AI, on the other hand, tends to stick more to its script.
+
+MODERATOR: You say AI is less spontaneous. How does this affect the quality of the answers you give?
+PARTICIPANT: I don't know, overall I feel like the questions might be a bit redundant compared to the first questions, we are unable to ask it to clarify certain things. So, I don't know if, for example, I completely forgot to say that AI could also help me manage all my emails, in scheduling appointments with the bank. If the bank sends me an email to propose an appointment, it should still check my agenda to see if I'm available and if so, be able to propose sending emails on my behalf to confirm the appointment with the bank, etc. I find that it's a bit more structured, but not necessarily in a good way, as it prevents spontaneity on our side and exploring certain answers that could be interesting for humans.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and opinions on AI tools! Your feedback will help us create better AI assistants, truly tailored to people's needs.

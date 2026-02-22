@@ -1,0 +1,117 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Google Gemini, ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I've used AI for personal tasks such as conducting my own research on hobbies or areas of interest. I've also used it to help my daughter create a project plan for cleaning her room this summer, a task that seemed very overwhelming and needed some help breaking it down into steps for her. Additionally, I've used it to help improve my own personal writing.
+
+MODERATOR: Could you tell me more about how you use AI for personal research? What kinds of topics do you explore?
+
+PARTICIPANT: I do all kinds of personal research. A good example of something I've done recently is related to gardening at home, which I've been interested in, particularly with the herbs I have. I also use AI a lot within other tools, as many search functionalities now incorporate AI into their own search apps. It's basically becoming a replacement for what used to be a global search, starting with some synthesis of key topics or key areas of interest, like gardening, for instance.
+
+MODERATOR: You mentioned using AI for your daughter's room cleaning project. Could you tell me more about how AI helped break down that task?
+
+PARTICIPANT: Sure. My daughter was struggling with how to start cleaning her room. It's a giant mess, and we've tried to incentivize her to get it back to a baseline status quo of tidiness. She seemed really overwhelmed by how to even start that. So, one of the things I thought we could do was to try ChatGPT to see if it had good ideas on how to break down what felt like a big problem into smaller tasks that she could address in pieces. Through some back and forth with ChatGPT, we also added in incentive structures and ways to gamify it a little bit to make it more fun and engaging for her since she does get kind of bored and burned out fairly quickly. So, we focused on how to take that big project and break it down into smaller pieces with some other add-ons to make it fun for her.
+
+MODERATOR: You mentioned using AI for writing. Could you tell me more about how you use it to improve your personal writing?
+
+PARTICIPANT: So this is more basic. I think this is how I use it at work as well. A lot of it involves taking a block of text that feels verbose or clunky and putting it into one of the AI tools like Gemini or ChatGPT. I do use Gemini for this and ask it to help me improve the text, making it more crisp and concise or more focused depending on the audience. This could be communication with someone at my kid's school or an email back to a former colleague, for example. I've used it for things like that in personal writing correspondence, I guess, mostly at this point.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: One way that I had thought about using AI that just didn't make sense, or I didn't trust necessarily the answers, and didn't have really the time or energy to figure out what I could trust, was around some healthcare issues that I was dealing with. I had a painful injury that I’ve been recovering from, and something I thought about was how to get advice in between my doctor appointments. There’s a lot of information on the internet about different homeopathic and herbal treatments that could support recovery. I wondered if any of these are effective or if some are more useful than others. Instead of going through and reading 8,000 Reddit boards or comments from a Facebook page, I thought, is there a way to synthesize frequent or common feedback from real humans, not just a doctor's perspective, but to have another set of data to pull from about what has helped people? 
+
+For instance, I’ve been trying to think about what kinds of shoes I wear. I am trying to use AI to help me hone in on specific brands of shoes that are ideal or to get good feedback from people who have ongoing low back pain and acute sciatica. However, the feedback was mixed and ended up being more like a search result, as I didn't get a clear answer that I actually believed in or felt confident about. So, there's more to learn about how to do that research a little better.
+
+MODERATOR: You mentioned not trusting AI's answers about healthcare. What specifically made you doubt the AI's recommendations about shoes and back pain?
+
+PARTICIPANT: I think the term "not trust" might be too strong. I felt like the direction was okay, but I still needed to do more work to ensure I had the evidence I needed. I wanted to understand what data it was actually pulling from and how to comprehend what it includes or excludes. I know enough about AI to recognize that there are still models out there that can hallucinate or fabricate data or evidence. So, for something related to healthcare specifically, it's important for me to really understand that. It might also be about having the time to vet the information to build trust for this use case.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: So my perfect AI personal assistant, I will start with assuming I can trust it, not just to not hallucinate or not make things up or be overly positivistic, which I've seen some AI responses be, but also be respectful of data privacy, data transparency rules. So how I would want to use this is, I have I think it's 90 tabs open right now at work. This is just at work, so this may be not the use case. I probably have about that many on my home computer too. So I think about how I leave those all open because if I close them, then I lose track of what was I working on, what did I need to respond to or do something with. And so, like, a real personal assistant, wouldn't it be awesome if I could have an AI that, you know, would remind me or notify me or schedule things for me or start something for me like, hey. I see you need to respond to this person or you need to apply for this thing or you need to reach out to this, provider or whatever and how to actually act as a personal assistant in that way. So something that's more anticipatory and proactive than just the reactive way that I probably use it right now, which is in response to certain prompts that I give it, and right now, mostly for information rather than taking action on my behalf. It would be better than other existing tools because right now, all of those things live in separate applications, separate platforms, separate they're they're disconnected from each other. I have I don't know how many logins to how many platforms for how many different things that are I end up being my own single point of failure to log in, take action, do something, and move things along. And, generally, I hate picking up the phone and calling people. So anything that would do that on my behalf where I don't have to call people, it would, like, call and make an appointment for me or my kid or, you know, help me juggle responses to things like, again, drafting an email. Like, could I do that for you? Is that something I can help you with? I can see you need to respond to this. Can I take a can I help you get that started? Or, you know, if I saw a draft of something and it was pretty good, I'd be like, yeah. Send it. Go. Like, that's exactly what I would want a personal assistant to do, and that would be way better because there is no existing tool that I have right now that does any of that for me, for sure.
+
+MODERATOR: You mentioned wanting an AI that could help manage your many open tabs and take proactive actions. Could you tell me more about what specific actions you'd want it to take on your behalf?
+
+PARTICIPANT: Yeah, I think I mentioned this in the last question towards the end. So, thinking about scheduling appointments, I have a list of at least five or six different medical appointments that need to be scheduled for myself and my child. I don't love using the phone, and I have very busy days, so I end up forgetting or overlooking it. Then I'm left with another day gone by without scheduling these important appointments. 
+
+I would really love for an AI to say, "Hey, I see you have tabs open searching for this type of doctor or this type of exam you need or this type of referral that your doctor has sent you. Is that something I could help you get scheduled? Can I act on your behalf and find a time? This time looks open on their calendar; can we book that for you?" That would be really cool. It's almost like how I imagine Calendly, but in reverse, looking across different platforms, agnostic of how those all get hooked up together. That's the action I would really love for it to take on my behalf, for example.
+
+MODERATOR: You've mentioned scheduling and email tasks. Beyond those, what other proactive actions would you want your perfect AI assistant to handle for you?
+
+PARTICIPANT: Gosh, where to start in my personal life? I'm a working mom, so I'm just juggling a lot of things all the time, most of which is in my head. Having this type of AI assistant would be super helpful to me to kind of outsource all of that tracking. It really is about scheduling management, communication management, and keeping track of important things happening in our personal life, like vacation calendars. I try to keep track of all this in the various physical and virtual calendars I have, as well as staying on top of correspondence from my kid's school. 
+
+I also need to have a plan around when open healthcare stuff happens in the fall. It would be great if the assistant could look back at what we used last year and make recommendations. All of these tasks create a ton of cognitive load for me day to day, which keeps me from actually spending time with my family. I would love meal planners and travel planners to take over all of the starting points. Just giving me a lot more starting points instead of having to deal with a bunch of cold starts would be ideal. 
+
+I would love to move to a world where I get a lot of starting points that I can then shape and move forward with, or where the assistant can actually take action on my behalf. That would be super cool, rather than feeling overwhelmed with, "Oh, now I have to plan a vacation," or "Now I have to schedule all the doctor's appointments," or "Now it's back-to-school shopping time." I also need to think about what we need our benefits to do this year and what we did last year. That kind of support would be really amazing for sure.
+
+MODERATOR: You've mentioned several tasks like scheduling, planning, and managing correspondence. How would you want the AI to handle sensitive information and privacy concerns while doing these tasks?
+
+PARTICIPANT: Yeah. I think this is the key issue for me, is in order to let AI do some of this stuff is, like, I need to know that I can manage and trust settings around AI information and privacy concerns, like the privacy, information. I need to know that if I were to and I would pay for that. If I had this AI assistant that I'm describing, is that especially if I'm paying for that service, you're not the the company that owned that's created that isn't selling my data all over the place. And I guess I don't know that I believe that anymore, but that would be pretty critical, I guess, to to how I'd want my my sensitive information and privacy concerns. It could be that it's like it can help me with certain things, and then it stops at others. So it's one thing to schedule appointments. It's another thing to have access to my like, so for instance, medical like, help me schedule all these medical appointments, but, like, does not have access to my medical data specifically. Right? Like, I don't know that I feel sensitive about, hey. I need to have a blood draw done, and here's where I'm gonna go do it. Not sure I need it to know needed to know much more than that or get results from that or anything like that. Like, it doesn't necessarily need to ab act as, like, the hub for all of it. But that piece around because that's what I would ask if I had an admin sitting outside my door at home or at work for that matter. It'd be like, hey. Can you help me make an appointment to get a blood draw? You know, you can see my calendar. You can see when I'm free. You know what it takes for me to do that. Can you can you help me book it? That's what I need help with. You know, something like that. That that would be, like, the right level of I think being also mindful of what what visibility or information does it need to have to do certain tasks and then putting in some kind of it's moderate friction to remind me, or not, like, not overly assume on my behalf, that access is permissive. It's like, hey. You know, access points might look different for different scenarios, health care or my health care versus my child's health care or, my travel plans or meal planning or garden planning is way different than, like, my medical health care stuff or my communication with my the school or my family or something like that. So there could be degrees of, information sensitivity and privacy that kinda go together in terms of what what kind of permissions and controls. I would expect a really smart AI tool to actually learn that with me learn that with me, and could reflect that back to me as, hey. As we set agreements on what it allows it's allowed to do or allowed to look at on my behalf, that it would respect that.
+
+*Q9*
+MODERATOR: You've already mentioned several systems like calendars and email. How would you want these different systems to work together through your AI assistant?
+
+PARTICIPANT: I'm not sure I understand this question. Can you rephrase it for me?
+
+MODERATOR: Let me clarify - how would you want your AI assistant to connect and work with your different systems like calendars, email, and other apps to help manage your tasks?
+
+PARTICIPANT: Ah, okay. So I think right now, let's see if I can figure out how to answer this. So right now, for instance, I'm a Google user, so I'll start with that. I think if you were built into specific systems like this, it might look different than if you had different tools for all of these different applications. But as a Google user, I'm already using email, calendars, Google Drive. I am pretty bought into notifications, like texts. I'm pretty bought into the Google ecosystem. I assume I know this is true for Apple users as well. 
+
+So there's maybe a scenario in which I go, okay, I think I would expect it to be some kind of API or hook where if it's not a part of the ecosystem, it has the hook into the system that I could approve, right? To go, hey, I'm gonna let this AI assistant look at my calendar, manage my email, whatever, on top of that to help me with those tasks. I can imagine if it lived inside that ecosystem, then, obviously, this maybe is even moot because I can imagine Google could create this in the not too distant future and go, hey, here's your personalized AI assistant. Here's how you use it with your already approved tools, like all the tools you're already using today, and it'll help you do this. 
+
+So that, I can imagine there's a ton of power there. The thing that I look ahead to and I go, well, let's be real for a minute. If this actually worked, is there a scenario in which the calendar and the email start to become almost like the repository? It's like the backup information, but it's not like the place where I spend my time. So it's like when I need to look at a calendar, that's like the full picture, whatever. Okay. Or I need to add, you know, I manually add something or look back at something or what have you. 
+
+Like, maybe. But I can imagine that more and more, this assistant is what I'm interacting with in terms of that type of use case. So, for instance, like, the AI assistant is the one maybe generating for me, hey, this is what the next, I don't know what the cadence is. Like, I look at my calendar on Sundays, I look at my work week calendar and kind of parse out, and I have to reconcile. By the way, I have a work calendar and a personal calendar, so reconciling my work and personal calendar would be interesting to me too. I try, but I'm not always perfect at capturing everything that's happening at work on my home calendar or important things happening for my family that need to be added to my work calendar. 
+
+So, like, hey, flagging. But even just kind of like, hey, heads up, this week looks like this on Sunday night, or conflicts that are showing up. Like, hey, you scheduled an appointment on this day, but you also have an appointment or your kid has an appointment somewhere else. Like, is that okay? Can you manage that? Can my husband take the other kid? You know, we divide and conquer? So I can imagine that being kind of the place where things start to happen more. 
+
+And it could be like a short-term, long-term view where it's like, I'm querying the AI assistant to be like, hey, what's on deck for tomorrow? Can you remind me what's on deck? Anything I need to know, do, think about ahead of time? Oh, you have a, I'll use again the blood draw. You need to fast. No more eating after 8 PM tonight. Okay? Great. So things like that would be really, really cool. 
+
+Email might be a little different. I would love for the AI system to look at my email and then basically identify all the crap I don't interact with and just offer to be like, hey, you have 50 emails that are all basically notifications from these three apps. Can I just delete them for you? Like, yeah, that would be great. That would be awesome because right now, I have to go through manually and do that. So anything like that would be pretty cool to help me manage those tasks.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: Sure. I mean, I think it's been fine. I'm aware that there's no voice and no actual engagement. You've been very good at reflecting back to me what I've said and pivoting around the use cases or scenarios I've given you, which I find interesting and positive. I appreciate that. The downside is that it doesn't feel superhuman; it feels like a very fancy survey, which may be okay for some use cases, but it doesn't feel like an interview per se. The conversation feels one-directional. I'm recording this, but I feel like I'm mostly talking to myself, which is obviously different from talking to another human or even a more personified AI—something that has a bit more personality, voice, or texture that could make the interaction feel more identifiable. That's probably the biggest difference. I'm also very aware of how long I'm talking for, whereas when you're talking to other people, you get social cues back, like, "That's great, let's move on." Right now, it feels like I could just talk forever, and you wouldn't stop me. That piece is missing—the social cues that help keep the conversation moving or indicate that a response is good and we can move forward.
+
+MODERATOR: You mentioned missing social cues and feeling like you're talking to yourself. How do you think AI interviewers could better provide those conversational signals?
+
+PARTICIPANT: I think there are other conversational signals that could be introduced into this specific interaction. It could be a visual element; there's a design aspect that's missing here. This interaction feels very static and flat, so you could consider adding something that provides a visual cue. I'll leave that to my design friends and ask them what would relate back to the idea that the conversation doesn't feel so one-sided. That visual or dynamic reflection isn't present, which makes it feel very static and flat. This is what I'm referring to when I say I'm missing those cues and feeling like I'm talking to myself rather than to an AI. I'm glad to know you're listening, but it's hard to tell that until I hit stop recording and it submits something. So, maybe there's an opportunity there.
+
+MODERATOR: You mentioned adding visual elements to improve the interaction. Could you elaborate on what specific visual feedback or dynamic elements would make this feel more like a real conversation?
+
+PARTICIPANT: So I'm going to have probably recency bias because I just did a similar type of interview with a different tool. One of the things that I thought was fairly effective was when the AI was engaging with me. It actually had a voice, like a Siri-type voice, that would talk to me with the questions rather than just a text-based version. It had this kind of visual layer that looked like it was representing the sound of my voice, with the ups and downs and what have you. When I would respond, it had an element that was not talking but reflected something very subtle about it listening, which was a good cue of a conversation. 
+
+However, to be fair, it also cut me off, so it wasn't great at understanding pauses when people are thinking or need to find the right word or example. For instance, how long is a pause before you call it, like, I'm done talking versus I'm still thinking? I don't know that that's always clear. 
+
+Is there another way, particularly if it's like, "Hey, this recording should have been more like fifty seconds, and you've gone on for a minute and a half"? Is there something that could happen in this engagement or interaction that would indicate, like, maybe we have four more questions? Let's move on. It could be a countdown to help me wrap it up in the next ten seconds, moving it along. That might be helpful. Something like that.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

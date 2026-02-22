@@ -1,0 +1,484 @@
+{
+  "transcript_count": 53,
+  "transcripts": [
+    {
+      "id": "en_participant_0001",
+      "participant_id": "1",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0001.txt",
+      "size_bytes": 6583
+    },
+    {
+      "id": "en_participant_0002",
+      "participant_id": "2",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0002.txt",
+      "size_bytes": 6065
+    },
+    {
+      "id": "en_participant_0003",
+      "participant_id": "3",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0003.txt",
+      "size_bytes": 7175
+    },
+    {
+      "id": "en_participant_0005",
+      "participant_id": "5",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0005.txt",
+      "size_bytes": 13067
+    },
+    {
+      "id": "en_participant_0006",
+      "participant_id": "6",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0006.txt",
+      "size_bytes": 13259
+    },
+    {
+      "id": "en_participant_0007",
+      "participant_id": "7",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0007.txt",
+      "size_bytes": 4026
+    },
+    {
+      "id": "en_participant_0008",
+      "participant_id": "8",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0008.txt",
+      "size_bytes": 10024
+    },
+    {
+      "id": "en_participant_0009",
+      "participant_id": "9",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0009.txt",
+      "size_bytes": 11626
+    },
+    {
+      "id": "en_participant_0010",
+      "participant_id": "10",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0010.txt",
+      "size_bytes": 6176
+    },
+    {
+      "id": "en_participant_0011",
+      "participant_id": "11",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0011.txt",
+      "size_bytes": 6273
+    },
+    {
+      "id": "en_participant_0012",
+      "participant_id": "12",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0012.txt",
+      "size_bytes": 4694
+    },
+    {
+      "id": "en_participant_0013",
+      "participant_id": "13",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0013.txt",
+      "size_bytes": 5637
+    },
+    {
+      "id": "en_participant_0014",
+      "participant_id": "14",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0014.txt",
+      "size_bytes": 10919
+    },
+    {
+      "id": "en_participant_0016",
+      "participant_id": "16",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0016.txt",
+      "size_bytes": 7681
+    },
+    {
+      "id": "en_participant_0017",
+      "participant_id": "17",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0017.txt",
+      "size_bytes": 4045
+    },
+    {
+      "id": "en_participant_0018",
+      "participant_id": "18",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0018.txt",
+      "size_bytes": 14009
+    },
+    {
+      "id": "en_participant_0019",
+      "participant_id": "19",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0019.txt",
+      "size_bytes": 9794
+    },
+    {
+      "id": "en_participant_0020",
+      "participant_id": "20",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0020.txt",
+      "size_bytes": 6515
+    },
+    {
+      "id": "en_participant_0021",
+      "participant_id": "21",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0021.txt",
+      "size_bytes": 3900
+    },
+    {
+      "id": "en_participant_0022",
+      "participant_id": "22",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0022.txt",
+      "size_bytes": 15780
+    },
+    {
+      "id": "en_participant_0023",
+      "participant_id": "23",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0023.txt",
+      "size_bytes": 5935
+    },
+    {
+      "id": "en_participant_0025",
+      "participant_id": "25",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0025.txt",
+      "size_bytes": 6742
+    },
+    {
+      "id": "en_participant_0028",
+      "participant_id": "28",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0028.txt",
+      "size_bytes": 7640
+    },
+    {
+      "id": "en_participant_0029",
+      "participant_id": "29",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0029.txt",
+      "size_bytes": 5252
+    },
+    {
+      "id": "en_participant_0030",
+      "participant_id": "30",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0030.txt",
+      "size_bytes": 13240
+    },
+    {
+      "id": "en_participant_0031",
+      "participant_id": "31",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0031.txt",
+      "size_bytes": 8029
+    },
+    {
+      "id": "en_participant_0032",
+      "participant_id": "32",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0032.txt",
+      "size_bytes": 8439
+    },
+    {
+      "id": "en_participant_0033",
+      "participant_id": "33",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0033.txt",
+      "size_bytes": 3768
+    },
+    {
+      "id": "en_participant_0034",
+      "participant_id": "34",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0034.txt",
+      "size_bytes": 10446
+    },
+    {
+      "id": "en_participant_0035",
+      "participant_id": "35",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0035.txt",
+      "size_bytes": 6846
+    },
+    {
+      "id": "en_participant_0036",
+      "participant_id": "36",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0036.txt",
+      "size_bytes": 5669
+    },
+    {
+      "id": "en_participant_0037",
+      "participant_id": "37",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0037.txt",
+      "size_bytes": 7760
+    },
+    {
+      "id": "en_participant_0038",
+      "participant_id": "38",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0038.txt",
+      "size_bytes": 4738
+    },
+    {
+      "id": "en_participant_0039",
+      "participant_id": "39",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0039.txt",
+      "size_bytes": 3416
+    },
+    {
+      "id": "en_participant_0040",
+      "participant_id": "40",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0040.txt",
+      "size_bytes": 4798
+    },
+    {
+      "id": "en_participant_0042",
+      "participant_id": "42",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0042.txt",
+      "size_bytes": 14708
+    },
+    {
+      "id": "en_participant_0043",
+      "participant_id": "43",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0043.txt",
+      "size_bytes": 7920
+    },
+    {
+      "id": "en_participant_0044",
+      "participant_id": "44",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0044.txt",
+      "size_bytes": 8864
+    },
+    {
+      "id": "en_participant_0045",
+      "participant_id": "45",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0045.txt",
+      "size_bytes": 10882
+    },
+    {
+      "id": "en_participant_0046",
+      "participant_id": "46",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0046.txt",
+      "size_bytes": 8050
+    },
+    {
+      "id": "en_participant_0047",
+      "participant_id": "47",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0047.txt",
+      "size_bytes": 8741
+    },
+    {
+      "id": "en_participant_0048",
+      "participant_id": "48",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0048.txt",
+      "size_bytes": 6443
+    },
+    {
+      "id": "en_participant_0049",
+      "participant_id": "49",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0049.txt",
+      "size_bytes": 10724
+    },
+    {
+      "id": "en_participant_0050",
+      "participant_id": "50",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0050.txt",
+      "size_bytes": 22660
+    },
+    {
+      "id": "en_participant_0051",
+      "participant_id": "51",
+      "language": "en",
+      "source_language": null,
+      "translated": false,
+      "path": "03-inputs/interview-transcripts/en_participant_0051.txt",
+      "size_bytes": 4372
+    },
+    {
+      "id": "en_translated_from_de_participant_0007",
+      "participant_id": "DE7",
+      "language": "en",
+      "source_language": "de",
+      "translated": true,
+      "path": "03-inputs/interview-transcripts/en_translated_from_de_participant_0007.txt",
+      "size_bytes": 4116
+    },
+    {
+      "id": "en_translated_from_es_participant_0005",
+      "participant_id": "ES5",
+      "language": "en",
+      "source_language": "es",
+      "translated": true,
+      "path": "03-inputs/interview-transcripts/en_translated_from_es_participant_0005.txt",
+      "size_bytes": 13312
+    },
+    {
+      "id": "en_translated_from_fr_participant_0001",
+      "participant_id": "FR1",
+      "language": "en",
+      "source_language": "fr",
+      "translated": true,
+      "path": "03-inputs/interview-transcripts/en_translated_from_fr_participant_0001.txt",
+      "size_bytes": 6727
+    },
+    {
+      "id": "en_translated_from_fr_participant_0036",
+      "participant_id": "FR36",
+      "language": "en",
+      "source_language": "fr",
+      "translated": true,
+      "path": "03-inputs/interview-transcripts/en_translated_from_fr_participant_0036.txt",
+      "size_bytes": 5757
+    },
+    {
+      "id": "en_translated_from_fr_participant_0037",
+      "participant_id": "FR37",
+      "language": "en",
+      "source_language": "fr",
+      "translated": true,
+      "path": "03-inputs/interview-transcripts/en_translated_from_fr_participant_0037.txt",
+      "size_bytes": 8059
+    },
+    {
+      "id": "en_translated_from_pl_participant_0013",
+      "participant_id": "PL13",
+      "language": "en",
+      "source_language": "pl",
+      "translated": true,
+      "path": "03-inputs/interview-transcripts/en_translated_from_pl_participant_0013.txt",
+      "size_bytes": 5807
+    },
+    {
+      "id": "en_translated_from_pl_participant_0017",
+      "participant_id": "PL17",
+      "language": "en",
+      "source_language": "pl",
+      "translated": true,
+      "path": "03-inputs/interview-transcripts/en_translated_from_pl_participant_0017.txt",
+      "size_bytes": 4187
+    },
+    {
+      "id": "en_translated_from_pl_participant_0021",
+      "participant_id": "PL21",
+      "language": "en",
+      "source_language": "pl",
+      "translated": true,
+      "path": "03-inputs/interview-transcripts/en_translated_from_pl_participant_0021.txt",
+      "size_bytes": 4092
+    }
+  ],
+  "research_brief_path": "03-inputs/research-brief.md",
+  "warnings": []
+}

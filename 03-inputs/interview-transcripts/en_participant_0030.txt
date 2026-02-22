@@ -1,0 +1,85 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Gamma and Loveable as well
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I run my own consulting firm, so this might distort my answer a little bit. I like Jasper for creating marketing content. Obviously, ChatGPT is really helpful. I love asking ChatGPT and OpenAI various questions, whether they are random inquiries about how things work, facts about history, or analysis of music. It's particularly useful for finding recipes or coming up with a new dish based on what I have at home. I think it's very good for reasoning; for more complex requests, it can perform regression analysis and analyze large datasets in really impressive ways. For example, I was helping to build my resume and wanted to use job descriptions from various similar job titles. I input a bunch of those job descriptions into ChatGPT and created a keyword hotspot to see which ones were the most common, which I could then use. There are a ton of different tasks that I use it for. I also like Flexi, and I find Gamma really helpful for creating presentations.
+
+MODERATOR: You mentioned using AI for recipes. Could you tell me more about how you use AI to create dishes with ingredients you have at home?
+
+PARTICIPANT: This is pretty straightforward. I just look at what I have in my refrigerator, or I try to start with a series of ingredients that I like. But usually, it's kind of necessity being the mother of invention. What can I do with what I have? I have rice, chicken, cumin, and chickpeas. What can I make with that? Oh, well, I could do a stone pot, you know, cooked rice dish. So it's more about how I can Frankenstein something with what I already have.
+
+MODERATOR: You mentioned using AI for data analysis and presentations. Could you share more about how you use tools like Gamma for creating presentations?
+
+PARTICIPANT: Scam is really great for any type of presentation that you need to create. They, you know, out of the box, have really solid aesthetic and well designed looking presentations. And I use it anytime I need to. So when I was creating a company, I needed some sales decks. You know, I'm trying to help my friend with a pitch deck. It's just a really great way to do presentations way faster than if you use PowerPoint or Google Slides.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: One of the main daily uses of AI that I hope will occur sooner rather than later is a more nuanced task listing tool. I would like to see a way to view my to-do list and track my grocery shopping history. It would be great if there were suggestions, like, "Hey, it's approaching Christmas. Have you considered getting X, Y, Z?" or "It's October; maybe consider more pumpkin-style dishes." There are many direct-to-consumer applications that could really benefit from AI. Additionally, having AI handle accounting tasks would be incredibly helpful. Right now, the notes app on Apple is okay for list building and to-do lists, but it could be radically improved.
+
+MODERATOR: You mentioned wanting AI for task listing and grocery suggestions. What specific features would you want in an AI task management tool that current apps don't provide?
+
+PARTICIPANT: I think in terms of some features, I'd like suggestions specifically for the grocery store list. It's like, "Hey, here are the most common items that you have." If you consider this, here are items that other people also bought. Here are some dish suggestions. There are just ways to provide more valuable suggestions and advice based on your current consumption and consumer behaviors. So, yeah, I think you mentioned the suggested components, and then just a consolidated basis for it, along with a nice UI/UX. At the moment, it's just very clunky and manual.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Well, I've used virtual assistants before, and I imagine it would be kind of the same sort of thing, but with greater competency and different types of features. For instance, imagine being able to ask an AI assistant to send email invites to events or maybe for family gatherings. I think it could really help with the social aspect. So, imagine wanting to have a weekly potluck or something like that, and you don't want to necessarily coordinate with everyone. You could create an AI chatbot that can answer questions for people in your WhatsApp group. It might sound a bit dystopian and not ideal, but you can envision a scenario where if a bunch of people are asking the same type of questions, the AI could be prepared with all the details and respond accordingly. I think that, in terms of enhancing the social aspect, could be really powerful, but that's just the first thought I had.
+
+MODERATOR: You mentioned social coordination - could you tell me about other key tasks you'd want your perfect AI assistant to handle beyond social events?
+
+PARTICIPANT: I think accounting is a really good one. I mean, being able to answer accounting-based questions based on your location, the type of entity that you have or are working for, and kind of what that's going to be. This is more for personal accounting or solopreneurs, you know, LLCs, S corps that are solo-owned. That would be really helpful for me personally to know. Also, a budgeting tool would be great. I think there are a lot of really useful tools that could help you in day-to-day life around finance. I think finance is probably one of the best cases and uses for AI.
+
+MODERATOR: You've mentioned social coordination and financial tasks. What other key capabilities would make this AI assistant truly perfect for you?
+
+PARTICIPANT: I think maybe some mental health components could also be useful. You know, a check-in about regulations or silent regulations. I wish I could record this. Basically, helping you with mental health stuff, physical health stuff, you know, showing up to appointments on time, all the standard stuff. But I think having almost like a personal trainer to advise you, hey, you've been eating this much. I don't know how much it could comprehend unless it has a video of you eating a sandwich, and there's no way it can miss a number of calories. But if there was something like that, like an on-hand nutritionist, mental health adviser, or therapist, that would all be very powerful tools, which is kind of how people are using Chechiuti, actually.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I mean, it would be connected to everything in theory, hopefully. Certainly, the calendars, Gmail, all the G Suite, and then my other calendars, since I have to balance multiple ones at once. So those would certainly be the obvious things. I mean, hopefully, we'd be tapped into some kind of real-world understanding of where I am and what's going on. You know, let me know, "Hey, there's a free concert series in Denver at City Park. Make sure that you go check those out." Stuff like that would actually be really helpful to just keep me in the know of what's going on and provide a nice consistent channel through which I'm experiencing all of the information. 
+
+I think there are a certain number of news sources. I think maybe it should just use Associated Press and Reuters as not-for-profit legitimate news sources. I think it's just inherently questionable the way a for-profit news organization operates. So I think that could all be connected, but it's hard to know how intense the volume of information you'd want to come through. Those are the only ones I'm thinking of now. Like, obviously, you know, calculators and messenger. I mean, maybe you could help me with contacting friends and knowing, like, I don't know. Maybe it might be annoying if someone got a notice saying, "Hey, Todd's busy. He'll respond at a certain point," but that could be helpful. It's the kind of thing that regular assistants do.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: So, technically, it didn't feel like I was being interviewed by an AI. I was just looking at questions. I have had interviews over the phone where there's an automated voice-enabled API that actually interviews me, asks me questions, and responds in real time. I have done that, and it feels interesting. It sort of feels cheesy and canned, you know? I'm sure there's some sort of, "Hey, respond to what was said during the response and then respond to that," like, "Oh, hey, thank you so much for talking about your experience with cheap," or whatever. I know it feels very canned. So, the authenticity of the human connection and the human experience is obviously lacking in this. I'm not looking at anything in particular; it's just a series of prompts. I would argue that there's an AI engine in the background, but it didn't feel like I was being interviewed. It felt like I was just answering questions that became tailored based on my previous responses, but it wasn't the same as a voice-enabled one or an avatar. I would say that this felt like a very light, weak version. It just felt like there's a little bit of AI in the background, but it wasn't actually like being interviewed by an AI in the sense that we typically think of it, maybe like in a sci-fi movie.
+
+MODERATOR: You mentioned voice-enabled AI interviews feeling canned. What would make an AI interviewer feel more authentic to you?
+
+PARTICIPANT: This is an extremely complex question and answer. What makes an AI interviewer feel more authentic? I mean, what makes any human feel more authentic? It's a very specific person's ability to evoke confidence, intrigue, and curiosity, and to actually feel authentically present. So, I'm using circular logic here. I don't know; it's really hard. I think AI would just have to advance so much that the gap between humans and the ability to mimic humans becomes so close that it's indistinguishable. 
+
+It's also interesting how AI often looks too clean, crisp, and fake. There's something called the uncanny valley. There's a company called Uniq or FaceMe, U N E E Q. I used to advise them, actually, and I never liked looking at it. It made me uncomfortable. It feels sort of weird. So, it's either make it look like a cartoon and not try to approximate a human, or make it look exactly like a human. But that's so hard to achieve, you know, with all the messed-up lighting. You have to intentionally code scenarios that create all these imperfections that are inherently human, which is what leads to authenticity. This is just a ramble, but hopefully that explains it.
+
+MODERATOR: You've shared fascinating thoughts about authenticity and the uncanny valley. Could you elaborate on what you think would make AI interactions feel more natural, beyond just visual or voice aspects?
+
+PARTICIPANT: I can only speak to what authenticity means in a human sense. I know that all AI is ultimately just a bullshitting machine with the highest probability of matching what the requester has hoped for. That's basically what it is, a bullshitting machine. So, I don't know how deeply authentic it could be. It could approximate someone's version of authenticity to a great degree, but that's also a really complex question. What would trick me in a Turing test are all the imperfections of lighting and sound and a person telling me about their day, like, "Oh, I had this, that, and the other." Cues are very specific and have their own individual nuanced experiences that they are constantly related to. AI is just an aggregator of those things. So, with AI, you'd have to pick a personality, a backstory, all of these things. For example, the AI Sarah is 28 years old, she's a recruiter, and she's had a certain number of experiences. She grew up in Wisconsin. The deeper and more specific you can get, the more likely you can flourish and expand upon the notions of authenticity within the framework of that personality type that you chose.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

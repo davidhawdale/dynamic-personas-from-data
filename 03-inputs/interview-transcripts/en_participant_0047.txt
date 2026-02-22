@@ -1,0 +1,79 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use ChatGPT almost as a replacement for Google. I use it to check my own assumptions and sometimes to process data. Occasionally, I upload text from a scientific article and ask it to summarize the findings. I also ask more personal questions, like, is it normal to feel X, Y, Z, or what is the easiest way for me to tell my friend that I can't attend X, Y, Z without hurting their feelings. So, really, it ranges from literature interpretation and summarizing scientific literature to just menial personal tasks, and also as a search engine.
+
+MODERATOR: You mentioned using AI for personal advice like handling social situations. Could you tell me more about how AI helps you navigate these interpersonal challenges?
+
+PARTICIPANT: For personal challenges, I think it helps me find my wording. It helps me sometimes work on my tone, or occasionally, if I give a scenario, it will come up with a lot of different angles regarding some of the different variables at play. It helps me understand whether or not I've considered all the possible angles and address them. So, it helps me react a little bit less impulsively and helps me process the situation.
+
+MODERATOR: You mentioned using AI for scientific literature and personal tasks. How does AI help you process and understand complex information?
+
+PARTICIPANT: When processing complex information, there are times when the text is really dense and I don't want to read all of it. This text often includes various groups and subgroups, as well as p-values and other relevant statistical tests. I can look into more detail if I have questions about how we arrived at a specific conclusion, but I can spend a lot of time combing through that dense text. It can be helpful to distill some of the higher-level conclusions, making it easier to find a through line without it being so wordy.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I think of times when I've wanted to use AI for something but couldn't. For example, I've wanted to use it to help with the interpretation of scientific literature. I've wanted to upload entire articles or even source articles that are publicly available through platforms like PubMed. However, it just didn't seem to have the necessary computing power. Either that editor didn't have access to the documents, or I found that I don't fully trust it. I mean, yes, it can process this information for me, but the worst-case scenario is that I end up with an interpretation that is incorrect, and it could be woefully incorrect due to a hallucination or something like that. So, I can use it to a degree, but I feel like I'm always policing and checking the results.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: The number one most important thing for an AI assistant for me is unbiased, objective, evidence-based reasoning. We live in a world filled with lies and conspiracies, and there is a complete lack of trust in institutions. The idea that an AI tool could suddenly have bias, especially in a moment where there is a very palpable slide towards fascism, is terrifying, particularly because people really trust the advice, findings, and insights of these tools. So, remaining unbiased is the most important thing to me. I know it's not fully unbiased and it tends to give me confirmation bias on some of the things I already think. But anyway, I digress. 
+
+What else? I think it would have continuity and memory over time. With chat, I find that when I ask it questions, like, "Hey, I got paid on this day," it often changes with holidays and things like that. I'm like, if I got paid on this day, when do I expect to get paid again? They answer, but then I don't even remember when I last got paid, and when I ask again, they say, "No, remind me. Do you get paid biweekly or whatever?" And I think, okay, great. I'm going to have to do this exercise all over again. I wish I wouldn't have to do that. So, I think those are the two most important things.
+
+MODERATOR: You mentioned unbiased reasoning and memory continuity. Could you elaborate on other ways your perfect AI assistant would be better than current tools?
+
+PARTICIPANT: This perfect AI assistant, with memory continuity and unbiased reasoning, would be better because it would allow you to build a more long-term relationship. It would learn about you, how you've changed, how you've grown, and how your opinions have evolved. It could also identify things that you keep getting stuck on and ruminating over for longer than you should. I feel like that's really helpful.
+
+MODERATOR: You mentioned building a long-term relationship with AI. How would this deeper understanding of you improve your interactions compared to current tools?
+
+PARTICIPANT: I think it would help more with interpersonal questions, like motivations, lack of motivations, and why I might feel a certain way. It could potentially help me dig deeper into my own personal biases. I check my biases often. You know, like, I'll say, "Hey, I think this is a pattern," but then I'm like, "I don't know. Let's check," because that's embarrassing if it's not. So, I think that learning about me over time would be helpful both personally and possibly career-wise as well.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I would love it if the tool could just schedule things for me, manage my calendar, move things around, and remind me when I need to start doing a task. I have ADHD, and that would be unbelievable. If I could just, in the moment, say, "Hey, please schedule this and include these people," without having to go in, write an email, or do all the steps, that would be great. That's where some of that executive functioning tends to hit a roadblock. If I could just have the thought, put it out there, and have it done for me, that would be amazing.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: The experience is fine. I think having live feedback is always a little better because it helps you figure out whether or not you're going down a coherent path. Sometimes when I'm talking into a camera like this, I feel like I might be incoherent, and there's no one to keep me accountable but myself. Other than that, sometimes it's nice to not have to talk to a person. I avoid people sometimes because I just have no energy. So, yeah, it's amazing not having to talk to a person.
+
+MODERATOR: You mentioned avoiding people sometimes due to energy levels. How does being interviewed by AI affect your comfort and openness in sharing your thoughts?
+
+PARTICIPANT: It makes me feel better. I feel like I say all kinds of things to ChatGPT that maybe I wouldn't say to my friends because ChatGPT has no sense of self, I guess. So, I'm fairly comfortable, I guess.
+
+MODERATOR: You mentioned feeling more comfortable sharing with AI because it has no sense of self. Could you tell me more about what makes you feel safer sharing with AI versus humans?
+
+PARTICIPANT: ChatGPT cannot form opinions about me with judgment. It just gathers data about me, and I think that's helpful. It's not going to change its ability to be there for me. It's not going to reject what I say. It's not going to judge what I say. It's just going to gather data, and that's helpful if you leverage it, in my opinion.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

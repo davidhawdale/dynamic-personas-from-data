@@ -4,11 +4,11 @@ A structured template for AI-assisted analytical projects, compatible with Claud
 
 ## The 3-Layer Architecture
 
-| Layer | Role | Lives in |
-|---|---|---|
-| **Directives** | Define what to do and why | `01-directives/` |
-| **Orchestration** | You (the AI) — decide, sequence, handle errors | `02-workflows/` |
-| **Execution** | Python scripts (deterministic) + sub-agents (judgement) | `02-workflows/`, `.claude/agents/` |
+| Layer                   | Role                                                    | Lives in                               |
+| ----------------------- | ------------------------------------------------------- | -------------------------------------- |
+| **Directives**    | Define what to do and why                               | `01-directives/`                     |
+| **Orchestration** | You (the AI) — decide, sequence, handle errors         | `02-workflows/`                      |
+| **Execution**     | Python scripts (deterministic) + sub-agents (judgement) | `02-workflows/`, `.claude/agents/` |
 
 LLMs are probabilistic; business logic needs determinism. This architecture separates the two.
 
@@ -16,23 +16,25 @@ LLMs are probabilistic; business logic needs determinism. This architecture sepa
 
 ### One-time setup
 
-1. Click **Use this template** on GitHub, name your new repo, and clone it
-2. Open in your AI environment (Claude Code, Codex, Gemini)
-3. Run `/new-project` (Claude Code) or follow the `SKILL.md` procedure in `.claude/skills/new-project/` manually
-4. Fill in `00-brief/project-brief.md`
-5. Add source data to `03-inputs/`
-6. Run `/add-workflow` to scaffold your first directive and workflow
+1. On GITHUB, click **Use this template** on GitHub, name your new repo, and clone it
+2. Make a workspace locally, and connect it - `git remote add origin <repository-url>`
+3. Pull the remote files - `git pull`
+4. Run `bash setup.sh`
+5. Run `/new-project` (Claude Code) or follow the `SKILL.md` procedure in `.claude/skills/new-project/` manually which asks for input from the user
+6. Fill in `00-brief/project-brief.md`
+7. Add source data to `03-inputs/`
+8. Run `/add-workflow` to scaffold your first directive and workflow
 
 ### Key commands (Claude Code)
 
-| Command | What it does |
-|---|---|
-| `/new-project` | Initialise a fresh clone into a working project |
-| `/add-workflow` | Scaffold a new directive and workflow folder |
-| `/run-workflow <name>` | Run a workflow end-to-end |
-| `/status` | Show which outputs exist and what may be stale |
-| `/validate-outputs` | Check output quality without re-running |
-| `/update-learnings` | Capture session learnings in orchestration files |
+| Command                  | What it does                                     |
+| ------------------------ | ------------------------------------------------ |
+| `/new-project`         | Initialise a fresh clone into a working project  |
+| `/add-workflow`        | Scaffold a new directive and workflow folder     |
+| `/run-workflow <name>` | Run a workflow end-to-end                        |
+| `/status`              | Show which outputs exist and what may be stale   |
+| `/validate-outputs`    | Check output quality without re-running          |
+| `/update-learnings`    | Capture session learnings in orchestration files |
 
 ### Environment-specific notes
 
@@ -42,19 +44,19 @@ LLMs are probabilistic; business logic needs determinism. This architecture sepa
 
 ## Directory Structure
 
-| Directory | Purpose | Writable? |
-|---|---|---|
-| `00-brief/` | Project brief and high-level context | Read-only at runtime |
-| `01-directives/` | Thin cover sheets pointing to workflows | Read-only at runtime |
-| `02-workflows/` | Workflow orchestration files and scripts | Yes |
-| `02-workflows/shared/` | Reusable scripts used by multiple workflows | Yes |
-| `03-inputs/` | Raw source data | **Never write here** |
-| `04-process/` | Intermediate files (regenerable) | Yes |
-| `05-outputs/` | Final deliverables | Confirm before overwriting |
-| `10-resources/templates/` | Directive and orchestration templates | Read-only |
-| `.claude/agents/` | Sub-agent definitions | Yes |
-| `.claude/rules/` | Operational rules (auto-loaded by Claude Code) | Read-only |
-| `.claude/skills/` | Skill procedures invoked with `/skill-name` | Read-only |
+| Directory                   | Purpose                                        | Writable?                  |
+| --------------------------- | ---------------------------------------------- | -------------------------- |
+| `00-brief/`               | Project brief and high-level context           | Read-only at runtime       |
+| `01-directives/`          | Thin cover sheets pointing to workflows        | Read-only at runtime       |
+| `02-workflows/`           | Workflow orchestration files and scripts       | Yes                        |
+| `02-workflows/shared/`    | Reusable scripts used by multiple workflows    | Yes                        |
+| `03-inputs/`              | Raw source data                                | **Never write here** |
+| `04-process/`             | Intermediate files (regenerable)               | Yes                        |
+| `05-outputs/`             | Final deliverables                             | Confirm before overwriting |
+| `10-resources/templates/` | Directive and orchestration templates          | Read-only                  |
+| `.claude/agents/`         | Sub-agent definitions                          | Yes                        |
+| `.claude/rules/`          | Operational rules (auto-loaded by Claude Code) | Read-only                  |
+| `.claude/skills/`         | Skill procedures invoked with `/skill-name`  | Read-only                  |
 
 ## Environment Variables
 

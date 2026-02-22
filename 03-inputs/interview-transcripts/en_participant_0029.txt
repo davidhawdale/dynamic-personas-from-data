@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Google Gemini, ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I have used AI to create a list of restaurants. I've used AI to create grocery lists, and I have used AI, let's see, to help me with travel plans.
+
+MODERATOR: Could you tell me more about how you use AI for travel planning? What specific tasks does it help with?
+
+PARTICIPANT: With itineraries, hotels, and flights.
+
+MODERATOR: Could you tell me more about how you use AI for creating grocery lists? How does it help with that task?
+
+PARTICIPANT: It recommends meal plans for the week and then the grocery lists that would help me shop.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I would like to use AI to clean up my personal email inbox, but I can't find the time or don't know the right tools to use.
+
+MODERATOR: What specific AI tools have you looked into for email management? What made them seem unsuitable?
+
+PARTICIPANT: I really haven't looked into any because I don't seem to find the time to pay attention to my own personal email.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: The Perfect AI tools help me stay more organized, complete tasks faster, and pull information from various areas of the things I work on throughout the day. They make recommendations on how I can be more efficient with my time. Hi.
+
+MODERATOR: You mentioned organization and efficiency. Could you give me a specific example of how your perfect AI assistant would help you be more organized?
+
+PARTICIPANT: In my personal life, I would say that keeping my emails more organized would be a huge help, and this would also benefit my professional life. In the professional world, I often deal with a lot of different data pieces, and integrating them between the various software systems I work in would be much more efficient than having to do manual entry.
+
+MODERATOR: You mentioned integrating data between different software systems. Could you tell me more about what kind of data integration would be most valuable in your personal life?
+
+PARTICIPANT: That was more for my professional life, but personally, I could imagine keeping personal mailing addresses organized and email addresses organized for friends and contacts.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I find that keeping addresses up to date on a regular basis is very difficult to do. So, finding a way to keep those updated and unsubscribing from emails that I don't utilize regularly would be helpful. I know Gemini is starting to do that, and Google's starting to do that a little bit as well. Yeah, that's all I can think of right now.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: It's a little strange responding to an AI interviewer when you're not hearing the question first, and you're actually expected to respond with your voice without hearing the voice up front. It would probably be a bit easier if there was an AI-generated face that you're talking to or a voice that you're hearing so that you can respond, and it doesn't feel so much like a one-way conversation.
+
+MODERATOR: You mentioned wanting an AI face or voice. How would that change the way you interact with an AI interviewer?
+
+PARTICIPANT: It would feel more conversational as opposed to a one-way question and answer.
+
+MODERATOR: Could you tell me more about what makes it feel like a one-way conversation? What would make it feel more natural?
+
+PARTICIPANT: I think that just having the voice going in one direction feels awkward. I do like it better than having to type it out because I think you get a much faster response, and you can't really delete or take back what you just said. So, it's kind of an initial gut response. I also get self-conscious about the number of times I say "so," and that's a little odd. But yeah, I think that's all I have to say about that.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

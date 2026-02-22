@@ -1,0 +1,87 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I'd say I use AI most often for searching things and finding quick answers. I really like how nuanced you can get with your searches instead of just typing keywords and then searching and going through all the different results that come up. The other thing I use it for a lot is cooking, like asking, "What temperature do I need to have this?" and being able to physically show, "Is this brown enough yet?" or things like that. I'd say those are my top use cases.
+
+MODERATOR: You mentioned using AI for cooking. Could you tell me more about how you use it in the kitchen? What specific cooking questions do you ask?
+
+PARTICIPANT: I ask it a lot about, for example, given my specific brand of stove and how long it takes to heat up because my stove takes a bit of time to heat up and my oven takes a bit of time to heat up. I ask questions like, what temperature do I need to set it to and how much time should I cook it for? Also, like I said earlier, I use the video mode to check things. For example, if I'm cooking chicken, I might ask, is this brown enough or does it need to brown for a little bit longer? How much longer do you think, etcetera?
+
+MODERATOR: You mentioned searching and cooking. Are there any other personal tasks you commonly use AI for?
+
+PARTICIPANT: I also use it, for example, when planning a trip to research things in the area that I might not have known about before, and to understand things that you just need to physically be there to grasp or read through a lot of reviews to comprehend.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: Sometimes I don't use it because I can tell that I'm going to have to give it a lot more context than I could just do in my brain. Like, I'll think it's faster for me to just write out this message or give advice for this thing because I just know more about it. As for specifics, I guess that's more of a work-related issue than personal, but a lot of times there are different people involved, and I know who to go to, who's the right person for what, whereas chat or any other kind of AI might not know that.
+
+MODERATOR: You mentioned it's faster to write messages yourself sometimes. Can you tell me about a specific personal task where you tried to use AI but found it too cumbersome to provide all the context?
+
+PARTICIPANT: Sometimes when I'm writing a message for someone I know and I want to add context about our relationship or an inside joke that we might share, I find that if I use AI for those kinds of contexts, I often say to leave space for me to add personal anecdotes. It's just too much to think about what personal anecdote I'm going to include, and then I worry about it being misconstrued.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 4 - High trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think that I would definitely need it to have more agent-like qualities than AI currently has. I know that some of the AI companies have things like ChatGPT has an operator feature. However, it's quite buggy, and you still really need to watch it. You can't really trust it to just go out and do things for you. So, I think that would definitely be something super important for me. 
+
+But I think something that just lets me use it less would be ideal, like it just knows my routines and stuff like that. I don't need to think about, "Oh, I'm going to go and use it." It already kind of knows when it's needed and when it can chime in and say, "Hey, I can do this for you quicker," or whatever it might be. 
+
+I also want to use it to help me get off of other devices as much as possible. Instead of spending a bunch of time researching things for a vacation or something like that, I want to be able to say, "Hey, I'm booking a vacation for..." and so far, AI tools are pretty good at that. But maybe just knowing a lot more about me and what I prefer as a person would be helpful. I know that memory has been getting a lot better with AI tools, but we're definitely not at the point yet where it knows enough context about you and what you prefer and holds the really important memories to make that work.
+
+MODERATOR: You mentioned wanting AI to be more proactive and know when to chime in. Could you give me a specific example of how this would work in your daily life?
+
+PARTICIPANT: Yeah, so if I'm about to write a message back to someone, maybe when I get into the text bubble itself, it could have a couple of options already based on the context of the entire conversation I've had with this person. That could be a good example of when it might know when to chime in. Or let's say I'm booking concert tickets and I'm trying to figure out which seat is the best one. Instead of having to download a PDF and then put it in there or say, "I'm going to the Chase Center," and giving all that context to a chatbot, it could ask me questions as I'm going through the booking process. Once I get to the page where it says, "Choose the best seats," it could ask, "What's important to you? What's your price?" Ideally, it would already know those things about me and just recommend good seats, allowing me to see the perspectives and choose between a few options instead of the entire stadium.
+
+MODERATOR: You mentioned wanting AI to know your preferences and context. Could you give me a specific example of what memories or preferences would be most valuable for the AI to know about you?
+
+PARTICIPANT: I think AI knowing my writing style would be great. The number of times I've tried to get AI tools to stop using the em dash is countless, and it never works every time I say not to use it. People don't use that; most people don't even know what keys to press to get to it. So, things like that—just knowing how I sound through maybe having a couple of conversations or asking questions to me—I'm perfectly fine with that. It should be able to understand how I sound so that I don't have to spend time tweaking what it already adjusted for me. It's just double work, basically. 
+
+Also, I would love it to know my preferences, like what I prefer when I'm on vacation. For example, am I traveling alone or with someone else? If I have a partner, it should know to book a hotel that can fit two people versus one. Or maybe it knows that I prefer showers over baths, so it ensures that the place has a nice shower instead of just a bathtub. Little things like that.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Oh, yeah. Of course. I would love for AI to be connected with my calendar and email. It would enable me to do a whole lot more. Just the idea that if I'm texting someone in my family and they're like, "Oh, we haven't hung out in a bit. Let's hang out. Let's do something in the city," it could then suggest, "Oh, you want to do something in the city on Saturday? Let's find something." Then it could book me, let's say, going to see a museum. It would book the tickets for that and create a Google Calendar event for myself or whoever is involved. Bam, plans made, versus having to coordinate, "Alright, what do we want to do? Okay, maybe we want to go to a museum. Which museum do we want to go to? Are they open during that time? Alright, this is the museum we're going to. This is the time." Then we'll both separately add it to whatever our preferred calendar method is. It could do all of those things, and it could even add a location for us to say, "This is the meetup spot where we're going to meet." Little things like that.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I don't know. At first, I was like, really? Camera and audio? I feel like a lot of times I don't use AI tools with the camera or audio. I get nervous about it. It almost feels like phone call anxiety, like when you need to call someone. It's like when you're a little kid and, for the first time, you have to call the dentist to make an appointment. For some reason, AI feels like that to me when I'm doing it through video or call. But at the same time, it was actually pretty nice to have these in-depth questions and know that you're not, for example, to get these kinds of in-depth questions, you'd either need to be on a call with a person or physically in front of someone. So you'd need to schedule a time that both of you are available, and I also felt that it added very in-depth follow-up questions that a person physically just wouldn't have enough time to think about between my answer and the next question. So it was actually a lot more pleasant than I was imagining it to be. Hopefully, you guys aren't staring at my face too much because that was something I was like, oh no, I'm going to be on camera. Do I have to? Anyway.
+
+MODERATOR: You mentioned feeling nervous about using AI with camera/audio. Could you tell me more about what specifically makes you anxious compared to text-based AI interactions?
+
+PARTICIPANT: I don't know. I guess with text, you're able to type everything you want to say and look it over to ensure that you're sending the right message and getting the prompt exactly right, as opposed to including all the "ands" and "ums" of a regular conversation. I also don't like how many AI services, when you're using voice mode, will respond as soon as you stop talking for half a second, even if you still have more to say. So, that was one thing I appreciated about this interview experience that I hadn't really encountered with voice AI compared to text-based interactions.
+
+MODERATOR: You mentioned liking that this interview let you finish your thoughts. What other aspects made this experience better than your previous voice AI interactions?
+
+PARTICIPANT: I also liked that I was able to answer in voice to really get my thoughts out quickly and in the way that I'm naturally used to. However, I appreciated that it responds to me through text. For instance, this question here is in text instead of a voice coming back at me, which allows me to look at it and see the entire question. Sometimes there might be a two-part question, and I might forget the second part. So, I think that voice-based AIs should not only have that orb feature but also provide a text display of what it's saying underneath it or something similar, as that would be helpful.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

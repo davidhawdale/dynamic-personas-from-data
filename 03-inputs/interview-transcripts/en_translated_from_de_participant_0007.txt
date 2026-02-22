@@ -1,0 +1,69 @@
+*Q1*
+MODERATOR: Which AI tools have you used in the last 3 months for private purposes (so not for work)? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools privately?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'm interested in how you usually use AI and where the current tools fall short for you...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: For which private tasks do you use AI most often? Tell me a few examples from your everyday life.
+
+PARTICIPANT: Write letters to authorities, create résumés, create a travel itinerary with attractions, provide health tips and create a plan for workout programs.
+
+MODERATOR: What does an AI-generated travel plan typically look like? What do you give the AI as input?
+
+PARTICIPANT: I give the AI the trip duration, the number of people and the destination as input.
+
+MODERATOR: And what does the AI do with that information? How detailed is the plan you receive?
+
+PARTICIPANT: The plan is usually very detailed, but it should definitely be checked again to see whether the facilities and locations actually exist or are still available.
+
+*Q5*
+MODERATOR: Has there ever been a situation where you wanted to use AI for something but couldn't? What was the task and why did it fail?
+
+PARTICIPANT: There hasn't been such a situation yet.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 – Medium trust
+
+*Q7*
+MODERATOR: Finally, I'd like to know what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect personal AI assistant. What would be the most important things it should do for you? What would it do better than the existing tools?
+
+PARTICIPANT: My personal AI assistant should know my entire life situation, my needs in daily life, my hobbies, my career path, my interests, my further education and training, as well as my interests in concerts, films and cultural matters. It should offer me interesting products, events or courses for further education and new topics. It should be able to help me in every situation in life, especially with health, hobbies, sports and nutrition. And yes, it should also clean my house.
+
+MODERATOR: You named many areas — from health to culture. What exactly do you mean by the AI knowing your "life situation"? How would it use that?
+
+PARTICIPANT: Life situation means to me: Do I live in a house, am I in a relationship or single? Am I athletic, am I healthy, do I have varied interests? What are my interests?
+
+*Q9*
+MODERATOR: How could the AI be connected to the systems you use (e.g., calendar, email, etc.)? What would you be able to do as a result?
+
+PARTICIPANT: The AI could support me in everyday life with appointments and provide me with situation-appropriate information, whether about government agencies, business mail, promotions or renovations and new plans that affect the various areas of life. It could alert me and make it easier for me to manage daily life.
+
+*Q10*
+MODERATOR: Before we finish, I'm also interested in how you experienced the interview with an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI instead of a person? What was different about that experience?
+
+PARTICIPANT: I prefer the interview with a person, because it's a dialogue and not a monologue. A personal human address cannot be replaced by anything, not even an AI.
+
+MODERATOR: Can you explain more precisely what is particularly important to you in a dialogue with a human, which the AI cannot achieve?
+
+PARTICIPANT: A human is real, a human is authentic. A human can say what is really going on inside them, and a human dialogue is a real dialogue. I can look at the person, I can speak with them, I can perceive their tone of voice, their facial expression, their eyes. And above all, if I know them, I know that this person is genuine and not computer-controlled.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and impressions of AI tools! Your feedback helps us develop better AI assistants that truly fit people's needs.

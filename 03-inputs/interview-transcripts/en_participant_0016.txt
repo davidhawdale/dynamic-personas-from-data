@@ -1,0 +1,73 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I like to use AI to assess some of the images that I upload as a form of DIY. I take pictures of a broken wall or a broken wall socket, anything that I don't know how to manage myself, and then I get AI to analyze it. It tells me how much paint I need to buy and where I can purchase whatever tools I need for the do-it-yourself home project. I also use AI quite a lot for conjuring up recipes if I have a certain ingredient in my fridge and I want to know what I can make with it or to create a shopping list for certain recipes. That is the extent of my personal use of AI right now.
+
+MODERATOR: You mentioned using AI for DIY projects and recipes. How do you typically interact with AI for these tasks - do you prefer text, images, or both?
+
+PARTICIPANT: I enjoy taking pictures, loading the images, and then sometimes, with a voice prompt, I like to explain what it is that I want AI to do for me. If the voice prompt is not possible, I would use text.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: The only time I could think of was when I was using a free version of ChatGPT. I obviously couldn't access the extended features that I wanted to use. I couldn't upload any images, and that prevented me from using AI the way I needed to. Therefore, I switched to the paid version, which then obviously changed things for me. That is the only example I can think of.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I suppose what I had trouble with was my DIY project. I would do all the measurements in a room. I would measure the windows, the walls, the height, and the length, and I would input it exactly as it is. I would then ask AI to give me a 3D model to scale of all those measurements, but for some reason, it didn't matter how perfect I was with inputting the measurements; it could not give me a 3D model. I needed a 3D model so that I could style and plan the interior decorating that I wanted to do, and that ended up with me having to utilize other tools without AI. AI wasn't able to help me with that. It would have been cool if AI could mark up the 3D room to my specifications exactly as it is. And if I could tell AI to paint the walls a certain color so that I can visualize what it would look like, that would be amazing. If it could calculate the amount of paint that I need, what it would cost me, the building expenses, and everything with it while visualizing it or showing me a visual representation, I think that would be great as a personal assistant. I would be able to save a lot of money and time with that.
+
+MODERATOR: Beyond home improvement visualization, what other tasks would you want your perfect AI assistant to help with?
+
+PARTICIPANT: I think a perfect AI assistant could also help me know when certain ingredients or products in my kitchen are running out. It could help me keep track of my electricity usage and give me notifications for when I need to buy certain items, like when I need to purchase new electricity, when the milk is going to go sour, or when my eggs are running low. It could compile a list and a time frame to keep track of these things. That would be cool. I don't know if that already exists, but that's the only thing that comes to mind.
+
+MODERATOR: You mentioned tracking kitchen items and electricity usage. How would you want the AI to notify you about these things - through your phone, smart home devices, or some other way?
+
+PARTICIPANT: Well, at this stage, I only have a smartphone. I do not have smart home devices. It would be amazing if I had a fridge that was smart enough to tell me when my milk is about to go sour; that would be great. However, it would obviously also need to be linked to my smartphone so that I can control the notifications and possibly take it with me to the shops if I do the shopping or if I do delivery shopping purchases.
+
+*Q9*
+MODERATOR: You've mentioned connecting your phone and smart devices. How might the AI be interconnected with your other systems like calendar, email, or shopping apps? What would that enable you to do?
+
+PARTICIPANT: Well, that would obviously allow me to, if AI could be connected to my calendar, it could say, on this date, you are bound to probably run out of X, Y, Z. That could prompt me to open a shopping app that maybe already has the shopping basket kind of prepopulated, or it could notify me that I need to buy electricity, etcetera, etcetera.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I felt a little bit more relaxed because I didn't feel like I needed to worry about my presentation or whether or not I brushed or combed my hair or had makeup on. I suppose I don't feel like there's a human judgmental aspect behind this type of interview style, which makes it easier to show up. I'm more inclined to click on the recording and give my feedback. I kind of reckon possibly because I know there's not a human sitting behind the screen judging what I look like.
+
+MODERATOR: You mentioned feeling more relaxed without visual judgment. Has this affected how open or detailed you are in your responses compared to human interviews?
+
+PARTICIPANT: Yeah, I definitely think it affects how open or detailed I am in my responses. I suppose when you deal with humans, there's that human aspect where you almost don't want to let the interviewer down. You sometimes say things that you think the interviewer maybe wants to hear instead of actually expressing what you really think. I think it's a very human approach, a very human thing to try to either impress or make the interviewer happy.
+
+MODERATOR: That's really interesting about feeling less pressure to please the interviewer. How do you think this affects the quality or truthfulness of responses in AI vs human interviews?
+
+PARTICIPANT: I think it could drastically affect the quality or the truthfulness of responses. Obviously, I believe people would be a lot more truthful when speaking to AI because they would feel there is no judgment. However, with human interviews, there could be a familiarity with a good human interviewer that makes people feel at ease and creates great rapport, which could then, in effect, elicit a different type of response. As for which one is better, I suppose it's up to the quality of what you are looking for: truthfulness or a more human touch.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

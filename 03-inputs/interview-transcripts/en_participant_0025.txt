@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Less than monthly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I only use AI for my Airbnb business to ask questions that help improve the business.
+
+MODERATOR: Could you tell me more about how you use AI for your Airbnb business? What kinds of questions do you ask it?
+
+PARTICIPANT: I ask it to create rules for the Airbnb based on other things that have been entered for people who use it for their business. I ask it to make projections and to create demographics for the area where I might want to have an Airbnb, things like that.
+
+MODERATOR: How do these AI-generated projections and demographics help you make decisions about your Airbnb business?
+
+PARTICIPANT: It helps me decide whether or not I'm going to create a new Airbnb business in that area. It helps me determine what type of people I want to attract in that area, how many I can accommodate, and if it would be worth the investment to do so.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I wanted to ask AI to be a host for the business, but I believe you need to have a human touch sometimes for that. There are too many different things and too many different people and personalities on this earth for me to trust it fully with AI right now.
+
+MODERATOR: What specific aspects of hosting do you feel require that human touch? Could you give me an example?
+
+PARTICIPANT: A human touch involves being caring and concerned, especially when it comes to deescalating a situation where someone might be upset, even if they aren't openly showing their anger or frustration. It's about recognizing the different nuances that come with those interactions.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: The perfect AI assistant would be one that could manage my schedule for both jobs that I have and the business that I run. It would be able to generate new ideas that could potentially benefit my business, helping me navigate every aspect of my life. The ideal personal assistant would be capable of doing all of these things. It would also serve as a host for my Airbnb business, adding a human touch with various nuances in that area. I don't believe we are at that point right now, and if we are, I just haven't seen it consistently.
+
+MODERATOR: You mentioned wanting AI to run your schedule and help with business ideas. Could you tell me more about what specific scheduling and business tasks you'd want it to handle?
+
+PARTICIPANT: I would want it to take my schedule from both jobs that I have and my personal schedule, put those together, making sure nothing is overlapping, ensuring I have work-life balance, and creating time for things, not letting me forget anything in that schedule. In the specific business tasks, I want it to handle the hosting portion of the business day in and day out, making sure I have cleaning schedules that are there every single time. If someone is not able to come and clean, I want it to be able to choose someone from the different apps that are out there, someone who is trustworthy and has great attendance records, to do that on its own for me, without me having to ask it.
+
+MODERATOR: You mentioned wanting AI to proactively handle tasks like scheduling cleaners. What other proactive features would you want in your perfect AI assistant?
+
+PARTICIPANT: I would also like you to be able to put PM maintenance things in place for the Airbnb. Anything associated with that Airbnb that can be done proactively to ensure that the guest, excuse me, to make sure that the customer gets every benefit and is happy. I want to be able to put those things in place before we have a problem. To be able to say, "Hey, we might have a potential problem with this. This is what I did to handle it. Do you agree? Do you want me to move forward?"
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: If AI were interconnected with my calendar, email, and all the apps I use for my business, like Thumbtack and TaskRabbit, as well as any scheduling for maintenance and cleaning services, it would enable me to have a lot more free time and reduce many issues that arise when I have to manage everything on my own. If I could have those tasks done proactively and organized in advance, there would be fewer complaints and fewer issues in both my business and personal life.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I think the only thing that may have been different about this is that it went a lot faster. I didn't have to wait for someone to process what I was saying. The AI did that very quickly and moved on to the next thing.
+
+MODERATOR: You mentioned the speed of responses. Did you notice any other differences in how the AI interviewed you compared to a human interviewer?
+
+PARTICIPANT: It stuck to the task at hand. There was no going off on a tangent with other things that you might have with a human interviewer, just because they want to know things and have questions about things.
+
+MODERATOR: Did you feel like the AI interviewer was able to understand and respond appropriately to your answers? How was that different from human understanding?
+
+PARTICIPANT: The AI interviewer was able to respond appropriately to the answers that I gave and ask follow-up questions, pulling details from the things that I had said. I don't think that's any different from human understanding.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

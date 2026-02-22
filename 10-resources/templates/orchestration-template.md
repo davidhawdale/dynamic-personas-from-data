@@ -23,7 +23,6 @@ For the final phase, include output-deliverable details inline:
 - Output artifact: `{path-to-final-output}`
 - Output format: {Template or structure used}
 - Output constraints: {Length/quality constraints, if any}
-- Reporting requirement: Include quote validator `review_examples.warn_examples_readable` and `review_examples.fail_examples_readable` for human-in-the-loop review.
 
 If a phase has branching outcomes, include a compact decision table:
 - `{check} PASS` -> {next step}
@@ -54,7 +53,6 @@ If a phase has branching outcomes, include a compact decision table:
 
 - [ ] {Prepare phase succeeded}
 - [ ] {Primary verify step is PASS}
-- [ ] {Quote validation is PASS or WARN}
 - [ ] {Final output file exists at expected path}
 - [ ] {User-facing report includes counts and issues}
 

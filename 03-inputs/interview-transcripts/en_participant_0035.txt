@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT:  Cursor
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use AI for similar kinds of tasks that I would use Google for, but with more complicated queries. For example, when I'm planning a trip that's three days long in a specific location and I have dietary requirements and specific interests, I can pass all of those parameters to the AI, and it can create an itinerary for me. Another thing I use AI for is generating code and fixing problems in my code.
+
+MODERATOR: You mentioned using AI for trip planning. Could you walk me through exactly how you interact with AI to create these itineraries?
+
+PARTICIPANT: For example, if I am going on a trip for a specific amount of time but have a variety of requirements, it basically saves me time instead of needing to individually Google things to do in the city and then figuring out what the best things are that I can do in the time that I have in the area I'm staying in. I let the AI do the thinking for me.
+
+MODERATOR: You mentioned using AI for code. Could you tell me more about what kind of coding problems you use AI to solve?
+
+PARTICIPANT: In the past, I used AI to completely generate code from scratch in languages that I was not familiar with, but I stopped doing that because I realized I couldn't extend the app. AI tends to produce quite a lot of extra code, and it's not always efficient. So these days, I use AI to help me when I have the skeleton of an idea and I have enough knowledge to make the application myself. I'm just speeding up some processes by getting it to generate code, while making sure that I understand the code and also helping me make the code more efficient.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I've used AI to generate designs for me as a product designer. I provide the requirements, and it generates mock-ups for me. I found that while it can create visually appealing mock-ups, it tends to put me in a box. It often just copies the UI of other websites and doesn't deeply understand the problems I'm trying to solve. Additionally, having seen ideas from the AI, it hinders my ability to think creatively because I tend to iterate off the ideas that the AI generated.
+
+MODERATOR: You mentioned AI limiting your creativity in design. Could you tell me more about how it "puts you in a box" and affects your creative process?
+
+PARTICIPANT: Basically, I think it gives me a solution, and I tend to think more narrowly based on its solution rather than thinking broadly and coming up with a bunch of ideas on my own.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: It would be great if AI could autonomously handle administrative tasks that I don't want to do. For example, paying invoices, rescheduling doctor's appointments, interpreting results from the doctor, and understanding if the contract my landlord sent me is fair and if I could negotiate on it. Basically, I would like it to proactively manage the admin tasks that I would do myself, freeing up my time to focus on more creative work.
+
+MODERATOR: You mentioned AI handling administrative tasks. Could you tell me more about what kind of contract interpretation or negotiation help you'd want from an AI assistant?
+
+PARTICIPANT: As an example, I'm negotiating a German rental contract at the moment, and I'm not sure the clauses in the contract are entirely fair. Instead of Googling or using AI for hours to try to figure it out, I would like the AI to tell me if the contract is fair.
+
+MODERATOR: You mentioned wanting AI to handle administrative tasks proactively. What other proactive assistance would be valuable to you beyond contracts and medical appointments?
+
+PARTICIPANT: For example, booking trips, finding the best flights, and coordinating dates with the people I'm traveling with. Another example is that I have a friend in town this week, and he wants to go out next weekend. I know the kind of things he would like, but I'm going to manually search for what events are on. If it could proactively give me some options for events, that would be helpful—things like this.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I think it would need to be connected to those apps in order to autonomously do things on my behalf. However, at the moment, I would not allow the AI to autonomously do things because it still makes mistakes. But I suppose if it can read into my email or my messages, it would know, for example, which dates my friend is here and what our conversation was like about what kind of events he would like to go to. Realistically, I probably would not give the AI that much access to my personal data because I would be concerned about the privacy implications of that.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: This feels quite similar to answering a survey but doing it with video. I noticed that the AI asked follow-up questions based on what I said, which I think is pretty cool, but it feels quite similar to answering a static survey.
+
+MODERATOR: You mentioned it feels like a survey with video. Could you tell me more about how the follow-up questions affected your experience compared to a static survey?
+
+PARTICIPANT: If I think about being on the other side, I can imagine it's quite helpful for the AI to ask follow-up questions rather than it just being a static survey. However, my experience as a person answering these questions feels quite similar to a static survey.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

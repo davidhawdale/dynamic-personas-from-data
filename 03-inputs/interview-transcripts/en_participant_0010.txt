@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I often use it in place of Google to learn about various topics, anything from growing a vegetable garden to places to travel for our next holiday.
+
+MODERATOR: Could you tell me more about how you use AI for travel planning? What kinds of information do you look for?
+
+PARTICIPANT: I use it for top sites to see, helping me decide between different activities based on the needs of multiple people in the family group. It also helps me as a budget calculator.
+
+MODERATOR: You mentioned using AI for gardening advice. Could you tell me more about how you use it for that? What kinds of questions do you ask?
+
+PARTICIPANT: For example, at the moment, I'm thinking about putting in a vegetable garden in place of my lawn. I'm looking to find out about the best placement, what kind of soil I need to have, and how I can kick off the project with the most success possible.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: With that vegetable garden in mind, I wanted to use it to help mock up the area that I had planned by just putting in points and hoping that it would draw a good diagram for me. However, it ended up being quite a lot of effort, and while it was close, it wasn't ideal. I probably just needed to spend more time on it, but it wasn't that important, so I gave up and relied on my hand drawing on paper.
+
+MODERATOR: What made you decide to give up on using AI for the garden diagram? Did you try any specific AI tools for this?
+
+PARTICIPANT: The dimensions just weren't close enough. It was doing some funny things because our lawn isn't a straightforward shape. I wasn't using any specific AI tools for this, just ChatGPT. The next step would have been trying to find a better tool, and I might still do that.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: At the moment, the most amazing AI personal assistant would be in my inbox helping me to filter information. It would distinguish between what I really need to know and what is nice to know, identifying jobs to be done, key dates, and anything related to financials all in one place, including the last possible date I need to pay something. There are just too many emails and too much information around kids' sports and school newsletters as well, so it would be great to pull out what's really useful for me.
+
+MODERATOR: You mentioned email organization - could you tell me more about what specific tasks you'd want the AI to handle with your finances and kids' activities?
+
+PARTICIPANT: Specifically for finances, I want to track what payments are coming out and what has been received from all of those automated emails. Over time, it would be helpful to share data about my finances, showing where the spikes are in terms of what I'm paying and for what, and serving that information back to me. As for kids' activities, it's really about scheduling around what is coming up. This might look like having a month view, fortnight view, week view, and day view, to be as organized as possible.
+
+MODERATOR: You've mentioned email, finances, and scheduling. How would you want the AI to help with other aspects of your daily life?
+
+PARTICIPANT: I think something in the future would be really good at having a supermarket list that automatically integrates with your local supermarket and what you need to buy. Then you could choose to press a button and ask the supermarket to have it ready for pickup at a specific time.
+
+*Q9*
+MODERATOR: You've mentioned integrating with supermarkets. How would you want the AI to connect with other services or apps in your daily life?
+
+PARTICIPANT: Nothing else I can think of at the moment.
+
+MODERATOR: Since you mentioned email and scheduling earlier, could you tell me more about how you'd want AI to connect with those systems specifically? What tasks would that enable?
+
+PARTICIPANT: It would enable my partner and me to be on the same page and help our children become more independent as they get older, as well as manage what's happening for them.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I felt okay about being interviewed by a person that's not a human, but I also know who the study is being run by, which probably isn't a true reflection of how I would feel if I were receiving this from nobody. Even if it's coming from AI, I know that there is always a person behind the study. So perhaps a small video introduction from that person first or some kind of human interaction would be good.
+
+MODERATOR: You mentioned wanting a video introduction. Could you tell me more about what kind of human interaction would make you feel more comfortable with an AI interviewer?
+
+PARTICIPANT: Just something brief introducing the study and a little bit about that person. Yeah, do something to humanize it up front. It can be, you know, fifteen seconds long even.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

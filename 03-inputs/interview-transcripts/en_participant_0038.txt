@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Monthly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: Writing letters and writing emails.
+
+MODERATOR: Could you tell me more about what kinds of letters and emails you write with AI? What do you use AI for in these cases?
+
+PARTICIPANT: Business emails, marketing and sales emails, personal emails.
+
+MODERATOR: You mentioned using AI for business and personal emails. Could you give me a specific example of how you use AI to help with personal emails?
+
+PARTICIPANT: Yes, writing an email to learn about something or writing an email to a friend.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I find that in my work, when I'm trying to interpret the results of research, the AI has not done the job very well.
+
+MODERATOR: Could you tell me more about what specifically made the AI's interpretation of research results inadequate? What were you hoping it would do better?
+
+PARTICIPANT: It doesn't pick up on many of the themes in the research accurately, and it doesn't calculate data from an unstructured interview accurately either.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 2 - Low trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: A perfect AI assistant would function much like a human, perhaps even faster and more efficiently, in anticipating my needs and being proactive in getting things done for me, both in personal and work-related matters.
+
+MODERATOR: You mentioned wanting an AI that anticipates your needs. Could you give me some specific examples of what that proactive assistance would look like?
+
+PARTICIPANT: For example, an AI tool that could go through my calendar for the coming week, organize it for me, and prepare a memo of what I need to prepare. Essentially, it would create an agenda for what I have to prepare for each meeting coming up in the week based on my Outlook calendar.
+
+*Q9*
+MODERATOR: You mentioned calendar integration. What other systems would you want your perfect AI assistant to connect with?
+
+PARTICIPANT: Excel, PowerPoint, Word.
+
+MODERATOR: Could you tell me more about what you'd want the AI to do with Excel, PowerPoint and Word? How would that help you?
+
+PARTICIPANT: For Excel, I'd like it to perform basic calculations when it comes to analyzing the research information we have. For PowerPoint, it would be ideal if it could transfer information from interview transcripts into a PowerPoint presentation. And with Word, it would be great if it could assist in writing first drafts of proposals.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I don't think, at this point, the interface would pull the depth of information that I'd be looking for that a person conducting interviews, particularly a well-experienced person, would be able to get from me. This is especially true with the ability to go off script and know when to do so, as well as to follow the prompts of the person they're interviewing.
+
+MODERATOR: You mentioned the AI's inability to go off-script. Could you tell me more about what kind of follow-up questions or probing you feel are missing in this AI interview experience?
+
+PARTICIPANT: I think it's the ability to take the information that's provided and come up with an insightful follow-up. Not an obvious follow-up, but a more insightful follow-up to take the conversation to the next level.
+
+MODERATOR: Could you give me an example of what you would consider an insightful follow-up question that would take the conversation deeper?
+
+PARTICIPANT: Hard to do in this context.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

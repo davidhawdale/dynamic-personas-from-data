@@ -46,7 +46,7 @@ Bad: Re-run archetype-writer with the same prompt.
 
 Every workflow completion report must include:
 - WARN/FAIL conditions that occurred and whether they were resolved
-- Any items requiring human review (quote validation WARN/FAIL examples, etc.)
+- Any items requiring human review
 - Final status: PASS, WARN, or FAIL
 
 ## Exceptions

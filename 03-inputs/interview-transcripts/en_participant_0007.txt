@@ -1,0 +1,52 @@
+*Q1*
+MODERATOR: Which AI tools have you used in the last 3 months for personal purposes (not for work)? Select all that apply.
+
+*Q2*
+MODERATOR: How often do you use AI tools personally?
+
+*Q3*
+MODERATOR: Now I'm interested in how you normally use AI and where the current tools are not sufficient for you...
+
+*Q4*
+MODERATOR: For which personal tasks do you use AI most frequently? Tell me a few examples from your everyday life.
+PARTICIPANT: Write letters to authorities for me, create resumes for me, create a travel plan with attractions for me, create health tips for me, and create a plan for sports programs.
+
+MODERATOR: What does such an AI-generated travel plan typically look like? What do you provide the AI as input?
+PARTICIPANT: I provide the AI with the travel duration, the number of people, and the destination as input.
+
+MODERATOR: And what does the AI do with this information? How detailed is the plan you get?
+PARTICIPANT: The plan is usually very detailed, but it should definitely be checked again to see if the conditions and locations exist or are still available.
+
+*Q5*
+MODERATOR: Has there ever been a situation where you wanted to use AI for something but couldn't? What was the task and what did it fail on?
+PARTICIPANT: There hasn't been such a situation yet.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+*Q7*
+MODERATOR: Finally, I would like to know what your perfect AI assistant would look like...
+
+*Q8*
+MODERATOR: Imagine you had a perfect personal AI assistant. What would be the most important things it should do for you? What would it do better than the current tools?
+PARTICIPANT: My personal AI assistant should know all my life situations, my needs in daily life, my hobbies, my career, my interests, my further and advanced training, as well as my interests in concerts, movies, and cultural matters. It should offer me interesting products, events, or courses for further education and new topics. It should be able to assist me in every life situation, especially in health, hobbies, sports, and nutrition. Yes, and it should also clean my house.
+
+MODERATOR: You mentioned many areas - from health to culture. What exactly do you mean by the AI should "know your life situation"? How would it use that?
+PARTICIPANT: Life situation means to me: Do I live in a house, am I in a relationship or am I single? Am I athletic, am I healthy, am I versatile in my interests? What are my interests?
+
+*Q9*
+MODERATOR: How could the AI be linked to the systems you use (e.g., calendar, email, etc.)? What would you be able to do with it?
+PARTICIPANT: The AI could support me in everyday life with appointments and provide me with relevant information for the respective situations, be it for authorities, business mail, advertising campaigns, or renovations, such as renovations and new plans that affect the various areas of life. It could alert me and make it easier for me to manage daily life.
+
+*Q10*
+MODERATOR: Before we finish, I'm interested in how you experienced the interview with an AI...
+
+*Q11*
+MODERATOR: How did you find being interviewed by an AI instead of a human? What was different about this experience?
+PARTICIPANT: I prefer an interview with a human because it is a dialogue and not a monologue. A personal human address cannot be replaced by anything, not even by AI.
+
+MODERATOR: Can you explain in more detail what is particularly important to you in a dialogue with a human that AI cannot provide?
+PARTICIPANT: The human is real, the human is authentic. The human can say what is really going on inside them, and a human dialogue is a real dialogue. I can see the person, I can talk to them, I can perceive their tone of voice, their facial expression, their eyes. And above all, if I know them, I know that this person is genuine and not computer-controlled.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and impressions of AI tools! Your feedback helps us develop better AI assistants that truly meet people's needs.

@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: deepseek, midjourney (long time ago), canva (occassionally), and a few others.
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: The question is, what are the most common types of personal tasks you use AI for? One bucket is the exploration type of activity where I'm just trying to play with various AI tools that I've heard about from articles, short videos, and tutorials to see what they do. For the ones that I do use more frequently now, there are two parts. One is to generate multimedia files that I will then share with my friends and family to illustrate a point, sometimes trying to be a bit sarcastic or fun. For the other conversational type of AI tools, I mainly use them either for running some ideas to see whether there's anything that I'm missing or I use them to afford recommendations. For example, if I am in the mood for reading a new book in philosophy or thriller, I would ask for recommendations. Then, I might have a slightly deeper conversation with the AI to confirm whether the recommendation is the one that I'm looking for or not, and then I'll take their recommendation to actually search for it myself to see whether it's something I actually want to purchase. I'll let you know if I think of anything else.
+
+MODERATOR: You mentioned using AI for book recommendations. Could you walk me through how that conversation typically goes and what makes a recommendation helpful?
+
+PARTICIPANT: Yes, so the conversations that typically go for book recommendations will probably start with me asking for a recommendation on something very specific, with very specific criteria. For example, I may ask, "Hey, I wanted to know whether there are any controversial, like, highly controversial philosophers or controversial philosophic books out there in the past century or so." Then AI will recommend something, and I would then specifically ask for more information or I may ask for a deeper dive on a specific book or specific author. The information may go slightly deeper to the point where I ask them to give me a summary of the book to check whether it's something I actually want to read more about. Occasionally, I will ask them to compile a list of books that fall into similar criteria. For example, I'd like to see a list of authors who both won the Booker Award or Award A and Award B in the past decade or century. Then I'll review the list that AI has presented to me and ask for deeper dives on specific authors, books, or topics. So, what makes a recommendation helpful? I think any new information is helpful as long as it's accurate and it's not hallucinated. I wouldn't know until I do the actual search to validate it myself. Yeah.
+
+MODERATOR: You mentioned exploring AI tools you hear about in articles. Could you tell me more about what drives you to try these new tools and what makes you stick with some but not others?
+
+PARTICIPANT: Great question about what drives me to try these tools. Curiosity, mainly. Of course, I want to stay on top of the tools available in AI, one because of my job, and two, because I'm generally speaking, an efficiency-driven person. In other words, pretty lazy. So if there's something that a tool can do for me, I'd rather not do it myself. Having said that, the tool needs to be reliable, productive, and trustworthy. I would explore the tools myself to see how the interaction goes, and if I think that the return on investment is worth it, I'll continue to use it if it fits in my life. If it meets my needs, happy days! But if I try the tools and the user experience is not great, and the output is somewhat dodgy, then it's unlikely that it will stick around for long. I will also review the feedback from others on the tools because usually, the tools are trialed by someone else and then recommended in the articles or short clips that I consume. If they have a strong preference or dislike about certain tools, I will try it myself and see whether my experience resonates with theirs because sometimes those articles and short clips could be seen as promotions that are actually commissioned by the producers of those tools. I want to make sure that I'm actually using something or spending my time and effort on something that will actually work for me rather than something that somebody else wants me to use.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: Great question. Why don't you use AI for something but couldn't? I guess because I started my interaction with AI tools with the idea of just exploring the capabilities of those tools and where the boundaries are. It's less likely for me to ask the AI to do something and then it wouldn't, because by that time, I already know their capabilities quite well. But I may have thought, I guess when I was using Midjourney, is one thing. I think I was, oh yes, when ChatGPT came about and there was the ability to ask ChatGPT to produce images with just prompts. I was trying really hard to ask ChatGPT to fix some typos in that image, but it just could not do it. I guess it's very easy for us to see the image and spot the letters in it and convert them into meaning. But at that time, ChatGPT hadn't linked the shapes to the meaning yet. So I tried it a few times, asking it, for example, to change "we come" to "welcome," and it just got weirder and weirder. So I gave up.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Great question! If you define it as a personal assistant, then my request or definition of success for that personal system will be pretty much similar to what I would expect from a human personal assistant, minus the efficiency of their responses. I think I would value transparency, collaboration, and personal assistance to produce what I produce and what I ask for in a way that keeps me informed along the way. I don't need to know everything; I just want to make sure that they're not going in the wrong direction because of some misunderstanding. Communication costs are one of the most costly, time-consuming, and potentially impactful aspects of any kind of work, whether it's personal or professional. I also would respect privacy. For example, I should initiate the touch points rather than the personal assistant initiating touch points. If the personalized assistant initiates any touch point, it should be pre-configured by me. How would it be better than existing tools? I guess my definition of better will depend on the circumstance, so I can't give you a clear answer like an umbrella definition of good. It has to be rooted in the context.
+
+MODERATOR: You mentioned valuing transparency and collaboration. Could you give me a specific example of how you'd want the AI assistant to keep you informed during a task?
+
+PARTICIPANT: Okay, so an example could be, I usually say that, hey, this is what I want from you. Let me know whether there's anything that you need from me before you go away and execute all these tasks. From that moment on, I would expect the AI assistant to summarize my asks and to make sure that, one, they haven't misunderstood me, and two, explain what they would do. This way, I can then sense-check. Sometimes, they're okay to go and do the things that they plan to do if I confirm that the ask is valid. But if they can show me the things that they are doing step by step, I can spot whether there's any step that's slightly off track or not. I don't need a lot of details, just top-line summaries of activities would be good. If there is any step that is a bit worrying, I might ask for further clarification, and at that time, they should be able to provide that.
+
+MODERATOR: You mentioned wanting the AI to let you initiate interactions. How would you want to control when and how the AI communicates with you?
+
+PARTICIPANT: Right. About how I would want to control when and how the AI communicates with me. It can be through conversation or through a user interface, depending on which one is more suitable at the time. If I am really not in the mood for typing anything, interacting with a UI could be a conversation where we just go through a few ground rules. But at some point, I would like to have the option to see everything in the UI visually, so I can have everything at a glance and then fine-tune any of the configurations if needed.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Great question. Right now, I do not like AI to touch my calendar and emails too much. Well, they are doing that anyway, like Clockwise. I think it's AI. But if they're doing it, it should be really marked clearly that this is an AI-generated recommendation or AI-generated meeting, etc. For interconnection with the other systems that I use, assume that you're talking about it in a personal use context, right? So for personal use, I chat a lot with my friends and family. I don't really use emails. It could be that my chat should sit alongside the other chats that I have, so I can very quickly pull something from the AI and send it to my friends and family or generate something for laughs. If we are planning holidays together, I can pull AI into a group where we have a group chat and use AI as an idea generator and sense checker. Other than that, I don't want AI to be integrated with any other digital tools that I'm using at the moment because then there's a large chunk of that tied to payment. I'd rather not have expensive mistakes until I know that the AI is as reliable as it could be.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I don't mind. There's no real preference. It's once again a thing that I'm currently exploring, so any new learning is a good experience. Generally speaking, it's positive. If we have to compare this with an interview with another human, there is some back and forth, but not a lot of back and forth. Not that I believe that having a lot of back and forth in an in-depth interview is a good thing, but there are moments I wondered whether AI has captured everything or if it has missed some points. Last weekend, I was in a seminar where somebody was talking about AI and misinterpreting liver. I also wondered about my accent and how fast or slow I talk, and with all the ums and fillers, will AI actually capture the key message accurately? Because it's not playing back everything. Anything else? Let me have a think. Oh, I guess because I am talking, and you could enable AI-generated voice, I would expect the AI interview to at least be voiced. That wasn't done, though. It's not a big deal breaker. I also don't know whether it will mess up the system if I say, oh, by the way, about the question that you asked me five minutes ago with an AI interviewer, because I don't know how the data would be analyzed. Yeah, that's about it. A good thing, a positive thing, is that I can do this asynchronously anytime, and I wouldn't feel sorry for the AI interviewer if I start early in the UK and think, oh, if they were a human, then they would be starting really early in the US just to accommodate my time preference.
+
+MODERATOR: You mentioned wondering if I captured everything. Could you tell me more about what makes you uncertain about AI's understanding compared to a human interviewer?
+
+PARTICIPANT: What makes me uncertain about AI's understanding compared to a human interviewer are case studies that I've seen, read, and heard about where AI misinterprets crucial information, particularly in healthcare when AI is transcribing diagnoses and trying to generate diagnoses and solutions. As I mentioned, the doctor said "lungs," and AI thought they said "liver." Things like that are concerning. Some of my friends work in academia and they focus on AI in healthcare, and this is one of the use cases that pops up, which is really worrying. So when you hear things like that, generally speaking, you're just uncertain about AI's understanding anyway. Besides this exact interview, how it's structured, AI doesn't play anything back to me in a consistent, structured format. It's kind of woven into the follow-up questions here and there, but I don't see a whole summary or key points of summary. When you're interviewing with a human, occasionally the interviewer will say, "Let me play back what I'm hearing," and that is a good skill for human interviewers. I'm not seeing that here, so once again, that's not giving me enough confidence that AI is capturing everything.
+
+MODERATOR: You mentioned wanting AI to play back key points. How would you want an AI interviewer to summarize or confirm their understanding during the conversation?
+
+PARTICIPANT: Just simple bullet points would do. I don't need word-by-word transcripts.
+
+*Q12*
+MODERATOR: 感谢您分享关于AI工具的使用体验和见解！您的反馈将帮助我们打造更贴合用户需求的AI助手。

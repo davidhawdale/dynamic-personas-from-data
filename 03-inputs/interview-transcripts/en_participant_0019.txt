@@ -1,0 +1,79 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I've recently been using AI to plan a golf outing for my brother, who recently passed. I'm asking for ideas and tips, and it's kind of like having a partner. I'm looking for suggestions for social media posts, a lot of marketing ideas, and how I should design or layout materials that I'm creating, such as the flyer and things I should include on there. I'm also seeking ideas on how to boost the golf outing. So, I've been using it a lot for that in particular. Other than that, I use AI as my new Google search. For anything that comes to mind, whether it's an event or not, or news, I will ask ChatGPT because I can have a conversation or learn more. I think it's a good way to learn and dig in without having to read a single article and then search for more articles.
+
+MODERATOR: You mentioned using AI for planning a golf outing memorial. Could you tell me more about how AI helps you process and plan such an emotional event?
+
+PARTICIPANT: Any typical question that I have or something that I'm trying to solve using AI, I can just type in there. If it's not hitting the mark or didn't understand me correctly, it's just a simple prompt to say, "No, I meant this," and it usually corrects itself and figures it out pretty quickly. So that's been very nice.
+
+MODERATOR: You mentioned using AI as your "new Google search." Could you share a specific example of how AI gives you better results than traditional search?
+
+PARTICIPANT: It does a mass search very quickly and gives me answers. Then I can ask follow-up questions on what interests me the most based on their responses. If I want to go in a different direction, I might ask a different question. So, it's more like a conversation than just reading articles, and I feel like I can get more information a lot faster.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: This is a tough one. I feel like I can always use AI for a task, so I can't really answer this one too well.
+
+MODERATOR: That's interesting that you feel you can always use AI. Have there been any tasks where AI's responses weren't quite what you needed, even if you could technically use it?
+
+PARTICIPANT: That's the thing. I can continue to ask AI questions until I kind of land in a place of what I'm looking for. So that's why I'm having such a hard time answering this question because I feel like I could keep prompting or working with it to get where I'm trying to go. Even if it's not ultimately what I'm looking for, I guess, with the answers, it might have given me an idea or something.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 4 - High trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Something that really understands me, kind of like a companion or a friend that truly gets my experiences. I feel like it's somewhat there because if you create an account with AI, you can revisit past conversations. For example, when planning a golf outing, I go back to the same thread every time, so I know it has all that prior information. Ultimately, with how I've been using AI, I feel like it is pretty close. There are obviously other aspects of my life or tasks that it might need to address a bit more, such as discussing my work and what I do here. But for personal use, it's meeting my needs pretty well. It just really needs to understand me and everything I have going on to cater to me.
+
+MODERATOR: You mentioned wanting AI to understand you better. Could you give me a specific example of what that deeper understanding would look like in practice?
+
+PARTICIPANT: Okay, you're making me think about this a little bit more. I have a bunch of different threads in ChatGPT. For example, my dad is going through cancer, and I have a thread from the beginning of that, before we even knew he had cancer, just prompting it. Now I have a thread for my brother's golf outing and all the things I'm trying to do to plan that. I also have a bunch of other threads, maybe ones that I don't really interact with, but just common questions that I might ask every day. 
+
+If, rather than having to go to each of those threads—and maybe it is doing this already, I haven't really tested this out—it could combine all that together and know what's going on in my life. So when I'm asking a question, it could say, for Justin's golf outing, you should do X, Y, Z, and considering what you're going through over here, it might be a good idea to do this. Just really, you know, like a personal companion, which I'm sure that's what AI is heading towards anyway, to really know everything that's going on to help benefit me or make me think of things that I might not think of otherwise.
+
+MODERATOR: You mentioned wanting AI to connect different threads of your life. Beyond health and events, what other areas of your life would you want your perfect AI assistant to understand and help with?
+
+PARTICIPANT: I don't think this is necessary, but it would be pretty cool. Now I'm just thinking blue sky. What if the AI not only gave me suggestions for the prompts that I'm asking, but also started giving me ideas for other things? For example, "Hey, you're a UX designer. Have you ever thought about using this tool?" Seeing as I'm talking about this, I don't know. Just like how we humans can go off on tangents in different directions and stuff. It might be kind of cool if AI was spitting out random ideas about something that we might not even be talking about, but it is somewhat related to what we're discussing, if that makes sense.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Yeah, I guess if I was using AI, for example, planning this golfing and whatnot, this is logged in through my personal Gmail account, sending dates to my calendar or automating sending out emails to people that have registered, things like that. If it could ask if I would like it to do that and it could write up the emails and stuff, obviously, that would be great. I don't mind doing all those extra tasks on my own because then I can really make sure they're done right. But if there's a way that AI could do things like that during our conversation, obviously, that's going to save me time.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: Well, I didn't really think about it being AI interviewing me. I felt like these were pre-prompted questions, but now thinking about it, yes, you did follow up with things that I was saying. It's different because I'm not getting any facial expressions or anything like that to understand how you are reacting to my answers. But I also have in the back of my mind that there is going to be a human reviewing this, so I still have that in the back of my mind. It's not just all AI that will be reviewing this interview. But yeah, it wasn't too big of a deal. The experience was fine. It could go either way on how I feel about having facial expressions. One way, I could be a little bit more focused, I guess, because I'm not reading facial expressions and wondering what the person's thinking, whether it's good or bad. And then two, this is a pretty casual interview, so it wasn't too nerve-wracking for that anyway.
+
+MODERATOR: You mentioned not getting facial expressions from AI. How does that affect the depth or honesty of your responses compared to a human interview?
+
+PARTICIPANT: Kinda answered this in the previous question. I guess it depends on the interview. Like I said, this is pretty casual, so I'm not too nervous. This is just talking about my experiences and why it's not a job interview or anything. But having facial expressions from a human and just that interaction might help somebody, or it might hurt somebody. It could go either way depending on the facial expressions that are coming from the person and who you're interviewing with. There could also be interruptions and stuff that are nice and casual conversation that you get with a human versus an interviewer. I mean, getting interviewed by AI, like right now, I'm rambling. I might be asking a follow-up question during my response so the conversation can flow in that way. Right now, I'm not getting that. So it's whatever. I guess it depends on the use and the interview type and so forth, but this seems like a nice quick way to get some answers about something, as long as it doesn't need to be too in-depth. I wouldn't want it to be my job interview by any means. I want to be able to talk to the person.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

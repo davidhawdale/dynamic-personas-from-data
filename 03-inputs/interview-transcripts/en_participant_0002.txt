@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Claude, Microsoft Copilot, ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use Microsoft Copilot with Excel to perform some data analysis for personal finances. I used Clued and ChatGPT for general research around products and ideas that I'm thinking about.
+
+MODERATOR: Could you tell me more about how you use AI for personal finance analysis? What specific tasks do you do?
+
+PARTICIPANT: Sure. So I pulled down data from banking and investment sites, CSVs, and threw that into Excel. Then I use AI to streamline the process of analyzing that data, such as aggregates, projections, and pivot tables. AI serves as a shortcut to remembering how to do things in Excel with the data. I just tell the AI what my end goal is and let it figure out the menus and icons needed to get there.
+
+MODERATOR: You mentioned using AI for product research. Could you tell me more about how you use AI to research products and ideas?
+
+PARTICIPANT: Yeah, I mean, this is mainly for when I evaluate products I'm thinking of purchasing, including the pros and cons, and anything around that.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: Not so much couldn't, I'm probably more under the realm of shouldn't. I'm thinking about some privacy concerns. What is it that I want to put into, you know, do I particularly want to train somebody else's model, and what happens to that data after the fact? So, again, I haven't encountered something that I wasn't able to do, more that I chose not to do.
+
+MODERATOR: Could you tell me more about these privacy concerns? What specific data are you worried about sharing with AI?
+
+PARTICIPANT: Any PII? Anything concerning other people? Yeah, essentially. Once it gets out into the open, where is it going? What's actually happening to that data? Should we have similar concerns at work? But yeah, it's mostly PII.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Most of my interactions with AI tools have been chat-based, so text-based input. This may already exist, but a better solution would be to verbally describe and have the tool accept all the nuances of, you know, a bit of a rambling answer, much like this perhaps, with some ums and ahs, as opposed to a perfectly formatted piece of input.
+
+MODERATOR: You mentioned wanting better voice input. Beyond that, what other capabilities would make this AI assistant perfect for you?
+
+PARTICIPANT: Probably customized responses, which may already be available, but phrased and communicated in a way that matches how I best absorb information. What I mean by that is, you know, direct answers sometimes, as opposed to long, meandering responses. So, learning or being told how I would want to receive that information, just not what the information would be.
+
+MODERATOR: You mentioned wanting customized responses and better voice input. What other features would make this AI assistant "perfect" for your needs?
+
+PARTICIPANT: I don't know if there's too much to add, really. I mean, being available on multiple platforms seems like a fairly basic requirement—desktop, mobile, you know, near-instantaneous responses and high availability.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Yeah, I mean, I think this is sort of touching into the concept of autonomous AI, which seems to be the next generation of things. So, you know, can I ask you to send an email at some point in the future? Or, you know, other things that aren't synchronous but are asynchronous activities?
+
+MODERATOR: Could you tell me more about what other asynchronous tasks you'd want the AI to handle beyond sending future emails?
+
+PARTICIPANT: Yeah, I mean, I can imagine asking, if I wanted to book a flight, let's say, to London, to check the flights now and also periodically look up the prices of flights every five days for the next couple of weeks and let me know when the prices change.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: This was fine being interviewed by AI. I mean, I didn't find it any more or less comfortable, to be honest. I will say, putting myself on the other side, there's less opportunity for the AI to delve into, "Oh, can you expand upon this? What did you really mean by this?" I got some of that through this based on what I said. So, hopefully, this is being useful, but it certainly wasn't, yeah, it felt as natural as doing it with a person.
+
+MODERATOR: You mentioned it wasn't as natural as talking with a person. Could you tell me more about what specific aspects felt less natural?
+
+PARTICIPANT: Oh, I actually said it was as natural. So that was a misinterpretation. I thought it was as natural as talking to a person.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

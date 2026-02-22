@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Perplexity, ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: The most common types of personal tasks I use AI for are design work related to my job. Not design in terms of website or product design, but lesson planning. I'm a professor, so I focus on lesson planning, the design of educational activities, and so on. I also use it sometimes for writing and research. Those are my main examples. Additionally, I sometimes use it in my personal life for questions or tasks that I could use help with, like, "These are the items in my pantry; find me a recipe that I can make with these items," or "Make me a spreadsheet that breaks down my credit card costs for this month. Here's the data," that type of thing.
+
+MODERATOR: You mentioned using AI for recipes and financial tasks. Could you tell me more about how AI helps with these personal life tasks?
+
+PARTICIPANT: Sure. So AI is really useful for when I have disparate ingredients that don't naturally go together, coming up with ways to combine them and add other ingredients into the mix to create a recipe that makes sense. I like to use AI for this because it doesn't just tell you what to combine, but also the process to follow, which is really helpful, and I can refine it as needed. For financial tasks, I sometimes have it create spreadsheets or run scenarios for me, like with credit, for example, or paying off debts, those types of things.
+
+MODERATOR: You mentioned using AI for financial scenarios. Could you give me a specific example of how you used AI to help with debt or credit planning?
+
+PARTICIPANT: I actually am having trouble remembering a specific example right now, so I don't think I can give you a specific one. Let me just think about it for a moment. Okay, actually, I can give you an example. So I was trying to estimate the cost for signing a new lease for my car, and I wanted to calculate the debt with different contract payments, with different amounts of interest over different terms of months, that type of thing. AI was helpful for running those numbers.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: A time that I wanted to use AI for something but couldn't was when I was working with really private or identifiable data. For instance, I wanted to use AI in my research. One of the research tools I like to use is Max QDA for qualitative data analysis; that's what QDA stands for. It has its own AI built in, but I'm not sure if it's completely private. I can't de-identify qualitative data, like interview transcripts, which makes it really difficult. So, I haven't used it for that purpose yet because I want to explore more about responsible use in that case.
+
+MODERATOR: You mentioned privacy concerns with research data. Have you explored any specific solutions or alternatives for analyzing sensitive data with AI tools?
+
+PARTICIPANT: I have not yet explored specific solutions or alternatives for analyzing sensitive data with AI tools. I'm in the process of learning about that.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: You know, I'm still learning about AI and how to use it, as well as the different tools that exist. So, it's hard for me to answer this question about the perfect personal assistant, what things it could do, and how it would be better than existing tools. But one thing I can tell you is that I think it would be cool if I could use an AI that would, I was going to say, anticipate some of my questions, but that's not exactly right. More like, right now, ChatGPT, after you send a prompt and it gives you its output, sometimes it will give you suggestions of other things it can do for you that are related. More of that. More of, like, here are other things I can do. You know, not so many choices that it's overwhelming, but enough suggestions that a person can learn how to delve deeper and use AI in ways that they might not have imagined right there in the moment.
+
+MODERATOR: You mentioned wanting AI to suggest related capabilities. Could you give me an example of what kind of suggestions would be most helpful while you're using it?
+
+PARTICIPANT: What kind of suggestions would be helpful? Maybe something like, "Other users who wrote similar prompts asked questions like this." Then, it could present something like, "Here's something you could ask," and you could click on it. The AI tool could then use that question for your situation, something like that.
+
+MODERATOR: You mentioned wanting AI to suggest related questions. Beyond that, what other features would make your perfect AI assistant better than current tools?
+
+PARTICIPANT: This is really hard to answer because I don't know what's possible. It's hard to imagine what you don't understand, and I'm still learning about AI. So at the moment, that's my answer.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Well, that would enable me to do a lot, but I would want to ensure that it's not buggy and that it's not going to cause problems. If it's connected to my calendar, like, for example, Zapier has Zaps where you can connect different systems together, like your email and your calendar, etc., that's cool. I just want to make sure that I really get it right before I would actually want the AI to be interconnected with those systems. I want the user experience to be super clean and super easy to understand for a layperson, not a designer. I would also want there to be safeguards in place before anything happens automatically, so I don't do something or send a message that's embarrassing.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: You know, I think it would have been better for me to have been interviewed by a human because the human connection is something that can't be replicated. Human-to-human connection can't be replicated using technology, at least not right now. This experience felt kind of two-dimensional, a little bit flat. The AI was responsive to what I was saying, which I appreciate—that's cool—but not responsive in the way that a human being would be, with their facial expressions, tone of voice, and being a fully realized human being. So that was missing from this experience.
+
+MODERATOR: You mentioned missing facial expressions and tone of voice. How do you think AI interviews could be improved to feel more natural and engaging?
+
+PARTICIPANT: I don't think that AI interviews ought to mimic human-to-human interaction. I think that it should probably remain as it is now, and that it should be used for tasks where that type of tool is appropriate. Humans should be involved in situations where having a human is important. Those are my thoughts.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

@@ -1,0 +1,85 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Midjourney
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use it to order my thoughts sometimes. I just give it some of my thoughts and then let it voice them back to me. I create images because I like it, and it's more for creative purposes. I paint and let it generate inspiration for me, basically. I also use it to come up with recipes sometimes, but that's not daily—more like once in a while. I think that's my personal use. To be honest, I use it a lot more for work.
+
+MODERATOR: You mentioned using AI for creative purposes like painting. Could you tell me more about how you use AI for artistic inspiration?
+
+PARTICIPANT: Sometimes I give it references that I like, along with a picture of a scene that is personal to me. This helps inspire me on how to use the style for that. Alternatively, I let it generate things like abstract paintings. For illustrations, I provide a scene that I'm thinking of and let it generate a few different compositions to help me consider different options.
+
+MODERATOR: You mentioned using AI for recipes occasionally. Could you tell me more about how you use AI for cooking and meal planning?
+
+PARTICIPANT: Yeah, sometimes I don't know. At home, I have some ingredients, and I let it give me some inspiration. But I also try to have it generate a weekly meal plan for me, just to help take off some of the mental load of having to think about dinner all the time. I must say that it didn't really help me much. And sometimes, when my kid was a bit younger, I asked it for some recipes. I don't know, just looking for inspiration.
+
+MODERATOR: You mentioned using AI to order your thoughts. Could you explain more about how that helps you process your thinking?
+
+PARTICIPANT: Yeah, so occasionally, I might feel frustrated with my partner about something, and I want to reflect on what actually happened. Why is this making me feel this way? Am I wrong? Or what could his perspective be on it? I would obviously talk to my partner about it as well, but sometimes it's during work hours, and it can take a few hours to be able to talk to him. So, I use JGPT to help order my thoughts so I can go into that conversation more prepared. Additionally, I sometimes have more philosophical thoughts, like where is the world going with AI? Since I work with AI a lot in my job, I reflect on whether I think we're heading in the right direction or not in my personal life.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I can't really think of something, to be honest.
+
+MODERATOR: Let me rephrase - has there been any task where current AI tools fell short or didn't meet your needs completely?
+
+PARTICIPANT: I mean, it doesn't always give me exactly the answer that helps me right away. I'm not sure if I see that as falling short, more like, I don't know. For me, it's also not life-dependent; my life doesn't depend on it, so it's just experiments for me. Maybe for the recipes, I was kind of looking for a personal assistant that would be able to take that load off me, like thinking, okay, this is what you're going to have for dinner, this is your grocery list, and you can go to the store on this day. But, yeah, in this instance, GPT just doesn't have all the details needed to do that for me. I would need to feed it so much information, like my calendar, and I didn't want to do that. It also doesn't proactively give me hints, so that didn't work.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think I come back to the food, to be honest. The thing I struggle with most in my personal life at the moment is balancing all the housework and childcare with just a little bit of time for myself. So anything like, if my personal assistant could make sure that I have food in the home every night with a healthy, easy-to-cook meal, that would be great. I don't want to have to think about it or fall back on maybe ordering a pizza every week. I just want the assistant to decide for me so I can eat something healthy without the effort. I like to eat healthy, but if I have the choice every day, I don't always make the right choice. It would be lovely if an AI personal assistant could recognize that.
+
+MODERATOR: Beyond meal planning, what other daily tasks would you want your perfect AI assistant to help with?
+
+PARTICIPANT: I mean, I guess if it had robot arms, it could clean up after me, like, tidy up the house, make a list of all the housework that needs to be done to create a realistic plan, and generate ideas for home improvements. Those are things I like to think about myself, but I guess it could help me structure those thoughts and put them in a list somehow. What else? Personal things. I think that's it.
+
+MODERATOR: You mentioned home improvements - could you tell me more about how your perfect AI assistant would help with planning and organizing those projects?
+
+PARTICIPANT: Well, I like to think about what I really want to get done, and then it could help me break it down into smaller tasks and schedule when might be a good time to pick them up or in which order. Yeah, something like just keeping the overview mostly.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: If the AI were connected to my calendar, it would help me plan and think about when might be a good time for things. Of course, I would need to keep everything in my calendar, which I don't do at the moment. As for email, I'm not sure. I don't think I would want AI to write emails for me or read my emails. Most of my emails are work-related anyway, so they aren't related to personal use.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I think what's actually nice is that you get a moment to think about your answer without feeling the weight or pressure of someone waiting. You know, well, the AI doesn't matter; they can wait. It's obviously less personal, so depending on the topic, it can be nice to have an actual person there. But yeah, I quite liked it.
+
+MODERATOR: You mentioned feeling less pressure without someone waiting. Could you tell me more about how that affected the quality or depth of your answers?
+
+PARTICIPANT: I think, I'm not sure if it's true, but I believe I could actually give answers a bit more freely. I do think that having a human there might have triggered me a bit more to provide even more answers. The AI wouldn't give me examples, but sometimes examples help to trigger your thinking, and the AI couldn't provide anything from personal experience. I'm not sure how that affected it.
+
+MODERATOR: You mentioned that examples from a human might help trigger more answers. What kind of follow-up questions or examples would have been helpful during this interview?
+
+PARTICIPANT: Guess examples of how AI could help during the day. But again, I'm not a researcher. Maybe that completely destroys the research if you do things like that. But that would have been helpful because then you can kind of trigger your thinking about what an ideal AI assistant looks like. Maybe I'm not thinking broadly enough, for example.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

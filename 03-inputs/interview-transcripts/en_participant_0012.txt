@@ -1,0 +1,85 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Google Gemini, Other
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: For the most part, I've been using Midjourney to assist with my digital illustrations.
+
+MODERATOR: Could you tell me more about how you use Midjourney for your illustrations? What kind of artwork do you create?
+
+PARTICIPANT: Various types of artwork these days include fantasy, horror, Greek mythology, and pop culture.
+
+MODERATOR: Could you tell me about your creative process with AI? How do you use it to bring your artistic vision to life?
+
+PARTICIPANT: That is a tough question. I start off with kind of a blank slate. What I like to do is load up illustrations I did by hand into Midjourney, and a lot of times I combine those images to see what advances me. From there, I take what I can use for something else I want to do, which creates a catalog of things I can draw from. I can either take something from Photoshop and combine numerous elements to create a successful piece, or sometimes I like to use it just as a clear reference.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: These days, there are certain competitions or projects that come my way where I'm instructed not to use AI. Even though I still use it for inspiration and reference, I will not use it directly.
+
+MODERATOR: Could you tell me more about these competitions or projects? What kind of restrictions do they place on AI use?
+
+PARTICIPANT: Apparently, any and all. But what can you do?
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think of the movie "Her." It got rid of all my junk mail and how AI would know what I want to see or what I would like, while at the same time challenging me to try different and new things.
+
+MODERATOR: You mentioned filtering junk mail and suggesting new things. Could you tell me more about how this AI would challenge you to try new things?
+
+PARTICIPANT: I think of right now Spotify and how the algorithm so many times suggests things that I don't like, which is shocking to me because they're supposed to monitor my likes and tastes. I feel like sometimes that's not particularly successful, and I have to work too hard to find the things I like.
+
+MODERATOR: You mentioned wanting better recommendations. What other features would make your perfect AI assistant more helpful than current tools?
+
+PARTICIPANT: I guess help me with time management, which is something we all struggle with, I think.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Just manage my time better and know how I spend my time.
+
+MODERATOR: Could you tell me more specifically what systems you'd want the AI to connect with and how it would help manage your time better?
+
+PARTICIPANT: Our Google Calendar, something like that.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: Straight to the point, without emotion, which I liked. It was very seamless. Thank you.
+
+MODERATOR: You mentioned liking that it was "without emotion." Could you elaborate on why that was a positive aspect for you?
+
+PARTICIPANT: I did not feel judged.
+
+MODERATOR: Could you tell me more about feeling not judged? How does that compare to human interviews you've experienced?
+
+PARTICIPANT: It's hard to describe, but I do feel like an AI bot is listening rather than a human interpreting. Does that make sense?
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

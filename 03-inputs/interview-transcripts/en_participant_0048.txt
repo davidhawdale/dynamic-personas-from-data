@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Claude, ChatGPT, Google Gemini
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use AI for my resume and summaries of my portfolio case studies, cover letters, and even for planning trips to other places, including itineraries and gardening plans.
+
+MODERATOR: Could you tell me more about how you use AI for trip planning and itineraries? What kind of help do you look for?
+
+PARTICIPANT: Well, I like to know where to visit, such as famous restaurants, good historical sites, and hotels that people love, along with good and affordable food. I also want to know about good routes. For example, I want to visit many places in one day and find out what the best places are to do that, ensuring it's an affordable and fun day.
+
+MODERATOR: You mentioned using AI for gardening and plants. Could you tell me more about that? What kind of help do you seek?
+
+PARTICIPANT: I want to know about local plants that are resilient and drought-tolerant, especially flowers, and I need guidance on that. Also, considering my location, maybe there are some native plants I can leverage. Additionally, I would like to have a master plan that outlines the recommended ways to plan in my area overall.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I want to ask about some financial planning, but that's a lot of private data, and I don't want to somehow deal with future privacy data issues. That's why I didn't do anything from a privacy perspective. The same goes for health; asking for recommendations, especially with my current situation and status, and revealing private data is also concerning, so I didn't pursue it.
+
+MODERATOR: You mentioned privacy concerns with financial and health data. What specific risks do you worry about when considering using AI for these sensitive topics?
+
+PARTICIPANT: I'm worried about, like, cybersecurity risk. If my data, is out in the public, someone can use against me or some sort of, like yeah. It's it's more like the cybersecurity threat perspective. And I don't wanna kinda get a digital scam. Like, I don't wanna encourage any because of my data is out there and and have that becoming that, you know, gonna trigger becoming the the victim of the digital scams.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think a perfect AI assistant would have a good context about what I'm going to do, especially when it comes to Project A. It would already have a better understanding and start suggesting the next moves. It could also encourage me and schedule the right times so that I can achieve better results. Things like that, being a couple of steps ahead of me, coaching, encouraging, and guiding me with certain strategies.
+
+MODERATOR: You mentioned the AI understanding context and suggesting next moves. Could you give me a specific example of how this proactive coaching would work in your daily life?
+
+PARTICIPANT: Oh, an example for understanding context and suggesting next moves. It's like, let's say I have a scheduled interview next Friday. The AI assistant would provide me with a plan on what I need to do to perform really well in that interview. It would give me the company context, information about the interviewer, and the strategy I should follow. It would outline what I need to do, things like that. Then, from Monday until the interview, it would suggest tasks for me to work on together. After the interview, it would ask me how it went, almost like a career coach.
+
+MODERATOR: You've described how AI could help with interview prep. What other areas of your life would you want this proactive coaching approach in?
+
+PARTICIPANT: Oh, I can see the sector checking in with me, let's say, with the activities.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I guess part of the AI system is a trust level. Based on the trust and automation level, it would enable the AI to ask, "Is it okay to have access to this?" I think that would be important. Enabling trust would then allow for better connections.
+
+MODERATOR: Could you give me a more specific example of how you'd want AI to connect with your calendar, email, or other systems? What tasks would this help with?
+
+PARTICIPANT: I'm thinking in the onboarding flow, maybe give you an example of what kind of impact it could have, and then you could enable the connectivity to your calendar and email.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: It feels a little weird, I have to say. I like the human interaction, but definitely, maybe some introverts, you know, that type of personality, they'll prefer this. But the frustration is that there is always asking, like, in the subject with the audio or video and refresh the page. So I had to repeat the change, like, three or four times.
+
+MODERATOR: You mentioned technical frustrations with audio and page refreshes. Could you tell me more about how the actual interaction with the AI interviewer felt different from talking to a human?
+
+PARTICIPANT: I think I have to agree that there's no voice, and that's a lot.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: What AI tools have you used for personal tasks (outside of work) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT, Google Gemini, Claude
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Several times a day
+
+*Q3*
+MODERATOR: I would now like to know more about your AI usage habits and the limitations of current tools…
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: For what types of personal tasks do you most often use AI? Give me a few concrete examples.
+
+PARTICIPANT: I use AI mainly to make quick corrections and to rephrase sentences for sending administrative emails.
+
+MODERATOR: Can you give me a specific example of an administrative email where you used AI for rephrasing? How did the AI help you?
+
+PARTICIPANT: For rephrasing exchanges with a real estate agency, the AI helped me add precision to my sentences and adopt a slightly more formal and cordial style.
+
+MODERATOR: Apart from administrative emails, do you use AI for other types of personal tasks?
+
+PARTICIPANT: No.
+
+*Q5*
+MODERATOR: Tell me about a time when you wanted to use AI but couldn't. What was the task? What prevented you?
+
+PARTICIPANT: Using AI in a professional context — now we have a tool managed by the data team, but given the secure environment I work in, at the bank level, it was very complicated to use, for example, ChatGPT.
+
+MODERATOR: Can you give me more details about the specific restrictions that prevent you from using AI in your banking environment?
+
+PARTICIPANT: No.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions provided by AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to know what the ideal AI assistant would look like for you…
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect personal AI assistant. What would be the most important things it would do for you? How would it be better than current tools?
+
+PARTICIPANT: For me, the most important thing a personal assistant can do is understand my request with very precise context, so that it can help me effectively while allowing me to make my personal adjustments as little as possible. So it's essential that the prompt is precise and that it can recognize the precision I give it.
+
+MODERATOR: Can you give me a concrete example of what you mean by "very precise context"? How would the ideal assistant understand that context better?
+
+PARTICIPANT: For example, business figures, analyzed volumes, that kind of thing. Actually, what would interest me is that it's directly connected, at least in my professional case, directly to our data and brings more precision. Because right now, it's me who gives it a lot of context with variables, and it isn't capable, at least for us, of retrieving those variables and therefore doing an analysis, for example.
+
+MODERATOR: You mentioned the importance of connection to data. Outside of the professional context, what other aspects would make this AI assistant perfect for your personal needs?
+
+PARTICIPANT: For example, I had already tried, but there was already an AI assistant that allowed job searching and to apply directly to multiple positions that interest me. So I think that would be an interesting feature to include as an extension, because searching for jobs or new positions can be very time-consuming. So I think that would be a good improvement.
+
+*Q9*
+MODERATOR: How could AI be connected to the systems you use (for example, calendar, e-mail, etc.)? What would that allow you to do?
+
+PARTICIPANT: Directly on software like Content Square, for example, and then it could also be made available directly on Google Meet, indeed, on Google Calendar and Mail. Yes, Calendar and Mail, that could be interesting. In any case, it could allow you to move faster.
+
+MODERATOR: Can you explain more precisely how AI could help you with Google Meet and Calendar? You mentioned it would allow you to move faster.
+
+PARTICIPANT: For example, on Google Calendar, it would allow detecting occurrences directly with other collaborators whose schedules I'm checking and give me the slots that are directly available, for example next week or the following two weeks. It would be up to me to determine the timeframe. On Google Meet, for example, it would allow me — although it already exists, but in our company it's impossible — to generate automatic meeting summaries, which takes a lot of time and would allow for more precision regarding the minutes.
+
+*Q10*
+MODERATOR: Before concluding, I'd like your feeling about being interviewed by an AI…
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel being interviewed by an AI rather than a human? What differed in this experience?
+
+PARTICIPANT: It's interesting, it's a different approach. After that, there's less context, less opportunity to explain why I'm doing this interview and to ask other questions and to follow up a bit more. It's true that often there are two questions in each question — well, each question contains two questions inside — and potentially fewer ways to follow up. A human interviewer would tend to follow up more easily to try to guide me. So I'm a bit more lost in my answer, and I tend to ask myself: is this the right answer? Even though, with a human interviewer, the person opposite isn't supposed to give me direction or to confirm or deny my answer.
+
+MODERATOR: You mentioned that the AI often asks two questions at once. How would you prefer the questions to be structured to feel more comfortable in your answers?
+
+PARTICIPANT: I don't have a solution.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and opinions about AI tools! Your feedback will help us create better AI assistants, truly adapted to people's needs.

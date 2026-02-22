@@ -1,0 +1,58 @@
+*Q1*
+MODERATOR: What AI tools have you used in the last 3 months for personal purposes (not work-related)? Check all that apply.
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal matters?
+
+*Q3*
+MODERATOR: I would like to better understand how you usually use AI and where current tools do not meet expectations...
+
+*Q4*
+MODERATOR: For what most common personal tasks do you use AI? Tell us about a few examples.
+PARTICIPANT: I use AI to summarize articles that interest me to select the more important elements, as an aid in finding interesting places for bike trips, and as an aid in techniques for home improvement tasks.
+
+MODERATOR: You mentioned finding places for bike trips. How exactly do you use AI for planning routes?
+PARTICIPANT: I provide the destination and expect interesting places that are nearby to be suggested. I include these places in the planned route.
+
+MODERATOR: You also mentioned home improvement tasks. What specific tasks do you perform with the help of AI in this area?
+PARTICIPANT: I specify what needs to be done and expect a response on what materials and tools I will need.
+
+*Q5*
+MODERATOR: Tell us about a situation when you wanted to use AI but couldn't. What was the task? What prevented you from using AI?
+PARTICIPANT: I wanted to fill the space between the window frame and the walls after replacement and couldn't get information on what material to use.
+
+MODERATOR: What exactly made it difficult for you to get the appropriate information from AI in this situation?
+PARTICIPANT: Due to different substrates, I couldn't get information on the specific material to use.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you receive from AI tools?
+
+*Q7*
+MODERATOR: Finally, I would like to know what you think the ideal AI assistant should look like...
+
+*Q8*
+MODERATOR: Imagine you have the ideal personal AI assistant. What are the most important things it should do for you? How would it be better than current tools?
+PARTICIPANT: The ideal AI assistant should not only be able to answer a question but also find, for example, video materials that answer such a question or provide specific solutions to a given problem.
+
+MODERATOR: You mentioned video materials. What other forms of help or resources should the ideal AI assistant offer?
+PARTICIPANT: It should be able to point out specific products or materials whose quality is confirmed by users.
+
+*Q9*
+MODERATOR: How could such an AI assistant be connected with other systems you use (e.g., calendar, email, etc.)? What would this enable you to do?
+PARTICIPANT: It would enable better information management, placing them in the calendar, and managing projects over time.
+
+MODERATOR: Could you provide a specific example of how you would like the AI assistant to help you manage projects over time?
+PARTICIPANT: Knowing the scope of the task, it could plan and place in the calendar information that allows the task to be completed.
+
+*Q10*
+MODERATOR: Before we finish, I would like to know your impressions of the conversation with AI...
+
+*Q11*
+MODERATOR: How did you feel answering questions from AI instead of a human? How was this experience different from talking to a person?
+PARTICIPANT: It's still hard to get used to such a conversation because it's not the same interaction as talking to a human, if only because you can't see the reaction on the other side.
+
+MODERATOR: You mentioned the lack of reaction from the other side. How does this affect your honesty and openness in your responses?
+PARTICIPANT: The lack of reaction does not affect honesty or openness in responses, it just requires getting used to the fact that there is no immediate reaction on the other side, even facial expressions.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and opinions about AI tools! Your answers will help us create better AI assistants that truly meet people's needs.

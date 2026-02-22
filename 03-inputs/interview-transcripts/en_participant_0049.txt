@@ -1,0 +1,83 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Google Gemini, ChatGPT, Perplexity
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: On a regular basis for my personal tasks, I usually use AI tools a lot. For example, I use Google Gemini to summarize my emails and also to draft for me sometimes. I use AI a lot to spell check the whole emails that I'm typing up, or the messages that I'm typing up in my family groups or any kind of messages. Then I use it as a smart search engine, which is like Perplexity AI. I mainly use it for doing research online and trying to find out information on the best apartments around me or the best flight, the cheapest flight tickets I can find for my upcoming travel, or even to plan my travel. I have a specific date set, and I'm asking it to set up a time for me. It should tell me what all places I should visit in that time, and then keep car rentals or things to eat around this place, and so on.
+
+MODERATOR: You mentioned using AI for travel planning. Could you walk me through exactly how you use AI to plan a trip - from finding flights to creating an itinerary?
+
+PARTICIPANT: I use AI for travel planning, specifically for upcoming trips. For example, I have a trip in October to the East Coast of the US, where I'm visiting specific states and have a very limited time, maybe three or four days. In that scenario, I usually go to Complexity AI and ask, "I'm planning a trip from this date, visiting these locations. What would be the optimal path to cover all these locations without moving back and forth?" 
+
+It could also be a scenario where I have only a single day in New York and want to tour the city. I ask how to do that, what locations I should prioritize, or what places I should visit. Additionally, I ask it to help find flight tickets, like which dates are cheaper and which ones I should consider. The results are about 80% accurate; sometimes, especially for flight tickets, it's not always reliable, but for itinerary planning, it's actually very good.
+
+MODERATOR: You mentioned flight tickets aren't always accurate. What other limitations have you encountered when using AI for personal tasks?
+
+PARTICIPANT: So, specifically, some of the limitations I encountered when using AI for personal tasks were when it's summarizing emails or generating messages. Even though I've asked it to be informal, it tends to use very high-level language or high-level context, causing it to appear quite formal. The other person can easily tell that I basically asked AI to write a response instead of typing it up myself. In other scenarios where I'm asking for summarizations, Google Gemini tends to reiterate things incorrectly as well. Sometimes, when it's analyzing or summarizing emails, it's about 70% accurate, but 30% of the time, when there isn't a specific flow in the content of the email, it tends to misinterpret things and gives us incorrect answers.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I think this is rather a naive response, but one of the experiences I had was when I was trying to use AI to generate certain images. I was planning to gift my parents a photo frame with their VIP art. At that time, I was using ChatGPT's Pro subscription, but it seemed overloaded or something, and it just kept failing the tasks. A lot of the time, it would misinterpret the images, creating ones that did not make any sense or did not resemble the real image. When I asked it to correct the images, it would just go haywire and start imagining things. After a while, it would hit the rate limit and say I had to wait for an hour or so. That was the time I wanted to use AI to create a good memory for my parents for their special day, but I couldn't because of those issues.
+
+MODERATOR: Did you try any alternative AI image generation tools like Midjourney or DALL-E when ChatGPT wasn't working well for your parents' gift?
+
+PARTICIPANT: Yes, I ended up using DALL-E for image creation. It did a fairly decent job, but not a great one. In the end, I just used the real image and added a funny context below it.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: My perfect AI personal assistant would be an AI tool that understands how I operate and the way I work. When I ask it to perform a certain task, it should behave like me while doing it, not just try to follow best practices. It should definitely inform me about what the best practices could be, but ideally, it should follow my way of thinking. I know that's somewhat superficial and not entirely realistic. If I were to describe an AI tool that I could use, it would be like J.A.R.V.I.S. from Iron Man or something similar. However, it would be much better than existing tools if it actually came to life, because that would make it much more interesting to work with. It could boost productivity by almost 200% in a day, as you would simply tell it what you're thinking, and it would get it done because it already knows how to do it. Those are the kinds of things I envision.
+
+MODERATOR: You mentioned wanting an AI that understands how you operate. Could you give me a specific example of how it would adapt to your way of thinking versus just following best practices?
+
+PARTICIPANT: So, let's say we have a meeting to plan or, you know, a personal connection that we're creating, like meeting up for coffee or something. Ideally, my AI assistant should know that I don't personally like Starbucks, contrary to public opinion, but I would prefer a local store, like HomeBean or something like that. So, it should be able to recommend those options without just showing me the coffee shop nearby and suggesting I go to Starbucks because it has good ratings. Instead, it should tell me, "This is the place you like to go, so maybe you should schedule this place as your coffee shop."
+
+MODERATOR: You mentioned wanting AI that adapts to your preferences like coffee shops. How else would you want it to learn and remember your personal preferences?
+
+PARTICIPANT: So, I mean, I will definitely have to consent to it, but I would prefer if it could actually follow me around for a few days and try to learn what I do. Then it could maybe map out the way I think and how my mind operates. That way, it would be able to remember all of my preferences, like going to my regular doctors, helping me schedule those appointments, or walking me through things I have to do, like changing a car tire. It should ideally help me understand how to do it in case I didn't know. It should also adapt to me, like my favorite eat-out restaurants, my dine-in restaurants, and what type of day I had, so that on that day, it could suggest what kind of meal I would prefer. This way, it saves me the time of having to think about what meal I want.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: So, similar to how Gemini is already connected to our email and calendar invites, if it were actually connected to those things, you would have one space that provides you with everything. It would tell you what emails you have and how your calendar looks. If it could sync with all your other calendars, like your Outlook emails and your Gmail, I don't know if that's possible, but maybe even your work emails too. This way, you would have a clear idea of how your calendar looks. Hopefully, it could also prioritize tasks after reading those emails, so it could inform me that this person sent a priority email, and I should respond to them first. Oftentimes, you find yourself in a situation where you have a lot of incoming emails, and it can be overwhelming to go through all of them at once. As a result, sometimes the important stuff gets pushed back. It should also allow me to prioritize my family or any specific people I want to prioritize, so if I receive a message from them, it should automatically prioritize it over anything else.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: The experience was good. This is actually the second time I've done an AI-based interview. It keeps it interesting because you're not exactly overwhelmed or pressured by the other person. When you're staring at the screen and you see another person frowning or looking at your face, you tend to feel like they're judging you or something like that. So, that kind of thing is different, and that's what I like about being interviewed by AI.
+
+MODERATOR: You mentioned feeling less pressured without seeing someone's facial expressions. How does this affect the depth or honesty of your responses?
+
+PARTICIPANT: For me, personally, it does not really affect the depth or honesty of my responses because I try to be as clear as possible. I'm always honest with my responses, and in most cases, I try to be as informative as possible. So if anybody asks me any question or if anybody has anything, I tend to be way more detailed, and I try to explain everything in detail, regardless of whether they are actually interested or not. But, yeah, it doesn't affect me that much.
+
+MODERATOR: You mentioned being more detailed in your responses. Do you think AI interviews could be improved by providing more visual feedback or acknowledgment of your detailed answers?
+
+PARTICIPANT: Yes, definitely. If AI could improve by providing more visual feedback or acknowledgment of the detailed answers, that would be really helpful.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

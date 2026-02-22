@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used in the last 3 months for personal purposes (not work-related)? Check all that apply.
+PARTICIPANT: ChatGPT, Microsoft Copilot
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal matters?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: I would now like to better understand how you usually use AI and where current tools fall short...
+PARTICIPANT: Next
+
+*Q4*
+MODERATOR: For which most common personal tasks do you use AI? Tell me a few examples.
+
+PARTICIPANT: I most often use AI to create graphics and Facebook posts. Thanks to that I have very nice content, interesting mainly visually and substantively.
+
+MODERATOR: You mentioned creating graphics and posts. What other personal tasks do you perform with the help of AI?
+
+PARTICIPANT: Very often I ask AI about curiosities regarding the world or various topics I don’t yet know the answers to. AI explains all topics very well and in detail, and it also talks about various things, so it’s a very interesting tool for everyday use, of course with caution.
+
+MODERATOR: You mentioned searching for curiosities. Can you give a specific example of such a conversation with AI that was particularly valuable to you?
+
+PARTICIPANT: For example, I asked who would win the presidential election, and AI was very diplomatic, not pointing to any candidate. I really liked that it was so impartial.
+
+*Q5*
+MODERATOR: Tell me about a situation when you wanted to use AI but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I have never had such a situation.
+
+MODERATOR: Have you never encountered any technical limitations or problems accessing AI?
+
+PARTICIPANT: Not at the moment.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you receive from AI tools?
+
+PARTICIPANT: 3 – I trust moderately
+
+*Q7*
+MODERATOR: Finally, I would like to know what you think the ideal AI assistant should look like...
+PARTICIPANT: Next
+
+*Q8*
+MODERATOR: Imagine you have the ideal personal AI assistant. What are the most important things it should do for you? How would it be better than current tools?
+
+PARTICIPANT: I think such a personal AI assistant should know everything related to me, in particular my plan of action and remind me of various things. Given people’s age in today’s life, they constantly strive for unattainable things, to be the best, and sometimes forget about simple, down-to-earth things like a walk or a bike ride. I hope it won’t go the wrong way, that one day robots will rule us, but for now I believe it’s a nice, useful and helpful tool, if you don’t use it all the time.
+
+MODERATOR: You mentioned reminding about simple things like a walk. What other daily activities should such an assistant support?
+
+PARTICIPANT: I think it should remind everyone that physical activity is necessary to maintain a balance between work and daily life, because staying cooped up at home can only have a negative impact on a person, on their behavior, habits and discouragement from life. Such an assistant could, at some point, motivate someone to act, primarily for themselves.
+
+MODERATOR: You mentioned motivating activity. What other aspects of life, besides physical activity, should the ideal AI assistant support?
+
+PARTICIPANT: I think the ideal AI assistant should also offer words of encouragement. Many people are lonely these days, because technology has unfortunately developed so that it’s easier for us to write a message than to meet someone face-to-face, in person, for coffee, for a walk, for anything. We constantly don’t have time, we always lack it. I think it should come back like it used to be, when children were in the yard, everyone played. Now, these days, you don’t see children playing ball in the yard as often as before, jumping rope, just living together as a community, playing together and simply living.
+
+*Q9*
+MODERATOR: How could such an AI assistant be connected to other systems you use (e.g., calendar, email, etc.)? What would that enable for you?
+
+PARTICIPANT: Certainly it would be consistent with work and everyday life, connecting AI with the calendar. Maybe not so much with email, because there is sensitive data there that could later be stored or used by artificial intelligence. I think it should all be done with an agreement, but only with access at the level that the person agrees to. For example, I wouldn’t want AI to interfere heavily in my private correspondence, but I think the calendar could be connected without problems.
+
+*Q10*
+MODERATOR: Before we finish, I would like to hear your impressions of talking with AI...
+
+PARTICIPANT: Next
+
+*Q11*
+MODERATOR: How did you feel answering questions from AI instead of a person? How did this experience differ from talking with a person?
+
+PARTICIPANT: I had the impression that AI is more willing to talk, more factual and to the point. I won’t even mention the knowledge, the conversation was smooth. As I said, matter-of-fact. Everything I wanted to find out was always willing to talk about, and that’s important. It always had time, which is also significant, so at any moment you can use it and know that you will get an answer.
+
+MODERATOR: You mentioned that AI is more factual and to the point. Are there any aspects of talking with a human that you miss in interaction with AI?
+
+PARTICIPANT: Yes, people are false. Face-to-face they tell you different things, and behind your back they can stab you in the back. On that matter, unfortunately, people cannot be honest. They can’t say directly what’s on their heart. They prefer to gossip rather than just be human.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and opinions about AI tools! Your answers will help us create better AI assistants that truly respond to people’s needs.

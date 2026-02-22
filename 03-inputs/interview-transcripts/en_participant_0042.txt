@@ -1,0 +1,85 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Monthly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use AI a lot for mostly for organizational purposes. So when I use it for any of my personal task, it might be for, you know, trying to maybe put together, like, a meal plan for myself or if I want to try to start out like a new workout regimen or anything like that, I'll use AI to kind of help organize what, Monday through Friday schedule could look like for the type of workouts that I'll do, for how long I'll be doing it during that period, things of that nature. The other thing that I use AI, mostly for in my personal, for any personal tasks is, really just kind of either consolidating, like, my thoughts or my messages that I might send out to someone else, either through LinkedIn, connecting with people, sending out emails, whatever the case may be. It's really good for just, you know, making my messages, my sentences, whatever I may be putting together in a more concise manner. I feel like that's like a problem that I kind of struggle with at times. So I'll use AI a lot for that as well.
+
+MODERATOR: You mentioned using AI for workout planning. What made you choose AI for this task instead of other tools or methods?
+
+PARTICIPANT: Honestly, in the beginning, it was just kind of for experimentation purposes. I had seen, I think, probably either some YouTube or TikTok videos talking about how other people had used AI to set out their daily routines or workout routines, or whatever the case may be. So, I wanted to give it a try. When I put the prompt together for the AI, I just gave it an understanding of my height, weight, and goals—what I was trying to accomplish. I also wanted to make sure that I was eating this, that, and the third. Based on the information I provided, I asked if it could give me a workout plan for the week and everything like that. So, I really did it for experimentation purposes, and after seeing the results, I ended up continuing with it. It gave me a good layout to follow going forward.
+
+MODERATOR: You mentioned using AI for consolidating thoughts and messages. Could you tell me more about how AI helps you make your messages more concise?
+
+PARTICIPANT: Yeah. I so I I think the probably the biggest use case for how I used AI for, like, kind of either consolidating my thoughts or messages was when I was in the period of looking for a job. So naturally, as I was looking for a new job, that was the time for me to kind of update my resume. And as I was kind of adding on the experience from my previous role and adding it onto my resume and kind of revising some of my previous, experience as well, AI was really helpful in that sense of really consolidating a lot of the bullet points that I had to where I a lot of the prompts that I was asking was to maintain the same, meaning, but kind of shorten this particular bullet point, to make it a bit more concise. Again, while, while still maintaining its, same meaning that I want to convey, you know, for that particular bullet point. So it was really helpful for, you know, for that particular use case and then really just kind of making my resume a bit more streamlined, making it easier to kind of read through and, you know, if any recruiter were able to, you know, look through it, get through my resume pretty quickly and understand what I'm able to offer.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: There's there's not too many instances, that come to mind. I don't use AI too too often, but if I did have to speak to one example, it might have been some, maybe an example of when I was using ChatGPT and and I had used and I had prompted ChatGPT to generate an image for me, and I tried to give it a bunch of information, a bunch of context to it. And it either took too long or I had to re prompt it a few, different times for it to work. And then even then, it wasn't the exact image that I had in mind. And even through, you know, multiple re promptings, it didn't get to a space to where I wanted it to be. So I felt like that was at least a time to where I at least tried to use AI in this particular instance, but ended up going through with a different option of, trying to get the image that I was trying to find or wanted to use in this particular example.
+
+MODERATOR: What made you decide to try a different option instead of continuing with AI image generation? What was the alternative you used?
+
+PARTICIPANT: I know. Well, maybe I should try a different option instead of the AI image. The AI-generated image had some issues that I ran into, such as ChatGPT stalling out, for lack of a better word, when I submitted the prompt for the image request. I made multiple attempts to re-prompt it to get the image to look the way I wanted. Ultimately, the alternative I ended up going with was making the image myself through Canva. I was really trying to create a particular graphic that I wanted to print out. I tried AI for the first go but didn't really like how it looked. Even after trying to tweak it through re-prompting, it didn't get to a place where I wanted it to be. So, I decided to do it on my own from that point.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Yeah, so if I had the perfect AI assistant, I think one of the most important things I would want it to do is, you know, usually I'm using AI for either doing very quick research on particular topics or asking good questions on maybe topics that I'm not really too familiar with, or whatever the case may be. So I think in those particular instances, what would be perfect for that AI tool would be if it automatically cited its sources and provided at least a little bit of an explanation for why it pieced together these insights based on the sources it collected. Now, the AI tool can provide sources if I prompt it to, but it doesn't do that by default. And even then, sometimes the source it might be referring to is blocked by a paywall. So if it is, I'm wondering if it's pulling the information based on either just the headline or the first couple of sentences behind the paywall, or in some way, is the AI able to bypass the paywall and give me the information from the blocked content that I can't see? Things like that, I would like a little more specificity about at least where the insights and information are coming from and why these particular sources were chosen. And another thing that I would like to see out of my perfect AI personal assistant would—oh man, I lost it. Yeah, I mean, I guess we can just leave it there.
+
+MODERATOR: You mentioned wanting better source citations and transparency. What other features would make this AI assistant perfect for you? You started to mention something else but didn't finish your thought.
+
+PARTICIPANT: Right. Yeah, I remember my thought now. So the other thing that I would like from, I guess, the perfect AI assistant would be if, you know, when I submit a couple of prompts, the AI tool responds back. And then usually after that, there's a little bit of a follow-up prompt or a follow-up message or description showing that the memory has been updated from that particular AI tool so we can reference our previous conversations and what we've discussed. 
+
+So I think, based off of that information, again, I don't have a super high level or pretty good understanding of how AI works or at least the specifics behind it. But what would be awesome to see is if AI would be a little bit more proactive or forward-thinking based on the previous conversations that I've had with it. 
+
+For example, if I made a prompt saying, "Hey, I would like to set this routine for myself for the next month," and then we lay out a schedule of what I want to do, how I want to do it, and things of that nature. Then maybe a couple of weeks later, if I were discussing a separate topic with the AI tool, it would give me an answer to that request or prompt that I submitted. 
+
+It would also have a follow-up question like, "Hey, Noah, I know that we talked about this a couple of weeks ago. How has your progress been on this? Do you need any help maybe reconfiguring your routine? Do you need to make any adjustments based on any results you've seen?" Anything like that. 
+
+Usually, I haven't seen that yet from any AI tools. It would be really nice to have that, kind of like a little reminder feature, so to say, without me having to prompt it. I think something like that would really boost the AI tool's capabilities in my mind.
+
+MODERATOR: You mentioned wanting the AI to be more proactive with reminders and progress tracking. How would you want it to adapt its suggestions based on your progress?
+
+PARTICIPANT: I think it's less about adapting its actual suggestions for me and more about knowing, based on our previous conversations, that if I had submitted a prompt about wanting to have this routine done over a certain amount of time, maybe about a week or two later, when I might be prompting the AI tool for something else, it has the awareness to know, "Okay, we talked about this two weeks ago, and this is supposed to be maybe a four-week timeline or something." That should give me the indication to now follow up with, "How's the progress been? Are there any changes you would like to make to your routine that we discussed two weeks ago?" You know, "Your progress is great so far. I recommend this based on you being ahead of schedule," whatever the case may be. So it's less about it adapting its suggestions based on my progress and more about asking those follow-up questions without me having to prompt it again.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I think an AI being interconnected with my calendar, email, and other systems or tools could be potentially a really cool thing. I sometimes wonder about privacy issues and data concerns with some of those integrations. However, if I'm thinking about an AI tool as a personal assistant, it would be nice to have it better prioritize certain tasks based on synthesizing information. For example, it could see that I have a doctor's appointment coming up next week and that I also need to study for an exam. It could prompt me by saying, "Hey, Noah, you have a busy week coming up. You should prepare for it by doing X, Y, Z," or whatever it may be. So, I'm really thinking about it from that personal assistant use case and how I can see a lot of benefits from it having access to those other systems I use in my daily life. I can see it being very helpful in that regard and making me a little bit more efficient in what I do.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: All of it, this experience was pretty interesting. In certain aspects, it was better than I had thought, especially with some of the follow-up questions that seemed to be prompted based on what I had said in the previous question. I admittedly had some reservations about how that would go because I feel like that's one of the integral parts of being interviewed by a human—being able to pick up on certain details that you might add in, along with certain facial expressions or maybe certain tones, and how that can be leveraged to ask a follow-up question and dive deeper into a particular topic or statement. I think the AI tool did a really good job at that. I'd be very interested to see how it picks up on certain emotions, like wanting to dive in and say, "Hey, I hear that this particular topic makes you happy. Can you tell me why that makes you happy?" It was different from being interviewed by a human, just not being able to hear or see the human itself. Seeing those follow-up responses just by text was really interesting. I think what helps me and makes me feel more comfortable in a lot of these interactions is being able to hear that voice, having that auditory conversation back and forth. So, I think I would need a little bit of time to get used to that part. But overall, I think this was a pretty positive experience for this use case.
+
+MODERATOR: You mentioned missing the auditory conversation. How do you think AI interviews could be improved to feel more natural while still maintaining the benefits you noticed with the follow-up questions?
+
+PARTICIPANT: Yeah, that's a tricky question because I'm sure some AI voice can be implemented here, and I don't know if that would be the exact fit. If you make it sound too human and people know it's AI, some may think it could be kind of weird, me included. So, I don't know. Maybe this is the best way with the text being shown up here. I think if I had to point out one thing that could be improved in AI interviews, it would be if it could, at some point, pick up on certain facial features or facial expressions as the person is providing their answer to kind of recognize those differences in tone and emotion, and maybe have some of those follow-up questions centered around those particular aspects and not just the face value words being said. If it could pick up on cues like, okay, this person seems frustrated, annoyed, happy, sad, whatever, while talking about this topic, then it could follow up with, "I noticed that you seem frustrated while discussing this. Why are you frustrated? What is causing this frustration?" Things like that. I think that could be really impactful going forward.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

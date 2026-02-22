@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Microsoft Copilot, ChatGPT, Google Gemini
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: A few of the things that I use AI for in personal tasks are mostly just search, like looking up answers on the Internet about various questions. That's definitely my top priority. I've also used it for trip planning, like for travel, and for resume writing and cover letters, things like that.
+
+MODERATOR: Could you tell me more about how you use AI for trip planning? What kind of help do you seek?
+
+PARTICIPANT: I've used AI for trip planning, mostly to look up itineraries and get suggestions for the top things to do, places to see, or places to eat. I'm really just trying to figure out how to plan a high-quality trip.
+
+MODERATOR: You mentioned search, trip planning, and resume writing. Could you tell me more about how you use AI for search - what kinds of questions do you typically ask?
+
+PARTICIPANT: I use AI for search pretty much daily, looking up different questions around recipes or really anything that comes up that I'm curious about, like random facts, health-related topics, ingredients, and food. I'm often wondering if certain things are toxic or unhealthy. A lot of my questions are health-related.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I think the only time that I've really seen certain use cases of AI not working is when doing a Google search. For example, if I have a very specific question, like, "Is rice healthier when it's refrigerated?" I might get mixed answers or it will show different articles that have different opinions. Sometimes, it doesn't always make the answer clear, and it can even provide a wrong answer citing an incorrect source. So, I definitely have to take the results with a grain of salt.
+
+MODERATOR: You mentioned getting mixed answers about health questions. Have you encountered other situations where AI wasn't able to help you accomplish what you wanted?
+
+PARTICIPANT: I think that's the main case, just when search has conflicting results.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: If I had the perfect AI assistant, it would easily track my to-do list, prioritize it, and help check off those items throughout the day. So many different items come up, and I find myself having to manually create lists, prioritize, and sort them. Then I have to go through all these different tools to create various tasks and stories, and it all just feels scattered. I think AI right now is still so dispersed, which really inhibits its ability to be productive when there's not one connected solution.
+
+MODERATOR: You mentioned wanting AI to help manage your to-do list. Could you tell me more about what kind of tasks you'd want it to handle automatically?
+
+PARTICIPANT: It would be nice if it could help write tasks for engineering, write tasks for design, assist in researching and brainstorming different ideas for product development. You know, break out different tasks that come out of meetings, help better prioritize which emails to respond to, which Slack messages to address, and how to rank those top priorities. This way, it would be easier to filter through the million things that come in each day.
+
+MODERATOR: You mentioned task management and prioritization. How would you want the AI to determine what's most important? What criteria should it use?
+
+PARTICIPANT: That is a good question. I don't know how it would determine that. Ultimately, it's kind of in my head that I have to be juggling. It's like, this is more important because this person requested it or from a company initiative or from a team deadline perspective. It would be challenging for an AI tool to know all of that. So, I think in an ideal world, it would be able to do that, but I just don't know how it would.
+
+*Q9*
+MODERATOR: You've mentioned wanting AI to help with task management and emails. How might the AI be interconnected with your different systems to help with this?
+
+PARTICIPANT: It would be nice if it could automatically create tasks from Slack and also create tasks from emails, and then be able to prioritize those. Right now, I receive hundreds of emails a day, and it takes a long time to sort through them all and know what actually requires action. So, I think being able to flag that, rank it, and sort it would be really helpful.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I was impressed with the follow-up questions. It really seemed like it was able to understand my responses and then have a pretty good follow-up question to those responses. So that was actually pretty impressive. Obviously, it's more fun and enjoyable to talk to a human, but this actually did a pretty good job.
+
+MODERATOR: You mentioned it's more fun to talk to a human - could you elaborate on what makes human interviews more enjoyable?
+
+PARTICIPANT: I think, ultimately, you just can't replace human connection and a smile on someone's face. It's how we're wired and have evolved to need human connection, such as reading more questions on a screen and talking to a screen. Unfortunately, as efficient as it is, I think it could ultimately be soul-sucking in the long term as it becomes more and more prevalent.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

@@ -1,0 +1,83 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use ChatGPT to find out issues with my dog. If I notice she's behaving strangely, I want to know if I should be concerned. Since she's older, I sometimes get overly worried about things that may not be severe or might be too severe, and I’m not sure yet. It acts as a pre-filter before I reach out to the vet. I also use it for research when my husband is rebuilding his desktop computer, helping to find the best parts within a certain budget and what stores to buy them from. Additionally, I ask general questions about things I don't understand since I'm new to the city I'm living in. ChatGPT is likely to give me an answer that's at least 80% accurate, compared to Googling, which results in a bunch of website links that I then have to sift through to find the answer. So, it's quicker if I just ask.
+
+MODERATOR: You mentioned using AI for pet health concerns. How do you evaluate whether to trust AI's advice about your dog versus going to the vet?
+
+PARTICIPANT: It depends. I do a sequence of conversations, so I don't just ask one question and then get the answer. I normally start with a question that gives a general idea of what's happening, and then I receive an answer. After that, I narrow it down further, and it provides me with another answer, which I narrow down even more. So, I give more details as it gives me answers, accumulating several data points about what could be happening. Depending on the severity of the situation, I might Google and research more in-depth the specific things it's providing me. If I find that it's too complicated or too vague, or if the situation is truly very serious, then I reach out to the vet. These are general concerns, but if it is an emergency, I call the emergency number because I don't want to risk making a possible mistake.
+
+MODERATOR: You mentioned using AI for research about computer parts. How do you combine AI's suggestions with other sources when making purchase decisions?
+
+PARTICIPANT: I think I actually use a lot of Reddit for specific people's suggestions. I find that looking at recommendations online is very difficult because there's a lot of paid sponsorship that is disguised as articles. It's hard to know for sure if something was not sponsored to give a good review versus a genuine review. There are certain specific Reddit boards where people provide good feedback, or you can either directly ask or just find someone who already asked the question. Additionally, there are specific YouTubers or content creators that provide their own feedback on these types of things. So that's generally the follow-up to find after you get the AI suggestions.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I wanted it to help me generate some motion graphics recently, and I also didn't want to pay for it. So maybe a paid version would have helped better. But all of the ones that I tried that were free had quite poor motion generation because I didn't have the time to create a prompt that was specific enough or a good prompt that would yield the results I wanted. Additionally, there was no way to provide it with the full script of the entire motion. Essentially, it created motions that were fine on their own, but they weren't what I wanted. The level of specificity I needed to provide was more work for me than if I just did the animations myself. The amount of labor it would have taken to work through the AI to get it to function and produce what I wanted was just too much.
+
+MODERATOR: You mentioned the prompting was too labor-intensive. What specific challenges did you face when trying to describe the motion graphics you wanted?
+
+PARTICIPANT: I mean, motion is quite complex, so it's probably one of the more complicated things to provide. But even with illustrations, I have tried my journey a lot, and it's very difficult to get the image that you actually have in your head for the judge for any AI to reproduce. That is actually very hard. They might create something you really like or something that's somewhat within the frame of what you're thinking, but it's not going to recreate what you actually were thinking of. And when you add motion to that, it's even more complicated. There are just too many nuances to it. 
+
+If you think about it, it means that you have to create a prompt that indicates and defines all those nuances in a syntax that's understandable by the AI so that it can at least provide you with a result that's within the ballpark of what you want. The more nuances there are, the more likely it is that you'll miss it, either because it's just not intelligent enough or your prompt was not good enough. It becomes too labor-intensive to figure out where the error is and then try all the possible different prompts and combinations. Even if you're using ChatGPT to help you with the prompt, it still gets really labor-intensive to spend time, especially if you want to produce something that looks like a relatively good final product.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 4 - High trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think accurate information will always be the most important factor. It is impossible to remove bias from it because, as much as we want to think of data as objective and unbiased, the selection of that data and the selection of content itself is biased. But at the very least, it should be accurate to the data that it has. That would be my primary requirement because I can work through some other quirks. However, the most difficult aspect of AI assistance right now is that they are not accurate, and there's also no way to know which parts are not accurate, especially if you're not an expert in the field that we're discussing. I need to be the technical expert that I can't be because those areas are not where I can spend time learning.
+
+MODERATOR: You mentioned accuracy being crucial. Could you tell me more about what kind of verification or transparency features would help you trust an AI assistant's information?
+
+PARTICIPANT: It's hard to say, but it's this sort of thing that we all know AI is not accurate. But how much it's missing the mark and how often it does is hard to determine, I think, because it depends on the subject you're discussing and so on. I think it's challenging because even if it provides me with, like, an 80% accurate response, I would still wonder if that measurement is accurate too, right? It's hard to really suggest improvements on that except just improving the model to make it more accurate. I don't know what would make it more reliable. I mean, at the very least, it does inform you that it's not accurate. The transparency aspect is important; it tells you it's not accurate and provides sources. It does provide links to places where it's sourcing information, but you have to go to that website or wherever it may be and read through it to find out where it got the information and why it thinks that connects back. Sometimes, it's very clear that it's quoting from a website, but other times, it seems to assume a connection based on matching keywords or similar subjects. For example, if I'm asking for a tutorial on how to use a relatively new tool in Figma, it might give me an answer that sounds like it's about that tool. However, when I check the source, it's actually a tutorial for a similar but different tool. I then have to spend time reading through that to realize, oh, this is not accurate; it's just assuming that this one tool can be used the same way as the other one. So, maybe knowing and differentiating how it uses the sources would help.
+
+MODERATOR: You've talked about accuracy and transparency. What other key features would make an AI assistant "perfect" for your needs?
+
+PARTICIPANT: I think it would be better if the AI had a stronger memory of the conversations it has with users. Within a single chat, it remembers the conversation quite well, but it still misses some parts or gets confused. It doesn't really transfer information from other conversations effectively. For example, it can learn certain things from previous chats, but it struggles to connect different conversations like a person would. It would be helpful if it could remember when I talked about something in another chat and cross-reference those discussions. I believe that would enhance the experience significantly.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I don't know that whenever we think about incorporating AI into tools, the question for me is whether it really shortens the time I spend on these tools. Is it really improving them? Calendar-wise, I'm not the type of person that requires an AI assistant in that area because my calendars are not that complicated or busy. As for email, aside from helping me edit the text itself, I don't necessarily need it to be integrated into the email experience. I guess if you're managing junk and spam, there may be scenarios where AI can help you clean up your mail a little better, which is already kind of happening with Google, like Gmail. It's not great, but you know, it's something. I don't know if that's even AI, if you would call that AI. I think it comes back to how complicated of a prompt it needs to be for the AI assistant to function the way you want it to. If it's integrated into a tool, how specific of a need do you have for it in that tool? And how much work do you need to do to set it up to work properly within it? I think a lot of the time, how I see AI being integrated into tools is more like shortcuts. It can add shortcuts to things, but it can't really provide full-fledged functionality, basically.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: It feels more like a survey, like a form survey with video recording in it, rather than an actual interview. I think that the AI can create follow-up questions based on what you said before, but if it were a person interviewing me, they might have found specific things in what I'm saying that are interesting enough to dig deeper into, and the AI may not have that capability. I don't get that sense. Aside from that, it just feels very machine-like; it feels like a survey form that is a little bit more sophisticated, basically.
+
+MODERATOR: You mentioned it feels like a sophisticated survey form. Could you tell me more about what makes it feel mechanical compared to a human interview?
+
+PARTICIPANT: There are nuances to how people may follow up on something you said before. The way this has been structured feels very generic and general. It does refer back to something you said earlier, but not in a specific niche way. The setup is very step-by-step, and there's no way to deviate from the path of the interview. In human interviews, you can go off the path, which can be both good and bad. Sometimes, it is in those deviations that you find interesting pieces of information. However, this feels very structured, and you're just following one step after another, which is more like a form.
+
+MODERATOR: You mentioned the interview feels too structured. How do you think AI interviewers could be more flexible while still gathering the needed information?
+
+PARTICIPANT: I didn't mean it as a bad thing to be too structured. I think it would depend on where you want to get at. For very specific types of feedback and risk, I can see how this has been very useful for research that needs to be very pointed. If you need feedback on very specific things and you don't want it to become a conversation about too many other topics, then this is likely actually really suitable and probably would work really well. However, there are some research scenarios where you end up learning a lot by having more of a conversation. So, if you were to modify it and structure it more like a conversation, then it might lend itself to more interesting insights.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

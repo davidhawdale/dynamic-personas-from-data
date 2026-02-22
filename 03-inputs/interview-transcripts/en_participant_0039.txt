@@ -1,0 +1,89 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Less than monthly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: Event planning.
+
+MODERATOR: Could you tell me more about what kind of event planning you use AI for?
+
+PARTICIPANT: Family reunion and class reunion.
+
+MODERATOR: How exactly does AI help you with planning these reunions? What tasks does it assist with?
+
+PARTICIPANT: Meetings, agendas, and flyers.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: Graphs and charts.
+
+MODERATOR: What specifically were you trying to create graphs and charts for, and what stopped you from using AI to make them?
+
+PARTICIPANT: Excel spreadsheets.
+
+MODERATOR: What specific challenges did you face when trying to create Excel spreadsheets with AI? What were you hoping it could do?
+
+PARTICIPANT: Use graphs and charts appropriately in an Excel spreadsheet.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 4 - High trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Research implementation and grant writing.
+
+MODERATOR: Could you tell me more about what kind of research and implementation tasks you'd want your perfect AI assistant to help with?
+
+PARTICIPANT: The research and marketing with real-life, up-to-date information.
+
+MODERATOR: You mentioned marketing - what specific marketing tasks would you want your perfect AI assistant to help with?
+
+PARTICIPANT: Assessment.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I would not want them to be interconnected.
+
+MODERATOR: Could you explain why you wouldn't want AI systems to be interconnected? What concerns do you have?
+
+PARTICIPANT: Security concerns.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: It was clear and concise, and the prompting questions were very helpful.
+
+MODERATOR: You mentioned the prompting questions were helpful. What made them particularly effective compared to a human interview?
+
+PARTICIPANT: I did not have to think about body language.
+
+MODERATOR: That's interesting about body language. Did you feel more comfortable or less comfortable without those nonverbal cues?
+
+PARTICIPANT: More comfortable.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

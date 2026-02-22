@@ -1,0 +1,73 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: None
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Less than monthly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I don't use AI at all for any personal tasks.
+
+MODERATOR: What makes you hesitant to try AI tools for personal tasks?
+
+PARTICIPANT: I don't see a need for it yet, and I don't, yeah, I don't see a need.
+
+MODERATOR: Could you help me understand why you don't see a need for AI in your personal life? What tasks do you handle now that others might use AI for?
+
+PARTICIPANT: I've heard other people I know use it for research, and I feel comfortable conducting research on my own without any kind of AI assistance. Otherwise, I don't really know when else I would use it.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: This hasn't really happened. I can't, I don't have an example.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I don't really know what I would use an AI assistant for. Maybe for reminding me about things on my calendar or errands I need to run, perhaps anticipating the best way to combine errands in a more efficient manner than I might do on my own, or letting me know about opportunities I might not be on the lookout for. Maybe something like that.
+
+MODERATOR: You mentioned calendar reminders and errand optimization. Could you tell me more about what kind of opportunities you'd want the AI to spot for you?
+
+PARTICIPANT: If I've been putting off an errand to go to a specialty store or something, letting me know that I'm going to be in the area of a store that I might not know about, or finding the best time of day to go and run all my errands—not just when I have time, but also when the weather is going to be nice, maybe, or something like that.
+
+MODERATOR: You mentioned optimizing errands based on weather and location. How would you want the AI to help you plan and prioritize these tasks?
+
+PARTICIPANT: I feel like I answered this in the last question, but yeah, being able to tell me when the best time to do something is, like when it's not going to be hot outside, or telling me I should probably reschedule because it's rainy, or letting me know when I'm out, sending me a ping to let me know that I'm near something else where I could get something done that I had on my list and wasn't aware of.
+
+*Q9*
+MODERATOR: Since you've already mentioned calendar integration for errands and scheduling, how might the AI be interconnected with other systems you use? What would that enable you to do?
+
+PARTICIPANT: I can't really think of any. Yeah, I can't really think of any.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I didn't really like it. I feel like it couldn't process that I didn't have anything to say about a topic, and it kind of just kept asking me to restate my answers a few different times. So, I think it was frustrating in a way that talking to a human wouldn't have been.
+
+MODERATOR: Could you tell me more about what kind of follow-up questions felt frustrating to you? What would have made the experience better?
+
+PARTICIPANT: Well, this follow-up question feels like an example. I feel like I already described this a bit, but it just felt like if I said no, I don't see a use for this, it would be like, well, then tell me about a use that you would see. It just felt like it wasn't really listening and it couldn't handle negative answers, and kept trying to draw out further answers or explanations when sometimes a negative is just a negative. It is an absence of an answer, and digging more is not going to produce more information.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

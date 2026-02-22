@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: ¿Qué herramientas de IA has utilizado para tareas personales (no relacionadas con el trabajo) en los últimos 3 meses? Selecciona todas las que correspondan.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: ¿Con qué frecuencia usas herramientas de IA para fines personales?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Ahora me gustaría conocer más sobre tus hábitos de uso de IA y en qué aspectos las herramientas actuales no cumplen con tus expectativas...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: ¿Cuáles son los tipos de tareas personales más comunes para las que usas IA? Cuéntame algunos ejemplos.
+
+PARTICIPANT: I generally use it mostly to ask for recipes or look up a term I don't know, to search for a product that I might know is sold on Amazon in another country but not in Argentina. I try to see if it's sold in Argentina on some site. The same if I see a product on TikTok or YouTube that interests me, but it's a video in English, for example, I try to look for a substitute here in Argentina and ask it for ideas of where I can find it or direct links. What else? I already mentioned recipes, sometimes to translate something into English or Spanish. I think mostly that's it. Once I asked for a knitting pattern; I like knitting and crocheting, and I asked it to help me put together a pattern for a sweater. It didn't work very well, but it was useful to get ideas about what colors I could combine.
+
+MODERATOR: You mentioned you used AI for knitting patterns but it didn't work well. What specific problems did you have?
+
+PARTICIPANT: The specific problem was that I asked for a pattern and I thought it was going to write a very detailed pattern with what you had to do row by row, etc., but it couldn't do that. Maybe I wasn't very clear with the prompt, but it didn't give me that. However, it did work well when I asked it to help me choose colors, to see what color matched with what or what colors from the pattern in a photo I had seen on Pinterest, where I could get similar colors that were all from the same yarn, let's say, the same brand and the same thickness. Another problem I had was that I asked it to help me calculate the amount of yarn I would need for a medium-sized sweater and it calculated too much yarn. Besides, it's hard to calculate that, but I ended up with twice the yarn I needed.
+
+MODERATOR: You've mentioned several interesting uses—product searches, recipes, translations. Are there other creative tasks besides knitting for which you've tried using AI?
+
+PARTICIPANT: Yes, recently I thought about starting a knitting podcast on YouTube, since here in Argentina there's not much of that, but I do see a lot of it in other countries, like in Europe. I follow some YouTubers from there and I liked the idea, so I used it to ask if there was any YouTuber in Argentina doing the same thing I do. We didn't find any, but it did give me ideas on how I could structure a video if I decide to make one, with a sort of script and ideas about what I can talk about. It helped me analyze the videos of one YouTuber in particular and made me create a kind of script about how I could divide the episode or the podcast.
+
+*Q5*
+MODERATOR: Cuéntame sobre una ocasión en la que quisiste usar IA para algo pero no pudiste. ¿Cuál era la tarea? ¿Qué te impidió usar la IA?
+
+PARTICIPANT: I'll repeat a bit, but sometimes it doesn't help when I want to search for or find a product to buy in Argentina. Many times it gives me links that don't go anywhere or are not the product I'm looking for, they're not even related. So I think that's it, and yes, I'd say that.
+
+MODERATOR: ¿Podrías darme un ejemplo específico de un producto que intentaste encontrar y qué problemas tuviste exactamente con los links que te dio la IA?
+
+PARTICIPANT: Yes, in particular I remember that recently I found a pattern for a sweater that is from the United States or Europe, I don't remember the original country. There they suggest a brand of yarn and a yarn weight, but that brand isn't sold here. I asked ChatGPT if it could give me substitutes that I could get in Argentina. The reality is that the substitutes it gave me didn't match the yarn weight I needed to replace. For that reason, I feel it wasn't useful. The same has happened when wanting to buy circular needles here in Argentina from a particular brand I liked, which is sold abroad and not in Argentina. In Argentina there are some yarn shops or craft stores that import and sell them. ChatGPT gave me links to those, but it gave me links to products that were out of stock and that I wasn't going to be able to buy. I had clarified that please give me links to products I could buy and it kept sending me the same links, so I feel it didn't work because of that.
+
+*Q6*
+MODERATOR: ¿Cuánta confianza tienes en los resultados o sugerencias que te dan las herramientas de IA?
+
+PARTICIPANT: 4 - High confidence
+
+*Q7*
+MODERATOR: Por último, me gustaría saber cómo sería tu asistente de IA ideal...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagina que tienes un asistente personal de IA perfecto. ¿Cuáles serían las cosas más importantes que haría por ti? ¿En qué sería mejor que las herramientas actuales?
+
+PARTICIPANT: It would be good if it helped me improve prompts without me having to ask. For example, in cases where I get frustrated because I ask for something and it doesn't give it back, it could help me understand how I should ask for it, so I also learn how to ask for things in the future. That's something I feel they don't do today. On their own, if I ask, maybe they do, but they never do it automatically.
+
+The most important things it would do for me, maybe in daily life, I imagine: be able to solve things already knowing, without me having to explain every time what I want for repetitive tasks. For example, when it's translating something, that it already remembers that I speak Spanish and that I usually need translations into English. So that it offering those translations automatically. I could tell it no, but I wouldn't have to every time I write something say "I need you to translate this to English" in a clear and simple way, taking into account that it's my second language. Not having to give so much explanation each time.
+
+I think other things it could do for me are mainly organizational, like helping to get things done. I remembered another case where I used artificial intelligence. I used ChatGPT to organize my trip to Europe with my boyfriend. I gave it the number of days we had available, when we would be traveling, what day we had the outbound flight, the return flight, what cities we wanted to see, and we asked it to recommend how many days in each city would be worth staying or that we needed to stay, and what things we could do each day. It worked quite well for me, but it's true that it was a bit unrealistic regarding the time we had and the things to visit. For example, in one day it expected us to go to six places, but the reality is that, being there, between accumulating tiredness and there being many things to see, you might want to look at something and stay a while looking at it and not just see it and go to the next attraction. It wasn't very realistic in that sense and it also couldn't suggest nice places to eat or stop. Yes, it helped me organize places to go and visit by area, but I feel it worked, although it needed a lot of my input as well to understand, read it, see if it was possible or not, and change things.
+
+MODERATOR: You mentioned trip planning and that the AI wasn't very realistic. How would you like a perfect AI assistant to handle this kind of planning?
+
+PARTICIPANT: It would be ideal for the AI assistant to be realistic in the sense that it suggests things that can actually be done. A clear example is suggesting ten different things in one day when a normal person in real life can visit just three or four places, taking into account that they also need to rest, eat, etc. That was the main thing. I would also have liked that, when we asked for ticket prices or hotel suggestions, it would send options with availability for those dates, because the suggestions it had weren't available for the dates we had already given. So I feel it would have been good if it acted a bit like a travel agent. I'm not asking it to book the tickets or pay for them for me, just to give concrete options that are available and for the itinerary to make sense.
+
+MODERATOR: You said you'd like the AI to help with repetitive tasks and remember your preferences. What other forms of personalization would you like to see in an ideal AI assistant?
+
+PARTICIPANT: These questions are hard. I think I would simply like to be able to save, maybe, prompts or have a chat for this and for it not to forget what that chat is for. For example, a chat for translations, but that never forgets it always has to translate from Spanish to English. A chat where I put ingredients and it gives me recipes, and I don't have to remind it why I'm giving ingredients and what I need it to return to me. I mean remembering preferences and repetitive tasks, because they are things that repeat day to day in the routine. For example, needing translations or being able to look up information about an artist, or suggestions for series. I want those things to remember the initial request so I don't have to remind it halfway through again.
+
+*Q9*
+MODERATOR: ¿Cómo te gustaría que la IA se integrara con los sistemas que usas (por ejemplo, calendario, correo electrónico, etc.)? ¿Qué te permitiría hacer eso?
+
+PARTICIPANT: Maybe regarding emails, it could be useful to summarize some if they're long or pre-filter things by grouping emails of the same type. That's what comes to mind. In the calendar, for example, about photos—I'm going to go to photos, which is also a product, it's not named there, but that's what I always use, the photo gallery. Or when you take a photo, that it adds information, not simply a description of an image, but maybe it would be good if, for example, if I was on a trip, it tells me where I was, so I don't forget which building I saw, since after a while you might forget. A bit of information about where that was would be nice. In the calendar, maybe there are already alerts for upcoming events, but there could be ideas to help you prepare for an event. For example, if my event is a medical exam, that before going, a few hours before or a day before—this could be customizable—it notifies me and gives tips so I go prepared. For example, "remember to bring your latest medical tests." I have a lot of rehearsals because I sing, and I'd like it to say: "Remember to warm up," or to schedule 15 or 30 minutes in my calendar that day before the rehearsal event so I can warm up and prepare the things I need to bring, review a song if I need to. Things like that would be good.
+
+*Q10*
+MODERATOR: Antes de terminar, me gustaría saber cómo te sentiste al ser entrevistado por una IA...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: ¿Cómo te sentiste al ser entrevistado por una IA en vez de por una persona? ¿Qué fue diferente en esta experiencia?
+
+PARTICIPANT: I feel that what's different can be both good and bad at the same time. I'm not talking to a person on camera, I mean, I see myself, I'm recording myself, I have another monitor, but I see myself talking. I don't really know who will see this video, I don't know if someone will watch this video talking about people or if it's simply a video that the artificial intelligence will use to understand what I'm telling it. I'm not very clear about that. There are also things I can't do, like ask questions. Oh, yes, actually I didn't try that. I can ask the AI questions, I can ask why, what is the purpose of this research or why they are asking me these questions. And what else, nothing. Not talking to a person can feel a bit cold, but at the same time I know I'm talking alone at home to the computer. I know that at some point they'll understand or interpret it, but it makes me less nervous than talking to someone. And another thing is that I can say it in my language, which is Spanish, and perhaps, simply speaking with an interviewer who lives in the United States, whose first language is English, I would have to speak in English or in another language. Also, I can choose the language I'm most comfortable speaking in, and that's much better. That's an advantage I see.
+
+MODERATOR: Mencionaste que te da menos nervios hablar con una IA. ¿Podrías explicarme más sobre esa diferencia en comodidad comparado con una entrevista tradicional?
+
+PARTICIPANT: yes I already [explained it] and it's that I don't know if it makes me less nervous — what I mean is that I'm a little less worried because there's no one looking at me and I feel less judged. In my personal case I think that's what it refers to, but I miss a bit the warmth of talking to a person, being able to make a joke and have them laugh, being able to see the interviewer's face a little, which I don't see here — those are the differences
+
+*Q12*
+MODERATOR: ¡Gracias por compartir tus experiencias y opiniones sobre las herramientas de IA! Tus comentarios nos ayudarán a crear asistentes de IA que realmente respondan a las necesidades de las personas.

@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT, Other
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: Searching for information, learning about different topics, and planning.
+
+MODERATOR: Could you give me a specific example of how you use AI for planning? What kind of planning do you do?
+
+PARTICIPANT: Planning for trips or personal projects.
+
+MODERATOR: Could you tell me more about how you use AI for searching and learning? What kinds of topics do you explore?
+
+PARTICIPANT: It can be anything, actually. Something maybe like the top things that I hear in terms of topics or things that I've heard on the news or that other people have told me. If there are topics that I'm not familiar with, then I will search for them to gain a better understanding.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: No, what happened?
+
+MODERATOR: I'm not sure I understand. Have you ever tried to use AI for something but weren't able to? What happened?
+
+PARTICIPANT: Even if you are referring to personal use, I have not used something, AI, or something that I'm unable to use through AI.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: Accurate and up-to-date information that is intuitive. They explain things in a way that I can understand very easily.
+
+MODERATOR: You mentioned accuracy and being intuitive. Could you tell me more about what makes an AI assistant truly intuitive to use?
+
+PARTICIPANT: Understand the context at angle and the depth of information that I want, and give me the right level.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Yes, I would like AI to be connected with my calendar, email, and messaging apps. Then I can integrate the information in the AI with the apps that I use very often.
+
+MODERATOR: Could you give me a specific example of what tasks you'd want the AI to help with across your calendar, email, and messaging apps?
+
+PARTICIPANT: For example, if I make some plans, it will automatically mark them in my calendar and send an email or note or message to notify the people involved. It will also remind me when the events are happening in advance.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: Yeah, I think it's fine, but it feels more distant than personal.
+
+MODERATOR: Could you explain what makes it feel more distant compared to a human interviewer?
+
+PARTICIPANT: Because I'm talking to a machine rather than a person.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

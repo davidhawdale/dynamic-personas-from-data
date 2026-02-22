@@ -1,0 +1,85 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (outside work) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools personally?
+PARTICIPANT: Less than once a month
+
+*Q3*
+MODERATOR: I'd now like to learn more about your AI usage habits and the limitations of current tools…
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: For what types of personal tasks do you most often use AI? Give me some concrete examples.
+
+PARTICIPANT: So, for personal tasks, I really try to limit my use of AI, because out of ecological conviction I really want to restrict it to professional-level tasks. Even at the professional level, I always try to think about whether I can't do it another way. So, for personal tasks, my use is very, very limited, even non-existent.
+
+MODERATOR: You mention wanting to limit your AI use for ecological reasons. Can you tell me more about those convictions?
+
+PARTICIPANT: Yes, absolutely. I'm aware and informed that using generative AI, for example to do a search, consumes a lot more energy, water and electricity than doing a search on Google. It's really something I'm conscious of, and it's for those reasons that I really try to limit my AI use to the strict minimum.
+
+MODERATOR: Tell me about a situation where you could have used AI for a task, but chose an alternative for ecological reasons. How did you proceed?
+
+PARTICIPANT: Yes, I think a fairly recent example would be organizing holidays. I've heard a lot of people say they talk with ChatGPT to organize their vacations, like having a detailed itinerary when you go somewhere. For example, I know it could save me time, but again, for the reasons I mentioned, I prefer not to do it.
+
+*Q5*
+MODERATOR: Tell me about a time when you wanted to use AI but couldn't. What was the task? What prevented you?
+
+PARTICIPANT: I would say that in any case, since I haven't downloaded ChatGPT or another AI app on my phone, my use is really limited to when I'm at home in front of my computer. So, yeah, all the situations where I might potentially use it on the go, but in any case, since I don't have the app, I don't do it.
+
+MODERATOR: Have there been specific moments while traveling where you really wished to have access to AI?
+
+PARTICIPANT: No, not really. As I explained, for now I always have a solution. I haven't had a situation where I needed it to an excessive degree. I always manage to do things as before and find an alternative solution to meet my needs.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions provided by AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to know what the ideal AI assistant would look like to you…
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect personal AI assistant. What would be the most important things it would do for you? How would it be better than current tools?
+
+PARTICIPANT: So, I'm really more interested in a personal assistant in a professional context. As I said, not for personal use, but for professional use. Ideally for me it would even be to have several assistants, each with a specific specialty, who could help me in my freelance activity on a daily basis. For example, an assistant who would handle all the administrative side, the paperwork, sending invoices; an assistant who would help me with content strategy, helping me write content, notably on LinkedIn; and then an assistant who would have more of a sales hat and would help me with outreach and prospecting potential clients.
+
+MODERATOR: You mentioned three specialized assistants. Could you detail further what the "content strategy" assistant would concretely do for you?
+
+PARTICIPANT: The content strategy assistant would help me with everything related to content creation, so mainly for me on LinkedIn, to help me write quality posts without it taking too much of my time.
+
+MODERATOR: You talked about the administrative assistant for invoicing. Could you explain more precisely how it would help you with that part?
+
+PARTICIPANT: That assistant would be more in a context where I have a lot of invoices to send. It would really help me with sending invoices, follow-ups if invoices aren't paid on time, and all the administrative part related to services, with all the tasks to manage.
+
+*Q9*
+MODERATOR: How could AI be connected to the systems you use (for example, calendar, email, etc.)? What would that allow you to do?
+
+PARTICIPANT: So maybe it could help me create email sequences more easily, instead of managing all that manually today. There would certainly be things that could be automated without having to, for example, subscribe to a tool for all that CRM email-sending part.
+
+MODERATOR: You talk about automating email sequences. What other systems or tools would you like to see connected to your AI assistant?
+
+PARTICIPANT: I don't use any today, so in any case on the email automation part, I don't have tools that allow me to do that. Hence the interest maybe of being helped by AI on that part.
+
+*Q10*
+MODERATOR: Before concluding, I'd like to get your feelings about being interviewed by an AI…
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel being interviewed by an AI rather than a human? What differed in this experience?
+
+PARTICIPANT: So, the fact that the questions are written, ultimately, I find that less disruptive than the tool tested just before where it's really a conversation. I'm more comfortable with the fact that here, the questions and follow-ups are done in writing. That's it. Otherwise, the follow-ups were asked in the right way. You responded well to everything I could provide as information to adapt, I imagine, the questions to ask afterwards.
+
+MODERATOR: You mention being more comfortable with written questions. Why do you prefer this format compared to a vocal conversation with the AI?
+
+PARTICIPANT: Actually, it doesn't bother me to answer questions vocally, but I'm a bit more skeptical when the AI takes the form of voice notes versus the written side. I think we shouldn't forget that we're addressing a machine, and for those reasons, I find it more fluid for me to interact this way.
+
+MODERATOR: You say the AI shouldn't forget it's a machine. How do you think it should behave to find the right balance?
+
+PARTICIPANT: Exactly, the fact that exchanges go through writing—sure, it's less human—but in any case, it doesn't make the person in front think they're interacting with a real human. It really puts back the place it actually has, I find.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and opinions on AI tools! Your feedback will help us create better AI assistants, truly adapted to people's needs.

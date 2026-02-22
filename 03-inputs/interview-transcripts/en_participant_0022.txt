@@ -1,0 +1,105 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: kimi, deepseek 
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Daily
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use it a lot to write articles on my Substack, considering that there's a lot of content being published all the time. I use it to summarize podcast videos and so on. Additionally, it has replaced my Evernote, Notion, and similar tools. I have a lot of data in there, and I ask it to cross-reference my past. So, I use ChatGPT Professional for this.
+
+MODERATOR: You mentioned using AI to summarize content and manage your data. Could you tell me more about how you use it to cross-reference your past information?
+
+PARTICIPANT: Previously, with Evernote, I would just have silos of data or hashtags. But now, I've discarded Evernote and moved a lot of my past information, asking AI to make sense of it for me. I have a framework in my mind, but this helps clarify it. I love that it's a dialogue; it allows me to clean up my thinking and frameworks, and I write about this. It's always iterative. I write and put it on my Substack, asking for comments. That's one way I use it. 
+
+The other way is that I model my mind. I have a corpus of information from people whose thinking I’ve followed and admired for years. I try to model their minds as best as I can because, as Venkatesh mentioned, text is essential. From there, I have them comment on and criticize my writing and thinking. I push back, so it becomes like a republic of letters, a salon, if you will. You can see that on my Substack cutting floor. It's pretty fun!
+
+MODERATOR: You mentioned using AI to model minds and create a "republic of letters." Could you explain more about how you use AI to engage with different thinkers' perspectives?
+
+PARTICIPANT: Yes, happy to. For example, I take a look at someone like Henry Farrell. Henry Farrell writes and has a syllabus on the political economy of artificial intelligence. He posits that AI is much more a cultural technology because it intervenes in the reproduction of culture, which is something quite different right now. That's a fairly novel perspective. One thing I'm interested in is how this cultural technology disrupts and atomizes the usual reconciliation of power, and so on. I have my own views on Shookoffs, which is what he and Cosma have been writing about. In this way, Henry's thinking criticizes my thinking, and I criticize it back. There is a dialogue, a dialectic. 
+
+Now, imagine layering on how Henry Farrell can talk to the Anti-Katera program led by Benjamin Breton at the Berggruen Institute. A lot of this interaction happens online. I also meet Benjamin once a year in China, which helps. At least as much as you can model your mind, the letters are then passed on to a third party, fourth party, or even a fifth party. The most I've done is seven parties, and many of them are based in China or Korea because I think they are at the forefront here, along with the Americans. So that's kind of how I go about it with this republic of letters.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: Oh, I don't think much is holding me back, but I'm using a shared account that is paid for by my company. I'm currently undergoing cancer and chemo treatment. What I would like to do is upload all the past ten years' worth of doctor and medical reports and ask it to make sense of it. It makes sense why I don't have time and I don't have the necessary background, but I would like it to walk me through it and flag other things. That would have been wonderful. However, because it's really personal, I don't want people to click on the threads, so I've stopped using it. I'm considering switching to a personal pro account, but that would mean losing a lot of conversations, which I could export, I'm sure. But yeah, that's roughly the total.
+
+MODERATOR: You mentioned wanting to analyze medical reports but privacy concerns stopped you. What specific insights were you hoping to get from having AI analyze your medical history?
+
+PARTICIPANT: The simple way is, I can't catch everything from the blood work and all that. It was just one of the annual blood tests where they found that I had low hemoglobin. I don't know what that could have meant, but they thought, oh, you know, you're over 50. There's probably some bleeding from kidney stones and all that. But then one thing led to another, and it's like, oh, hell, man, you have colon cancer. I don't know if any of this could be picked up without a proper gastro scan, but yeah, that was pretty close. I'm stage three, so I've had a resection and everything done, but stage twelve would be nasty. So, if anything, this is sort of a preventive thing. I was hoping that good AIs could just go through all my medical history and tell me what to watch out for.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: This is a fantastic question. A lot of the work I'm doing involves looking back at a corpus of data, whether personal or professional, and figuring out how it can advise me to do better. I've given you two examples, but I would also like it to provide foresight. One thing I did yesterday was ask it to describe what my next twenty or thirty years could look like, considering my company, my personal health situation, and where I am in my current career. It's pretty easy to guess from the amount of work I've fed it regarding my professional life. 
+
+I also asked it to look at the Stanford "Design Your Life" framework, which I'm sure you're familiar with, and to work with me on where I could double down or do less or more. In a way, it becomes a fun coach that understands the tenor and tone of my current life. I'm not in my twenties; I'm in my fifties and pretty established, so I want to know what to do next in my wonderful life for the next twenty years. I want something different, but not juvenile. It suggested a few interesting things, I must say. 
+
+It was also helpful because it occasionally reminded me to write little poems to make the keyboard experience a little less fractured. It's actually become a fairly nice companion. I'm quite happy to do what Tyler Cohen suggests, which is to put a lot of myself out there so that the AIs can engage with me. In some ways, I feel like I live on, way beyond this physical existence, so there's a bit of vanity in that as well.
+
+MODERATOR: You mentioned using AI as a life coach and companion. Could you tell me more about the specific suggestions it made for your next 20 years that you found interesting?
+
+PARTICIPANT: Well, it gave me four so-called high-leverage things I can do for a reasonable amount of money, not a lot, like 12k to 50k, alright? To get a lot of surplus either in the work, love, play, or health quadrant. That's the standard design and everything. Alright? And that was interesting because I wouldn't have suggested it, but it knew my personality enough to know that I would go for it. 
+
+So, like, a specific suggestion is to think about, let's see how much did it say here. Yes, to customize 72 micro-seasons. There's a Japanese idea that means there are 72 micro-seasons in a year, each lasting five to seven days. I could commission an art pack from illustrators across Asia, Latin America, and Africa. This would become a visual delight with a cross-cultural lens. It could become merch, and I could get NFT drops if I desire. So that was fun. It costs 12 to 15k, which isn't a lot of money. 
+
+Or I could have a twelve-month retainer with a boutique game studio to prototype an AR quest. Alright, that's slightly more pricey at 80k, but, you know, doable. And maybe I could organize a two-week writer-in-residency. This idea I really like, but maybe not books; I don't like books. But, you know, basically, my four collaborators and I could live patch and talk about things. So it combines health, work, play, and love, deep bonding. 
+
+There are about 60 ideas here. I think this is fairly doable. I probably need to work with some residency outfits in Southeast Asia, which there are a lot of. Alright? Just to handle the logistics, so I don't really mind doing that. Yeah, so, yeah, there are many things here. Yes.
+
+MODERATOR: You've shared some creative project ideas. How would your perfect AI assistant help you execute and manage these projects differently than current tools?
+
+PARTICIPANT: Okay, the creative project ideas, I think I'm getting the hang of it. Monitoring my health is a straightforward one. It would be nice if I could have something to monitor my income and wealth as well. I mean, I know a wonderful human who I expect to retire in a few years, and if somehow that could be carried on with a perfect AI assistant, that would be great. I sit on the boards of various places around the world, and if someone could help me manage travel, that would be helpful. I still go through and use travel agencies, which are wonderful because they handle many things, but if there was another way to manage travel, especially since traveling to the US has become quite challenging with all the deportations and everything, that would be wonderful. 
+
+What else do I need from my life in general? I think that's about it, right? I live in Singapore, so it's pretty technologically advanced. We have a great digital ID infrastructure that handles almost all government services online, fast and efficiently. I know that we are placed quite differently from the rest of the world, so most of my daily life is already managed by the excellent government infrastructure we have here. That's probably not true for many other places as well. So, I think I made my appointments up; it's really not that complicated for someone in their fifties, like me.
+
+*Q9*
+MODERATOR: How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I use Gmail for my email. I'm not sure why they use complexity, but maybe it's because I'm logged into chat. I've also been using Kymi and Deepsea. In terms of email, if it could analyze the corpus of my emails, I was thinking about that movie "Her" with Joaquin Phoenix, where she went through all these emails and said, "You probably have only 81 truly important ones to do, and these are your next few things." So that's one aspect. 
+
+A very good personal assistant would help with that, and while we still have human personal assistants, they are becoming a dying breed for these reasons. I would like it to manage my calendar and travel as well. I think I mentioned this before, but the email analysis could also provide insights into the context of what I find important and useful. It could tell me how my frameworks have changed, where I'm lagging, and where I need to upskill myself. We have a lot of upskilling government grants in my country, Singapore, so it could also indicate where I am better placed. 
+
+Right now, I don't have much time or energy to go through everything, but it would be wonderful if it could truly function as a personal assistant. I know people often develop feelings for their personal assistants or virtual assistants because they know you so intimately, but ultimately, this is not a real relationship; it's more like a mirror. 
+
+I have many real-world relationships, but if I could be freed up and directed, especially as someone in my fifties, I notice that the number of real-world relationships tends to dwindle over time. Work is an obvious reason, and death is a very present reality. I lose one or two connections here and there. 
+
+What's important is finding ways to connect with the next generation easily. I run a large internship program, which allows me to connect with people from every decade, from their twenties to their seventies through my advisory work. If that process could be made easier, it would be wonderful. I want to feel more connected.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: Hi. Well, it's not much different from me talking to ChatGPT professionally, except with voice. I think I'm a bit less structured, I would say, speaking rather than typing. This is obvious why, you know, and probably it's due to my age and so on. Yeah. Because, you know, we can form complete sentences and paragraphs, and we have a framework for our thinking. Something I find rather lacking in my interns, I would say. They go more by the vibes. So, it's not that different. A little bit more intimate, a little bit more immediate, and I would say if I see my audio transcript in writing, I would notice some of these gaps there. But, anyway, that's the nature of audio. Alright. Yeah. Really nothing much more beyond this.
+
+MODERATOR: You mentioned feeling more intimate and immediate with voice. Could you elaborate on how that changes your interaction with AI compared to typing?
+
+PARTICIPANT: Oh, I thought I'd talk about this just now. Writing is more formal. I think this is something for people of my age and my background. We think in terms of frameworks, copying sentences and paragraphs, inputs, outputs, outcomes. We think about boundary conditions. So that's how I write. And when I write, I have that in mind. Talking to an AI is way more transient, way more unstructured. And that's the nature of audio. So this is an audio writing mishmash. That's fine. But I think, was that movie Her? Her is so immediate for many people of my age because once you put a female voice, like Scarlett Johansson and all that, it changes things. Alright? And I do really like that because of the implied power dynamics. Yeah. For me, I'd probably rather have a male voice, which I know a lot of people do not like, but just to keep the structure and rigor of things. But this is what I demand. Okay. I know a lot of people demand companionship, so a female voice would be better.
+
+MODERATOR: You mentioned preferring a male voice to maintain structure and rigor. Could you explain more about how voice gender affects your interaction with AI assistants?
+
+PARTICIPANT: Well, most authority figures, at least in my age group and so on, are male, and they tend to be more emotionally reserved. I would prefer that. I think there's an excess of emotions in current society as it is. I prefer more structure, more rigor, and clear thinking along with clear advice. I mean, I find the young, giggling things around me to be very annoying. So that's probably it. Perhaps I'm just a lot more structured; I prefer hierarchies. Alright? I don't like how people use charm and wit sometimes to advance several stations above where they are.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

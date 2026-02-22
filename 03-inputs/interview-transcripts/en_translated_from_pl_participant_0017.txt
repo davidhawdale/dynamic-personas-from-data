@@ -1,0 +1,85 @@
+*Q1*
+MODERATOR: Which AI tools have you used in the last 3 months for personal purposes (not related to work)? Check all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal matters?
+PARTICIPANT: Once a week
+
+*Q3*
+MODERATOR: I would now like to better understand how you usually use AI and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common personal tasks you use AI for? Tell me about a few examples.
+
+PARTICIPANT: I use AI for things that allow me to gather information or get information about what I can visit in a given country.
+
+MODERATOR: You mentioned travel planning. How exactly do you use AI to gather information about places to visit?
+
+PARTICIPANT: I plan what I can visit on a given day in a country so I don't have to travel from one end of the city to the other.
+
+MODERATOR: How does AI help you optimize those sightseeing routes? What specific information do you get from it?
+
+PARTICIPANT: It's best to get around a city using the metro, public transport like trams, buses, or trains. I wonder whether I'll be able to visit two tourist attractions in one day.
+
+*Q5*
+MODERATOR: Tell me about a situation when you wanted to use AI but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I haven't had such a situation yet, although I know AI is constantly learning and you should use it sensibly, because not all information is verified.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you receive from AI tools?
+
+PARTICIPANT: 3 – I trust it moderately
+
+*Q7*
+MODERATOR: Finally, I'd like to know what you think the ideal AI assistant should look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you have an ideal personal AI assistant. What are the most important things it should do for you? How would it be better than current tools?
+
+PARTICIPANT: It would be best if it showed verified information, not fake, Linux.
+
+MODERATOR: I understand you want certainty about the credibility of information. What other features would be important to you in an ideal AI assistant?
+
+PARTICIPANT: That in the future it could help with everyday life, but not replace face-to-face contact.
+
+MODERATOR: How exactly do you envision that help in daily life? What tasks would it perform?
+
+PARTICIPANT: I'm not an expert, and whether for this particular illness I need to go to a specialist immediately or can I wait for an appointment?
+
+*Q9*
+MODERATOR: How could such an AI assistant be connected to other systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: With a calendar it could remind me of things I've saved there.
+
+MODERATOR: Besides the calendar, what other systems would you like to connect the AI assistant to?
+
+PARTICIPANT: Maybe some home appliances.
+
+MODERATOR: Which specific home appliances would you like to connect to the AI assistant and what would it do with them?
+
+PARTICIPANT: A coffee machine, a fridge that would inform me that something has run out. That's it.
+
+*Q10*
+MODERATOR: Before we finish, I'd like to hear your impressions of talking with AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel answering questions from AI instead of a person? How did this experience differ from talking to a person?
+
+PARTICIPANT: AI still can't fully express itself correctly in a given language, so I preferred to communicate with a person in that regard.
+
+MODERATOR: Could you explain in more detail what makes you prefer talking to a human? What specific language problems did you notice in the conversation with AI?
+
+PARTICIPANT: Grammar problems, and artificial intelligence cannot replace face-to-face conversations.
+
+MODERATOR: You mentioned that face-to-face conversations are irreplaceable. What specifically do you miss in interaction with AI?
+
+PARTICIPANT: In contrast, when I speak face to face, I can see how the person reacts to the questions, how they answer, what their facial expressions are.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and opinions about AI tools! Your answers will help us create better AI assistants that truly meet people's needs.

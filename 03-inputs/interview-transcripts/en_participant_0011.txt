@@ -1,0 +1,81 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: Claude, ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: I use it for replying to admin-related emails. I use it to help family members who are requesting assistance. Recently, someone wanted help with the board charter, so I assisted with that. I also use transcription and dictation a lot, taking notes using AI and then reflecting on those notes. Those are the main use cases.
+
+MODERATOR: Could you tell me more about how you use AI for helping family members? What kinds of assistance do you typically provide?
+
+PARTICIPANT: It's just around.
+
+MODERATOR: You mentioned using AI for emails and transcription. Could you tell me more about how you use AI for transcription and note-taking specifically?
+
+PARTICIPANT: I'm using it for taking notes on the go. I use a tool called WhisperFlow that is quite good at transcription, so I can just talk to my laptop and it takes those notes. A lot of the time, I'm speaking directly into chat as well.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I think it was just around actually using another tool called Retul, and I was trying to create an AI agent using AI. I spent a while battling away at that task and didn't really get anywhere. I tried to create something using AI, but it didn't work.
+
+MODERATOR: Could you tell me more about what specifically went wrong with Retool? What were you trying to build and what challenges did you face?
+
+PARTICIPANT: I think I could have gotten there in the end, but what I was trying to create was an AI agent. Perhaps the task is too complex for AI to create from scratch, and I probably should have set the context more clearly. I was trying to force everything into one or two prompts, and it's probably better to break that out further. So, I think some of it might just be my learning about AI and how to use it quickly.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think, yeah, for me, voice dictation is important, and then the ability to understand those notes and actually take action on them when the time is right. So that's how I use AI currently, but if it could actually, yeah, you know, say I take a note about adding something to the shopping list, if it could actually go ahead and understand that request and then do the order itself or add it to my weekly list within my online shopping order, that would be pretty cool.
+
+MODERATOR: You mentioned voice dictation and shopping list integration. Beyond these tasks, what other daily activities would you want your perfect AI assistant to handle?
+
+PARTICIPANT: Daily activities would include being able to reply to emails by speaking in my own words, while still having the emails written in my tone and style. It would be great to have the assistant actually send those emails as well. That's the only example I could think of.
+
+MODERATOR: You've mentioned email and note-taking tasks. Could you tell me more about how your perfect AI assistant would handle scheduling and time management?
+
+PARTICIPANT: Yeah, I think it would look for gaps in the calendar and make some informed guesses about the best times to schedule those sorts of tasks. Then, it would add that time to my calendar, send me a notification, and send reminders, etc. So, just having control of that calendar and an understanding of the tasks would be great.
+
+*Q9*
+MODERATOR: You've mentioned calendar management and email. How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: Ideally, it would just be one voice interface, and I maybe don't even need to see the calendar. I just get a daily update email with what's coming up today and some stuff I've prepared to help you get ready for those things. Yeah, and just linking through to various systems, maybe within Google Workspace, but other tools as well.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: The experience felt alright. I had no real concerns. I was maybe expecting that when I was being interviewed by AI, it would be more of a conversation. I thought it would have a voice speaking to me in a more conversational tone, not like a typeform survey. That's what I was expecting, but this has been fine. Although, there's no ability to go back, so I can't change my answers.
+
+MODERATOR: You mentioned expecting more of a voice conversation. Could you elaborate on what kind of conversational elements you were hoping for from an AI interviewer?
+
+PARTICIPANT: ChatGPT has a feature around just being able to converse with AI. I think that would be yeah. I think that would be a good option.
+
+MODERATOR: You mentioned wanting more voice features and conversational elements. What specific aspects of human conversation would make an AI interviewer feel more natural to you?
+
+PARTICIPANT: Yeah. I think just human tone of voice and, speed to ask those follow-up questions. Yeah. Just making it more of a human style chat would be good.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

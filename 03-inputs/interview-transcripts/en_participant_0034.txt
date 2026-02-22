@@ -1,0 +1,70 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: https://colorifyai.art/ 
+
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Weekly
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: My most common use for AI would be in the garden. What I do is use ChatGPT specifically to set up an annual flow of the tasks that I need to do in my garden. I ask what kind of work I can do in winter, what I should be doing in spring, summer, and autumn. I use it to estimate how long that work would take, set times for growth, match the plants I have with companion plants that will grow well together, and help me diagnose issues with my trees. I also use Colorify AI to generate coloring pictures for my kids. They ask for specific things, and then I use that to create different pictures. I print them out for them, and they spend their time coloring them in.
+
+MODERATOR: You mentioned using AI for gardening tasks and creating coloring pictures. How do you use AI to diagnose tree issues specifically?
+
+PARTICIPANT: The reason I use AI, or at least how I use AI to diagnose my tree issues, is that the trees I have are indigenous to South Africa, so there's not much information about them on the Internet. What I do is take pictures and describe what's happening, the situation, how the leaves look, what the leaf drop is like, and if there are any fungi or insects living on the tree. I also describe my watering routine, how often I fertilize and compost, and if I'm using mulch, including what type of mulch I'm using. I provide all of that information and then try to get it to help diagnose what the issue could possibly be. When I had an issue with a lot of leaf drop, I used it to diagnose that. I also had some concerns about why the trees weren't growing as fast as I thought they would, and I used it to diagnose that as well.
+
+MODERATOR: You mentioned using AI for gardening and tree diagnosis. How do you use AI for other personal tasks besides gardening and creating coloring pictures?
+
+PARTICIPANT: So I used AI quite often when I need to make decisions around things, when I need to weigh up certain scenarios. So I recently painted the house, and I wanted to know, you know, what's the difference between getting Plascon or Dulux, the more expensive paints versus getting Durum or Fire Earth. So AI helped me to look at the differences between them, what the benefits were, what the I mean, the pros and the cons versus getting the more expensive branded ones and the cheaper branded ones and help me to kinda make those decisions. What I also do is when I'm trying to get into a hobby, say, woodworking, for example, I'll look at what are easy things to start with, what are the beginner tools that I need, what are the beginner techniques that I need. We are some you what are some YouTube channels I can go watch to learn techniques? I've done this with woodworking. I've done this with, motor mechanics working on my car as well. What what are the basic tools that I need? What are the basic functions? You know, helping me to understand how the motor and the gearbox and all of those things kinda fit together. I also use it when I need to well, when I have a certain sports injuries, then I will give it all the information of what I've been doing. Most of the time, it's running. So how often have I been running? What distances have I been running? The type of pain that I'm having, where it's located, what movements, trigger the pain. You know? And I'll help it to I'll get it to then give me more information of what I can do to resolve those issues.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: So, I guess, like I mentioned, I use AI quite often when I'm trying to get into or learn something new. One of these examples was when I was trying to learn more about electronics. I was using Gemini at the time for this. What Gemini does is it kind of takes you through the steps and goes, okay, you learn this. It gives you an explanation, then a little quiz, more explanation, and another quiz. That worked well in the beginning. But with electronics, there are a lot of diagrams that need to be shown, like circuit diagrams, to help you learn more about it. I got to a point where it was saying, oh, here's a circuit diagram, look at this. But it wasn't really showing anything; it didn't show any images. As far as I know, I've never seen Gemini show me an image. So that's kind of where it falls short a little, in the integration with multimedia elements where it needs to show images. Or, take woodworking, for example; it can't show me an actual technique. I want to get my planing technique right. What do I do if I'm hand planing? I have to go find that on YouTube myself and go, okay, this is how it looks. I have to go through a few different videos and then decide, based on what I've seen, that looks like the right way to do it. So, I guess multimedia elements would be where it falls short for me.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 4 - High trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: For me, one of the biggest aspects of using AI effectively is the prompts. The key to utilizing AI well lies in how you prompt it, the amount of information you provide, and the level of detail you include so that it can deliver better information. However, in situations where I lack certain knowledge, like when trying to describe to an AI image generator that I want a medium shot of a person, I may not understand the terminology such as medium shot, long shot, or establishing shot, which makes it difficult to give the right prompt. Therefore, a perfect AI would assist the user with those prompts by saying, "Okay, this is what you have, and these are the things you've missed. What kind of depth would you like? What would you like in the background? How do you envision this?" If it were more conversational and guided the user a bit more to create a better prompt, that would be really ideal for me.
+
+MODERATOR: You mentioned wanting better prompting guidance. Beyond that, what other key features would make this AI assistant perfect for you?
+
+PARTICIPANT: I think also suggesting tangibles in the way that I use AI or creating some kind of plan around things would be helpful. For example, if we had diagnosed my tree in the garden, it could provide specific actions to take, like what you should do, what you need to do, and the timelines for each task. Can I integrate this with my Google Calendar or create a file that I can use to integrate into my Google Calendar? If someone wants to connect Google to the AI, it could send reminders in my calendar for when I need to buy fertilizer, when I need to buy antifungal, when I need to apply it, how much, and how often. It would be great to add those details and go into depth. There are many times when I didn't realize I wasn't asking the right questions. While I was busy doing something, I would wonder how often I was supposed to do it, if it was a one-time task, or if it was supposed to be recurring. Those kinds of things would be helpful. I guess it helps that I go through that because then I learn it myself, but if I wanted to have the AI do the heavy thinking for me, those features would be beneficial.
+
+*Q9*
+MODERATOR: You mentioned calendar integration. What other systems or apps would you want your perfect AI assistant to connect with?
+
+PARTICIPANT: I wouldn't really want to connect with anything else. To be honest, a lot of the things I like to do, some people might think of messaging or phone calls. Those are things that I would want to do myself. I don't want to send my own messages; I want to make my own phone calls. For me, my biggest issue is forgetting about things and forgetting when to do things. So that's why the calendar integration is probably the most important thing. I don't see anywhere else that I would want that.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I think it comes down to surface-level issues. AI specifically can't relate to certain things that I'm speaking about, like being forgetful or the gardening topics, where a human would be able to engage more deeply. A human might say, "Oh, has this happened? Have you seen...?" There's just a deeper level of conversation between humans than between a human and an AI. The AI will ask questions based on exactly what I've said, while a human would ask questions based on an extension of what I said. For example, if I talk about gardening, a human might ask about nurseries or specific plants, whereas AI would just ask about gardening because I mentioned it.
+
+MODERATOR: You mentioned AI can't relate like humans can. Could you tell me more about what makes human interviewers better at relating to your experiences?
+
+PARTICIPANT: I would say personal experience and just, I guess, maybe understanding degrees of separation where I could probably get there. With more improvement, it will get there. It goes, okay, gardening means trees, plants, composting, vermiculture. You know, asking, do you use it for your worm farm as well? Do you have a worm farm? Those kinds of things a human would get another human to think more deeply about it and go, oh, yes, I forgot about that. I do that. Yes, how did you know? AI doesn't have that experience, so it can't relate to it.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.

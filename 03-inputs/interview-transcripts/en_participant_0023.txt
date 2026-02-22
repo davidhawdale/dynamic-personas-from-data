@@ -1,0 +1,77 @@
+*Q1*
+MODERATOR: Which AI tools have you used for personal tasks (not work-related) in the past 3 months? Select all that apply.
+PARTICIPANT: ChatGPT
+
+*Q2*
+MODERATOR: How often do you use AI tools for personal use?
+PARTICIPANT: Multiple times per day
+
+*Q3*
+MODERATOR: Now I'd like to understand more about your typical AI usage patterns and where current tools fall short...
+PARTICIPANT: Continue
+
+*Q4*
+MODERATOR: What are the most common types of personal tasks you use AI for? Walk me through some examples.
+
+PARTICIPANT: Asking questions, having help curating ideas, double-checking my work, reviewing PowerPoint designs, creating designs, and copywriting or editing text.
+
+MODERATOR: Could you tell me more about how you use AI for design tasks? What kind of designs do you create?
+
+PARTICIPANT: In my personal life, this would be more logo or tattoo ideas that I have, or just different graphics and work. It could be related to PowerPoint or creating slideshows and decks.
+
+MODERATOR: You mentioned using AI for questions and help. Could you give me some specific examples of the types of questions you typically ask AI?
+
+PARTICIPANT: This would be anything that I would typically Google. I probably go to AI now. For example, if I want to know how much taxes I'm going to be paying on my salary under different conditions of my tax situation, I would ask AI to do that.
+
+*Q5*
+MODERATOR: Tell me about a time you wanted to use AI for something but couldn't. What was the task? What prevented you from using AI?
+
+PARTICIPANT: I think, especially when using the free version, the image and graphics creation can be quite limited. When you ask it to change things about the image, it can also be a bit restricted.
+
+MODERATOR: Could you tell me more about what specific image changes you wanted to make but couldn't? What were you trying to create?
+
+PARTICIPANT: I was trying to create an idea for a tattoo that I wanted to get, and I kept asking it to change the style of the image to replicate another style more. I even included reference images, but it just wasn't able to recreate it in the way I was hoping.
+
+*Q6*
+MODERATOR: How much do you trust the results or suggestions you get from AI tools?
+
+PARTICIPANT: 3 - Moderate trust
+
+*Q7*
+MODERATOR: Finally, I'd like to understand what your perfect AI assistant would look like...
+PARTICIPANT: Continue
+
+*Q8*
+MODERATOR: Imagine you had a perfect AI personal assistant. What would be the most important things it would do for you? How would it be better than existing tools?
+
+PARTICIPANT: I think it would be great to combine an AI assistant with my calendar and my lists, similar to Siri. It would be helpful to say, "Oh, create this list and remind me on this day," and maybe even be able to talk aloud to it, really utilizing it. I use it a lot for brainstorming, so having that back-and-forth interaction would be beneficial. Additionally, if we are having a brainstorming session, it would be nice to have a summary of notes at the end. I also wish it was a bit more opinionated at times, as it can be somewhat wishy-washy when you ask for its opinion on something. I prefer to use it for an objective opinion, so I think that would be more helpful as well.
+
+MODERATOR: You mentioned wanting AI to be more opinionated. Could you give me an example of when you'd want it to take a stronger stance?
+
+PARTICIPANT: I think sometimes I'm looking for it to look at the facts and draw an opinion based on those facts. I'm not saying it's 100% what I would believe, but if you're trying to decide on something, I'm looking for something that is unbiased and without personal impact to create and form an opinion that I can then use as I develop my own opinion.
+
+MODERATOR: You mentioned wanting AI to help with objective decision-making. What kind of decisions would you want it to help with?
+
+PARTICIPANT: This could be really anything, like, "Oh, I'm having this issue with a friend. What do you think of the situation?" Or sometimes it can be about emotional things, like, "I'm feeling this way and I want an objective opinion on whether this is irrational or if this is something that is real," that kind of stuff. So.
+
+*Q9*
+MODERATOR: Earlier you mentioned connecting AI with your calendar and lists. How might the AI be interconnected with the systems you use (e.g., calendar, email, etc.)? What would that enable you to do?
+
+PARTICIPANT: I'm looking for a hands-off dictation type situation where I can think aloud. I want to be able to say, "Oh, create this list," and then I can tell everything I want on the list, and it can formulate it itself. Or, "I want to make this grocery list. Can you organize it by category?" or "Add this to my calendar. Remind me of this thing that's coming up," that kind of stuff.
+
+*Q10*
+MODERATOR: Before we wrap up, I'd like to hear about your experience being interviewed by an AI...
+
+PARTICIPANT: Continue
+
+*Q11*
+MODERATOR: How did you feel about being interviewed by an AI rather than a human? What was different about this experience?
+
+PARTICIPANT: I don't think the experience is much different than a survey necessarily. I personally prefer not to do video or oral interviews. A written survey would be more preferable to me, I think. But, yeah, I think this is interesting as well.
+
+MODERATOR: You mentioned preferring written surveys. Could you tell me more about why you prefer that format over video or oral interviews?
+
+PARTICIPANT: I think for most people, it feels more comfortable to write things down and answer multiple choice questions rather than having to say it out loud and find the space where they can speak candidly. Also, I don't think most people are comfortable having their videos recorded and talking to the camera for something like this.
+
+*Q12*
+MODERATOR: Thank you for sharing your experiences and insights about AI tools! Your feedback will help us create better AI assistants that truly meet people's needs.
