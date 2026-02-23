@@ -57,64 +57,50 @@ participant_id, transcript_id, question_ref, tag, severity, sentiment, quote, so
 
 ## Writing the output file
 
-**Always write the CSV using Python's csv module via the Bash tool.** Do not construct CSV text manually — quotes often contain commas which break manual formatting. Use this exact pattern:
+**Always write the CSV using the companion script** — do not construct CSV text manually, as quotes often contain commas that break manual formatting.
 
-```python
-import csv
+Steps:
+
+1. Build the rows as a Python list in an inline Bash call and serialise to a temp JSON file:
+
+```bash
+python3 -c "
+import json
 rows = [
     {
-        "participant_id": ...,
-        "transcript_id": ...,
-        "question_ref": ...,
-        "tag": ...,
-        "severity": ...,
-        "sentiment": ...,
-        "quote": ...,
-        "source_line_start": ...,
-        "source_line_end": ...,
+        'participant_id': ...,
+        'transcript_id': ...,
+        'question_ref': ...,
+        'tag': ...,
+        'severity': ...,
+        'sentiment': ...,
+        'quote': ...,
+        'source_line_start': ...,
+        'source_line_end': ...,
     },
     # more rows
 ]
-fieldnames = ["participant_id","transcript_id","question_ref","tag","severity","sentiment","quote","source_line_start","source_line_end"]
-with open(output_path, "w", newline="", encoding="utf-8") as f:
-    writer = csv.DictWriter(f, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerows(rows)
+with open('/tmp/{transcript_id}-rows.json', 'w', encoding='utf-8') as f:
+    json.dump(rows, f)
+"
 ```
 
-Run this as a Bash command (inline Python), substituting the actual `output_path` and row data. This guarantees correct quoting regardless of commas in quote text.
+2. Call the write script (substitute actual paths):
+
+```bash
+python3 .claude/agents/transcript-quote-extractor/write-csv.py \
+  --rows-file /tmp/{transcript_id}-rows.json \
+  --output-path {output_path}
+```
 
 ## Verify before finishing
 
-After writing the CSV, run this verification check. If any quotes fail, you must fix them in the CSV before you are done — do not exit with failing quotes.
+After writing the CSV, run the verification script. If any quotes fail, you must fix them in the CSV before you are done — do not exit with failing quotes.
 
-```python
-import csv, re
-
-def norm(text):
-    for a, b in [("\u2018","'"),("\u2019","'"),("\u201c",'"'),("\u201d",'"')]:
-        text = text.replace(a, b)
-    return re.sub(r"\s+", " ", text).strip().lower()
-
-transcript_text = norm(open(transcript_path, encoding="utf-8").read())
-
-with open(output_path, newline="", encoding="utf-8") as f:
-    rows = list(csv.DictReader(f))
-
-failures = []
-for row in rows:
-    quote = norm(row["quote"])
-    for seg in [s.strip() for s in quote.split("...") if s.strip()]:
-        if seg not in transcript_text:
-            failures.append((row["tag"], seg[:80]))
-            break
-
-if failures:
-    print("VERBATIM CHECK FAILED — fix these quotes before finishing:")
-    for tag, seg in failures:
-        print(f"  [{tag}] segment not found: {seg!r}")
-else:
-    print("Verbatim check: all quotes PASS")
+```bash
+python3 .claude/agents/transcript-quote-extractor/verify-quotes.py \
+  --transcript-path {transcript_path} \
+  --output-path {output_path}
 ```
 
 For any failing quote: go back to the transcript, locate the exact wording, and rewrite the CSV row with the verbatim text. Then re-run the check until all quotes PASS.

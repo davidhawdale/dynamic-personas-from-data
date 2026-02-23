@@ -39,5 +39,36 @@ Extract and tag verbatim quotes from interview transcripts, cluster participants
 - Goal: Confirm every extracted quote is verbatim — no paraphrasing.
 - Run: `python3 02-workflows/build-dynamic-personas/validate-quotes.py`
 - Input: `p1-quote-extraction/quotes.csv` + `p0-prepare/manifest.json` (for transcript paths)
-- Output: `p1-quote-extraction/quote-validation-report.csv` (status, reason, transcript_match, transcript_lines per quote)
+- Output: `p2-validate-quotes/quote-validation-report.csv` (status, reason, transcript_match, transcript_lines per quote)
 - If FAIL: quote was paraphrased — re-run that participant's extractor with explicit instruction to copy text verbatim; if second fail, flag for human review
+
+### Phase 2 Gate: Human Review — HARD STOP
+
+**Always stop here. Do not continue without explicit user confirmation.**
+
+After Phase 2 completes, read `p2-validate-quotes/quote-validation-report.csv` and present a summary:
+
+```
+Phase 2 complete — Quote Validation Summary
+───────────────────────────────────────────
+Total quotes:   N
+Passed:         N
+Failed:         N
+
+[If failures > 0, list each:]
+  FAIL  [tag]  participant: [id]  reason: [reason]
+
+[If failures = 0:]
+  All quotes passed verbatim check.
+```
+
+Then ask:
+
+- **If failures > 0:** "There are [N] failed quotes. Would you like to go back and re-run the affected participant(s) before continuing, or continue to the next phase anyway?"
+- **If failures = 0:** "All quotes passed. Ready to continue to the next phase?"
+
+Do not proceed to the next phase until the user explicitly says yes.
+
+## Phase 3: Check for Contradictions
+
+* Goal: Check, for each participant, that they do not contradict themselves

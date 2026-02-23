@@ -23,7 +23,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 MANIFEST_PATH = ROOT / "04-process" / "build-dynamic-personas" / "p0-prepare" / "manifest.json"
 QUOTES_PATH = ROOT / "04-process" / "build-dynamic-personas" / "p1-quote-extraction" / "quotes.csv"
-REPORT_PATH = ROOT / "04-process" / "build-dynamic-personas" / "p1-quote-extraction" / "quote-validation-report.csv"
+REPORT_PATH = ROOT / "04-process" / "build-dynamic-personas" / "p2-validate-quotes" / "quote-validation-report.csv"
 
 REPORT_COLUMNS = [
     "participant_id",
