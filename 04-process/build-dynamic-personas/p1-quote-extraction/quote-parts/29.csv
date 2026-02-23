@@ -1,0 +1,13 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+29,en_participant_0029,Q4,Practical Task Automation,High,neutral,"I have used AI to create a list of restaurants. I've used AI to create grocery lists, and I have used AI, let's see, to help me with travel plans.",16,16
+29,en_participant_0029,Q4,Meal Planning Support,High,positive,It recommends meal plans for the week and then the grocery lists that would help me shop.,24,24
+29,en_participant_0029,Q5,Email Organization Desire,High,negative,"I would like to use AI to clean up my personal email inbox, but I can't find the time or don't know the right tools to use.",29,29
+29,en_participant_0029,Q5,Low Tool Research Effort,Medium,neutral,I really haven't looked into any because I don't seem to find the time to pay attention to my own personal email.,33,33
+29,en_participant_0029,Q8,Organization Efficiency Goals,High,positive,"The Perfect AI tools help me stay more organized, complete tasks faster, and pull information from various areas of the things I work on throughout the day.",47,47
+29,en_participant_0029,Q8,Email Organization Priority,High,negative,"In my personal life, I would say that keeping my emails more organized would be a huge help, and this would also benefit my professional life.",51,51
+29,en_participant_0029,Q8,Data Integration Need,High,negative,"In the professional world, I often deal with a lot of different data pieces, and integrating them between the various software systems I work in would be much more efficient than having to do manual entry.",51,51
+29,en_participant_0029,Q9,Contact Management Challenge,High,negative,I find that keeping addresses up to date on a regular basis is very difficult to do.,60,60
+29,en_participant_0029,Q9,Automation And Integration,Medium,positive,finding a way to keep those updated and unsubscribing from emails that I don't utilize regularly would be helpful.,60,60
+29,en_participant_0029,Q11,Voice Interaction Preference,High,mixed,"It's a little strange responding to an AI interviewer when you're not hearing the question first ... It would probably be a bit easier if there was an AI-generated face that you're talking to or a voice that you're hearing so that you can respond, and it doesn't feel so much like a one-way conversation.",70,70
+29,en_participant_0029,Q11,Voice Over Text Preference,Medium,positive,"I do like it better than having to type it out because I think you get a much faster response, and you can't really delete or take back what you just said.",78,78
+29,en_participant_0029,Q11,Speech Habituation Anxiety,Low,negative,"I also get self-conscious about the number of times I say ""so,"" and that's a little odd.",78,78

@@ -1,0 +1,13 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+17,en_participant_0017,Q4,Travel Planning Via AI,High,neutral,I use AI for things that allow me to gather information or find out what I can visit in a given country.,12,12
+17,en_participant_0017,Q4,Route Optimization Concern,Medium,neutral,I plan what I can visit in a given country on a given day so that I don't have to travel from one end of the city to the other.,15,15
+17,en_participant_0017,Q4,Public Transport Preference,Medium,neutral,"It's best to move around a given city using the metro, public transport such as trams, buses, or trains.",18,18
+17,en_participant_0017,Q5,Information Verification Awareness,High,neutral,I know that AI is constantly learning and you have to use it wisely because not all information is verified.,22,22
+17,en_participant_0017,Q8,Verified Information Requirement,High,negative,"It would be best if it showed verified information, not fake, Linux.",32,32
+17,en_participant_0017,Q8,Human Contact Irreplaceability,High,mixed,That in the future it could help in everyday life but not replace face-to-face contact.,35,35
+17,en_participant_0017,Q8,Medical Decision Support,Medium,neutral,I'm not sure if I need to see a specialist immediately for a specific illness or if I can wait for an appointment.,38,38
+17,en_participant_0017,Q9,Calendar Integration Value,Medium,neutral,"With the calendar, it could remind me of things I have noted there.",42,42
+17,en_participant_0017,Q9,Smart Home Integration Interest,Low,neutral,"Coffee machine, refrigerator that would inform me that something has run out.",48,48
+17,en_participant_0017,Q11,Language Expression Issues,High,negative,"AI still doesn't fully express itself correctly in a given language, so I preferred to contact a person from this side.",55,55
+17,en_participant_0017,Q11,Grammatical Problems In AI,Medium,negative,Grammatical problems and face-to-face conversations cannot be replaced by artificial intelligence.,58,58
+17,en_participant_0017,Q11,Nonverbal Communication Gap,High,negative,"In interaction with AI, if I talk face to face, I see how the person reacts to the questions asked, how they answer, what their facial expressions are.",61,61

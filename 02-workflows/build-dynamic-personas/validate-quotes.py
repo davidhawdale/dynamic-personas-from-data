@@ -38,6 +38,20 @@ REPORT_COLUMNS = [
 ]
 
 
+# ── Text normalisation ───────────────────────────────────────────────────────────
+
+def norm_quotes(text: str) -> str:
+    """Normalise Unicode curly quotes/apostrophes to ASCII equivalents."""
+    return (
+        text
+        .replace("\u2018", "'")   # LEFT SINGLE QUOTATION MARK
+        .replace("\u2019", "'")   # RIGHT SINGLE QUOTATION MARK
+        .replace("\u201c", '"')   # LEFT DOUBLE QUOTATION MARK
+        .replace("\u201d", '"')   # RIGHT DOUBLE QUOTATION MARK
+        .replace("\u2032", "'")   # PRIME (sometimes used as apostrophe)
+    )
+
+
 # ── Transcript loading ───────────────────────────────────────────────────────────
 
 def load_transcript(path: Path) -> tuple[str, list[int]]:
@@ -53,7 +67,7 @@ def load_transcript(path: Path) -> tuple[str, list[int]]:
     char_to_line: list[int] = []
 
     for lineno, line in enumerate(lines, start=1):
-        norm = re.sub(r"\s+", " ", line).strip()
+        norm = re.sub(r"\s+", " ", norm_quotes(line)).strip()
         if not norm:
             continue
         if parts:
@@ -91,7 +105,7 @@ def match_quote(
                           with ' ... ' for ellipsis quotes); empty on FAIL
       transcript_lines  — original line number(s) where match was found; empty on FAIL
     """
-    norm_quote = re.sub(r"\s+", " ", quote).strip()
+    norm_quote = re.sub(r"\s+", " ", norm_quotes(quote)).strip()
     trans_lower = norm_transcript.lower()
 
     if "..." not in norm_quote:

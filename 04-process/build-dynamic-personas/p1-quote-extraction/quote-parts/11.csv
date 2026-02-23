@@ -1,0 +1,23 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+11,en_participant_0011,Q4,Admin Email Assistance,Medium,neutral,I use it for replying to admin-related emails.,16,16
+11,en_participant_0011,Q4,Family Support Use Case,Medium,neutral,I use it to help family members who are requesting assistance.,16,16
+11,en_participant_0011,Q4,Board Charter Collaboration,Low,neutral,"Recently, someone wanted help with the board charter, so I assisted with that.",16,16
+11,en_participant_0011,Q4,Voice Transcription Preference,High,positive,"I also use transcription and dictation a lot, taking notes using AI and then reflecting on those notes.",16,16
+11,en_participant_0011,Q4,WhisperFlow Tool Satisfaction,Medium,positive,"I'm using it for taking notes on the go. I use a tool called WhisperFlow that is quite good at transcription, so I can just talk to my laptop and it takes those notes.",24,24
+11,en_participant_0011,Q4,Direct Chat Speaking,Low,neutral,"A lot of the time, I'm speaking directly into chat as well.",24,24
+11,en_participant_0011,Q5,Retool Agent Creation Failure,High,negative,"I think it was just around actually using another tool called Retul, and I was trying to create an AI agent using AI. I spent a while battling away at that task and didn't really get anywhere.",29,29
+11,en_participant_0011,Q5,AI Complexity Recognition,High,mixed,"Perhaps the task is too complex for AI to create from scratch, and I probably should have set the context more clearly.",33,33
+11,en_participant_0011,Q5,Prompt Engineering Learning Gap,Medium,mixed,"I was trying to force everything into one or two prompts, and it's probably better to break that out further. So, I think some of it might just be my learning about AI and how to use it quickly.",33,33
+11,en_participant_0011,Q8,Voice Dictation Importance,High,positive,"I think, yeah, for me, voice dictation is important, and then the ability to understand those notes and actually take action on them when the time is right.",47,47
+11,en_participant_0011,Q8,Shopping List Integration,Medium,positive,"say I take a note about adding something to the shopping list, if it could actually go ahead and understand that request and then do the order itself or add it to my weekly list within my online shopping order, that would be pretty cool.",47,47
+11,en_participant_0011,Q8,Email Voice Reply Preference,High,positive,"Daily activities would include being able to reply to emails by speaking in my own words, while still having the emails written in my tone and style.",51,51
+11,en_participant_0011,Q8,Email Sending Automation,Medium,positive,It would be great to have the assistant actually send those emails as well.,51,51
+11,en_participant_0011,Q8,Smart Calendar Scheduling,High,positive,"I think it would look for gaps in the calendar and make some informed guesses about the best times to schedule those sorts of tasks. Then, it would add that time to my calendar, send me a notification, and send reminders, etc.",55,55
+11,en_participant_0011,Q8,Calendar Control Desire,Medium,positive,"So, just having control of that calendar and an understanding of the tasks would be great.",55,55
+11,en_participant_0011,Q9,Voice Interface Preference,High,positive,"Ideally, it would just be one voice interface, and I maybe don't even need to see the calendar.",60,60
+11,en_participant_0011,Q9,Daily Summary Email Request,Medium,positive,I just get a daily update email with what's coming up today and some stuff I've prepared to help you get ready for those things.,60,60
+11,en_participant_0011,Q9,Cross-System Integration,Medium,neutral,"Yeah, and just linking through to various systems, maybe within Google Workspace, but other tools as well.",60,60
+11,en_participant_0011,Q11,AI Interview Conversational Gap,Medium,mixed,"I had no real concerns. I was maybe expecting that when I was being interviewed by AI, it would be more of a conversation. I thought it would have a voice speaking to me in a more conversational tone, not like a typeform survey.",70,70
+11,en_participant_0011,Q11,Response Edit Inability Frustration,Low,negative,"Although, there's no ability to go back, so I can't change my answers.",70,70
+11,en_participant_0011,Q11,ChatGPT Voice Feature Preference,Medium,positive,ChatGPT has a feature around just being able to converse with AI. I think that would be yeah. I think that would be a good option.,74,74
+11,en_participant_0011,Q11,Human Conversational Tone Expectation,High,mixed,"I think just human tone of voice and, speed to ask those follow-up questions. Yeah. Just making it more of a human style chat would be good.",78,78

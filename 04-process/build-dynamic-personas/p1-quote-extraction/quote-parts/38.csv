@@ -1,0 +1,14 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+38,en_participant_0038,Q4,Email And Letter Writing,Medium,neutral,Writing letters and writing emails.,16,16
+38,en_participant_0038,Q4,Business Communication Use Case,Medium,neutral,"Business emails, marketing and sales emails, personal emails.",20,20
+38,en_participant_0038,Q4,Personal Communication Tasks,Low,neutral,writing an email to learn about something or writing an email to a friend.,24,24
+38,en_participant_0038,Q5,Research Interpretation Gap,High,negative,"I find that in my work, when I'm trying to interpret the results of research, the AI has not done the job very well.",29,29
+38,en_participant_0038,Q5,Data Interpretation Failure,High,negative,"It doesn't pick up on many of the themes in the research accurately, and it doesn't calculate data from an unstructured interview accurately either.",33,33
+38,en_participant_0038,Q6,Low Trust In AI Results,High,negative,2 - Low trust,38,38
+38,en_participant_0038,Q8,Proactive Anticipation Need,High,positive,"A perfect AI assistant would function much like a human, perhaps even faster and more efficiently, in anticipating my needs and being proactive in getting things done for me, both in personal and work-related matters.",47,47
+38,en_participant_0038,Q8,Calendar Agenda Automation,High,positive,"an AI tool that could go through my calendar for the coming week, organize it for me, and prepare a memo of what I need to prepare. Essentially, it would create an agenda for what I have to prepare for each meeting coming up in the week based on my Outlook calendar.",51,51
+38,en_participant_0038,Q9,Office Suite Integration,Medium,neutral,"Excel, PowerPoint, Word.",56,56
+38,en_participant_0038,Q9,Data Analysis And Presentation,High,positive,"For Excel, I'd like it to perform basic calculations when it comes to analyzing the research information we have. For PowerPoint, it would be ideal if it could transfer information from interview transcripts into a PowerPoint presentation. And with Word, it would be great if it could assist in writing first drafts of proposals.",60,60
+38,en_participant_0038,Q11,Depth Of Information Concern,High,negative,"I don't think, at this point, the interface would pull the depth of information that I'd be looking for that a person conducting interviews, particularly a well-experienced person, would be able to get from me.",70,70
+38,en_participant_0038,Q11,Off Script Flexibility Gap,High,negative,"This is especially true with the ability to go off script and know when to do so, as well as to follow the prompts of the person they're interviewing.",70,70
+38,en_participant_0038,Q11,Insightful Follow Up Requirement,High,negative,"I think it's the ability to take the information that's provided and come up with an insightful follow-up. Not an obvious follow-up, but a more insightful follow-up to take the conversation to the next level.",74,74

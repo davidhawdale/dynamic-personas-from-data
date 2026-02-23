@@ -1,0 +1,13 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+40,en_participant_0040,Q4,No Personal AI Use,High,neutral,I don't use AI at all for any personal tasks.,16,16
+40,en_participant_0040,Q4,Perceived Lack Of Need,High,neutral,"I don't see a need for it yet, and I don't, yeah, I don't see a need.",20,20
+40,en_participant_0040,Q4,Research Self Sufficiency,Medium,positive,I feel comfortable conducting research on my own without any kind of AI assistance.,24,24
+40,en_participant_0040,Q5,No Unmet AI Needs,Medium,neutral,"This hasn't really happened. I can't, I don't have an example.",29,29
+40,en_participant_0040,Q6,Moderate AI Trust,Low,neutral,3 - Moderate trust,34,34
+40,en_participant_0040,Q8,Calendar And Errand Optimization,High,neutral,"Maybe for reminding me about things on my calendar or errands I need to run, perhaps anticipating the best way to combine errands in a more efficient manner than I might do on my own, or letting me know about opportunities I might not be on the lookout for.",43,43
+40,en_participant_0040,Q8,Contextual Errand Awareness,Medium,neutral,"letting me know that I'm going to be in the area of a store that I might not know about, or finding the best time of day to go and run all my errands—not just when I have time, but also when the weather is going to be nice, maybe, or something like that.",47,47
+40,en_participant_0040,Q8,Proactive Opportunity Pings,Medium,neutral,"letting me know when I'm out, sending me a ping to let me know that I'm near something else where I could get something done that I had on my list and wasn't aware of.",51,51
+40,en_participant_0040,Q9,No System Integration Ideas,Low,neutral,I can't really think of any.,56,56
+40,en_participant_0040,Q11,AI Interview Frustration,High,negative,"I didn't really like it. I feel like it couldn't process that I didn't have anything to say about a topic, and it kind of just kept asking me to restate my answers a few different times.",66,66
+40,en_participant_0040,Q11,AI Interview Persistence Problem,High,negative,"it wasn't really listening and it couldn't handle negative answers, and kept trying to draw out further answers or explanations when sometimes a negative is just a negative.",70,70
+40,en_participant_0040,Q11,Absence Requires No Elaboration,Medium,negative,"It is an absence of an answer, and digging more is not going to produce more information.",70,70

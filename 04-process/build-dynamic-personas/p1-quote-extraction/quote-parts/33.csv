@@ -1,0 +1,11 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+33,en_participant_0033,Q4,Information Seeking Behavior,High,neutral,"It can be anything, actually. Something maybe like the top things that I hear in terms of topics or things that I've heard on the news or that other people have told me. If there are topics that I'm not familiar with, then I will search for them to gain a better understanding.",24,24
+33,en_participant_0033,Q4,AI Usage Scope,High,neutral,"Searching for information, learning about different topics, and planning.",16,16
+33,en_participant_0033,Q4,Planning Tasks,Medium,neutral,Planning for trips or personal projects.,20,20
+33,en_participant_0033,Q6,Moderate Trust Level,High,neutral,3 - Moderate trust,38,38
+33,en_participant_0033,Q8,Accuracy And Up-To-Date Information,High,positive,Accurate and up-to-date information that is intuitive. They explain things in a way that I can understand very easily.,47,47
+33,en_participant_0033,Q8,Contextual Understanding,High,neutral,"Understand the context at angle and the depth of information that I want, and give me the right level.",51,51
+33,en_participant_0033,Q9,System Integration Desire,High,positive,"Yes, I would like AI to be connected with my calendar, email, and messaging apps. Then I can integrate the information in the AI with the apps that I use very often.",56,56
+33,en_participant_0033,Q9,Automated Task Coordination,High,positive,"For example, if I make some plans, it will automatically mark them in my calendar and send an email or note or message to notify the people involved. It will also remind me when the events are happening in advance.",60,60
+33,en_participant_0033,Q11,AI Interview Distance Perception,Medium,negative,"Yeah, I think it's fine, but it feels more distant than personal.",70,70
+33,en_participant_0033,Q11,Machine Interaction Disconnect,Medium,negative,Because I'm talking to a machine rather than a person.,74,74

@@ -1,0 +1,14 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+PL17,en_translated_from_pl_participant_0017,Q4,Travel Planning Use Case,High,neutral,I use AI for things that allow me to gather information or get information about what I can visit in a given country.,16,16
+PL17,en_translated_from_pl_participant_0017,Q4,Route Optimization Daily Planning,Medium,neutral,I plan what I can visit on a given day in a country so I don't have to travel from one end of the city to the other.,20,20
+PL17,en_translated_from_pl_participant_0017,Q4,Public Transport Navigation,Medium,neutral,"It's best to get around a city using the metro, public transport like trams, buses, or trains.",24,24
+PL17,en_translated_from_pl_participant_0017,Q5,AI Information Verification Concern,High,negative,"I know AI is constantly learning and you should use it sensibly, because not all information is verified.",29,29
+PL17,en_translated_from_pl_participant_0017,Q8,Verified Information Requirement,High,negative,"It would be best if it showed verified information, not fake, Linux.",43,43
+PL17,en_translated_from_pl_participant_0017,Q8,AI Human Connection Preservation,High,mixed,"That in the future it could help with everyday life, but not replace face-to-face contact.",47,47
+PL17,en_translated_from_pl_participant_0017,Q8,Medical Decision Support,Medium,neutral,"I'm not an expert, and whether for this particular illness I need to go to a specialist immediately or can I wait for an appointment?",51,51
+PL17,en_translated_from_pl_participant_0017,Q9,Calendar Reminder Integration,Medium,neutral,With a calendar it could remind me of things I've saved there.,56,56
+PL17,en_translated_from_pl_participant_0017,Q9,Smart Home Appliance Integration,Low,neutral,Maybe some home appliances.,60,60
+PL17,en_translated_from_pl_participant_0017,Q9,Connected Device Preferences,Medium,neutral,"A coffee machine, a fridge that would inform me that something has run out.",64,64
+PL17,en_translated_from_pl_participant_0017,Q11,Language Expression Accuracy Concern,High,negative,"AI still can't fully express itself correctly in a given language, so I preferred to communicate with a person in that regard.",74,74
+PL17,en_translated_from_pl_participant_0017,Q11,Face To Face Irreplaceability,High,negative,"Grammar problems, and artificial intelligence cannot replace face-to-face conversations.",78,78
+PL17,en_translated_from_pl_participant_0017,Q11,Human Nonverbal Communication Value,High,positive,"In contrast, when I speak face to face, I can see how the person reacts to the questions, how they answer, what their facial expressions are.",82,82

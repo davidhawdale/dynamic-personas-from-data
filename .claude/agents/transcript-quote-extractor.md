@@ -83,3 +83,38 @@ with open(output_path, "w", newline="", encoding="utf-8") as f:
 ```
 
 Run this as a Bash command (inline Python), substituting the actual `output_path` and row data. This guarantees correct quoting regardless of commas in quote text.
+
+## Verify before finishing
+
+After writing the CSV, run this verification check. If any quotes fail, you must fix them in the CSV before you are done — do not exit with failing quotes.
+
+```python
+import csv, re
+
+def norm(text):
+    for a, b in [("\u2018","'"),("\u2019","'"),("\u201c",'"'),("\u201d",'"')]:
+        text = text.replace(a, b)
+    return re.sub(r"\s+", " ", text).strip().lower()
+
+transcript_text = norm(open(transcript_path, encoding="utf-8").read())
+
+with open(output_path, newline="", encoding="utf-8") as f:
+    rows = list(csv.DictReader(f))
+
+failures = []
+for row in rows:
+    quote = norm(row["quote"])
+    for seg in [s.strip() for s in quote.split("...") if s.strip()]:
+        if seg not in transcript_text:
+            failures.append((row["tag"], seg[:80]))
+            break
+
+if failures:
+    print("VERBATIM CHECK FAILED — fix these quotes before finishing:")
+    for tag, seg in failures:
+        print(f"  [{tag}] segment not found: {seg!r}")
+else:
+    print("Verbatim check: all quotes PASS")
+```
+
+For any failing quote: go back to the transcript, locate the exact wording, and rewrite the CSV row with the verbatim text. Then re-run the check until all quotes PASS.

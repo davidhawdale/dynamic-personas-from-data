@@ -1,0 +1,10 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+51,en_participant_0051,Q4,Synthesis Over Search,High,positive,The most common personal tasks I use AI for are really just summarizing information from the web. I'm using Perplexity as a kind of default search engine to skip straight to the synthesis.,16,16
+51,en_participant_0051,Q4,Robustness Preference,Medium,positive,"It does most of the job that Google's Gemini-based AI summaries do at the top of search results, but I find it to be a little bit more robust and thorough.",16,16
+51,en_participant_0051,Q4,Document Summarization Utility,Medium,positive,I also use AI quite a lot for summarizing long documents and similar tasks.,16,16
+51,en_participant_0051,Q4,Coding Assistance,High,positive,I use it a lot when writing code.,24,24
+51,en_participant_0051,Q5,AI Tier Limitations,Medium,negative,"Sometimes there are limits on the tiers of AI tools that I'm using, and sometimes it just doesn't do a good job.",29,29
+51,en_participant_0051,Q5,Hallucination Issue,High,negative,It makes things up.,33,33
+51,en_participant_0051,Q5,Cumulative Error Sensitivity,High,negative,It's interesting with AI because a little bit of wrong is sometimes just the straw that makes it all not useful.,37,37
+51,en_participant_0051,Q11,Trust Requires Clarity,High,mixed,"I think I was mostly comfortable with the experience, but it needs a lot of lead-in. I need to be able to trust where my information is going and how it's being processed before I start interacting with the LLM.",74,74
+51,en_participant_0051,Q11,Transparency Gap,High,negative,"Yeah, it's that lack of upfront clarity and trust-building that makes it problematic more than anything else.",74,74

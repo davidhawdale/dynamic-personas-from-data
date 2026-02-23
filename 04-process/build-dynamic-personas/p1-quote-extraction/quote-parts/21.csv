@@ -1,0 +1,12 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+21,en_participant_0021,Q4,AI For Content Curation,High,neutral,"I use AI to summarize articles that interest me to select the more important elements, as an aid in finding interesting places for bike trips, and as an aid in techniques for home improvement tasks.",12,12
+21,en_participant_0021,Q4,Route Planning Expectations,Medium,neutral,I provide the destination and expect interesting places that are nearby to be suggested. I include these places in the planned route.,15,15
+21,en_participant_0021,Q4,Material And Tool Guidance,Medium,neutral,I specify what needs to be done and expect a response on what materials and tools I will need.,18,18
+21,en_participant_0021,Q5,Substrate Specificity Limitation,High,negative,I wanted to fill the space between the window frame and the walls after replacement and couldn't get information on what material to use.,22,22
+21,en_participant_0021,Q5,Context Dependent Information Gap,High,negative,"Due to different substrates, I couldn't get information on the specific material to use.",25,25
+21,en_participant_0021,Q8,Multimodal Resource Integration,High,neutral,"The ideal AI assistant should not only be able to answer a question but also find, for example, video materials that answer such a question or provide specific solutions to a given problem.",35,35
+21,en_participant_0021,Q8,User Validated Product Recommendations,High,neutral,It should be able to point out specific products or materials whose quality is confirmed by users.,38,38
+21,en_participant_0021,Q9,System Integration For Task Management,High,neutral,"It would enable better information management, placing them in the calendar, and managing projects over time.",42,42
+21,en_participant_0021,Q9,Scope Based Project Planning,High,neutral,"Knowing the scope of the task, it could plan and place in the calendar information that allows the task to be completed.",45,45
+21,en_participant_0021,Q11,Human Interaction Preference,High,negative,"It's still hard to get used to such a conversation because it's not the same interaction as talking to a human, if only because you can't see the reaction on the other side.",52,52
+21,en_participant_0021,Q11,Lack Of Immediate Feedback Adaptation,Medium,neutral,"The lack of reaction does not affect honesty or openness in responses, it just requires getting used to the fact that there is no immediate reaction on the other side, even facial expressions.",55,55

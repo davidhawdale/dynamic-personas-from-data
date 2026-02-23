@@ -1,0 +1,14 @@
+participant_id,transcript_id,question_ref,tag,severity,sentiment,quote,source_line_start,source_line_end
+39,en_participant_0039,Q4,Event Planning,High,neutral,Event planning.,16,16
+39,en_participant_0039,Q4,Reunion Event Focus,High,neutral,Family reunion and class reunion.,20,20
+39,en_participant_0039,Q4,Event Planning Assistance,Medium,neutral,"Meetings, agendas, and flyers.",24,24
+39,en_participant_0039,Q5,Excel Charting Challenge,High,negative,Use graphs and charts appropriately in an Excel spreadsheet.,37,37
+39,en_participant_0039,Q6,High AI Trust,High,positive,4 - High trust,42,42
+39,en_participant_0039,Q8,Research And Grant Writing,High,positive,Research implementation and grant writing.,51,51
+39,en_participant_0039,Q8,Real-Time Information Need,High,neutral,"The research and marketing with real-life, up-to-date information.",55,55
+39,en_participant_0039,Q8,Marketing Assessment,Medium,neutral,Assessment.,59,59
+39,en_participant_0039,Q9,System Interconnection Rejection,High,negative,I would not want them to be interconnected.,64,64
+39,en_participant_0039,Q9,Security Concerns,High,negative,Security concerns.,68,68
+39,en_participant_0039,Q11,AI Interview Clarity,Medium,positive,"It was clear and concise, and the prompting questions were very helpful.",78,78
+39,en_participant_0039,Q11,No Body Language Concern,Medium,positive,I did not have to think about body language.,82,82
+39,en_participant_0039,Q11,Comfort Without Nonverbal Cues,High,positive,More comfortable.,86,86
