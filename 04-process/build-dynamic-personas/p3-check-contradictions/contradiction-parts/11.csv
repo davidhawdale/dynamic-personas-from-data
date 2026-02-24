@@ -1,0 +1,2 @@
+participant_id,transcript_id,contradiction_type,severity,quote_a_tag,quote_a,quote_b_tag,quote_b,explanation
+11,en_participant_0011,Rationalisation,Medium,AI Complexity Recognition,"Perhaps the task is too complex for AI to create from scratch, and I probably should have set the context more clearly.",,,"After failing to build an AI agent with Retool, the participant immediately deflects blame from AI onto themselves and task complexity, offering unprompted justification rather than a neutral description of what happened."

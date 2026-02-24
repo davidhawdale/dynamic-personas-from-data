@@ -1,0 +1,2 @@
+participant_id,transcript_id,contradiction_type,severity,quote_a_tag,quote_a,quote_b_tag,quote_b,explanation
+43,en_participant_0043,Direct,Medium,Human Voice Preference,"I like having conversations with human beings. I enjoy hearing a voice, so not hearing a voice feels kind of impersonal.",AI Listening Advantage,"Sometimes your interviewer doesn't listen as well as an AI might, so that's something to consider.","The participant says AI interviewing feels impersonal without a human voice, but also says AI can listen better than human interviewers."

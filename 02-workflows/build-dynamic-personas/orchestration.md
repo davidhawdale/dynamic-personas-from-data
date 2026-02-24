@@ -69,6 +69,54 @@ Then ask:
 
 Do not proceed to the next phase until the user explicitly says yes.
 
-## Phase 3: Check for Contradictions
+### Phase 3: Check for Contradictions
 
-* Goal: Check, for each participant, that they do not contradict themselves
+- Goal: For each participant, identify where their quotes contradict each other. Apply the rules in `.claude/rules/contradiction-rules.md`.
+- Input: `p1-quote-extraction/quotes.csv` (all validated quotes) + `p0-prepare/manifest.json` (for participant list)
+- Sequence:
+  1. Run `participant-contradiction-checker` per participant.
+  2. Run `python3 02-workflows/build-dynamic-personas/verify-contradictions-completion.py`.
+  3. Run `python3 02-workflows/build-dynamic-personas/merge-contradictions.py`.
+  4. Run the Phase 3 Human Review Gate summary and stop for user confirmation.
+- For each participant in the manifest, spawn a `participant-contradiction-checker` sub-agent with:
+  - `participant_id` — from manifest
+  - `transcript_id` — from manifest (`id` field)
+  - `quotes_path` — full path to `p1-quote-extraction/quotes.csv`
+  - `output_path` — `04-process/build-dynamic-personas/p3-check-contradictions/contradiction-parts/{participant_id}.csv`
+- In Codex/OpenAI, "spawn sub-agent" means: read `.claude/agents/participant-contradiction-checker.md` and execute those instructions inline for each participant.
+- Output: One CSV part file per participant in `04-process/build-dynamic-personas/p3-check-contradictions/contradiction-parts/` (empty CSV with header if no contradictions)
+- Verify completion: `python3 02-workflows/build-dynamic-personas/verify-contradictions-completion.py`
+- Merge: `python3 02-workflows/build-dynamic-personas/merge-contradictions.py`
+- If fail: Re-run the failed agent once with a specific correction instruction; if second fail, skip and log WARN
+
+### Phase 3 Gate: Human Review — HARD STOP
+
+**Always stop here. Do not continue without explicit user confirmation.**
+
+After Phase 3 completes, read:
+- `04-process/build-dynamic-personas/p0-prepare/manifest.json`
+- `04-process/build-dynamic-personas/p3-check-contradictions/contradictions.csv`
+
+Present a summary:
+
+```
+Phase 3 complete — Contradiction Check Summary
+──────────────────────────────────────────────
+Participants checked:             N
+Participants with contradictions: N
+Total contradictions found:       N
+
+[If contradictions found:]
+  Detailed results: 04-process/build-dynamic-personas/p3-check-contradictions/contradictions.csv
+  Use this file for participant-level contradiction details and quote pairs.
+
+[If none:]
+  No contradictions found across all participants.
+```
+
+Then ask:
+
+- **If contradictions found:** "There are [N] contradictions across [N] participants. Please review 04-process/build-dynamic-personas/p3-check-contradictions/contradictions.csv. Would you like to re-run any participants before continuing?"
+- **If none:** "No contradictions found. Ready to continue to the next phase?"
+
+Do not proceed to the next phase until the user explicitly says yes.

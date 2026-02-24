@@ -1,0 +1,2 @@
+participant_id,transcript_id,contradiction_type,severity,quote_a_tag,quote_a,quote_b_tag,quote_b,explanation
+5,en_participant_0005,Rationalisation,Low,Knitting Pattern AI Failure,"Once I asked for a knitting pattern, I like to knit and crochet, and I asked it to help me create a sweater pattern. It didn't work very well, but it was useful to get ideas on what colors I could combine.",,,"The participant admits the AI failed at the requested task but immediately pivots unprompted to a positive framing, softening the failure rather than accepting it at face value."
