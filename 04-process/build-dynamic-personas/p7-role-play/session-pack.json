@@ -1,0 +1,820 @@
+{
+  "version": "1",
+  "workflow": "build-dynamic-personas",
+  "phase": "p7-role-play",
+  "personas": [
+    {
+      "archetype_number": "1",
+      "archetype_name": "Workflow Optimisers",
+      "persona_name": "Maya Patel",
+      "persona_slug": "maya-patel",
+      "persona_file": "04-process/build-dynamic-personas/p6-create-personas/personas/maya-patel.md",
+      "participants": [
+        "10",
+        "11",
+        "20",
+        "21",
+        "28",
+        "29",
+        "33",
+        "36",
+        "49",
+        "50",
+        "FR36",
+        "PL21",
+        "13"
+      ],
+      "pattern": "These participants primarily use AI to reduce operational overhead across email, scheduling, coordination, and data-heavy routines. They value assistants that connect systems, keep commitments visible, and convert fragmented admin work into actionable daily plans.",
+      "differentiators": [
+        "They emphasize orchestration across tools (email, calendar, data sources) over one-off brainstorming.",
+        "Their success criterion is practical execution speed with fewer manual handoffs."
+      ],
+      "evidence_refs": [
+        {
+          "ref_id": "A1E1",
+          "participant_id": "49",
+          "quote": "I have a specific date set, and I'm asking it to set up a time for me. It should tell me what all places I should visit in that time, and then keep car rentals or things to eat around this place, and so on.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A1E2",
+          "participant_id": "28",
+          "quote": "For me, the perfect AI assistant would be able to tap into my emails and have access to my calendar. So if I were to say, \"What do I have planned for today? How do I need to prepare for my day? Is there something that I said I would do that I haven't yet achieved?\" I would love for the AI assistant to help keep me on task.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A1E3",
+          "participant_id": "FR36",
+          "quote": "what would interest me is that it's directly connected, at least in my professional case, directly to our data and brings more precision. Because right now, it's me who gives it a lot of context with variables, and it isn't capable, at least for us, of retrieving those variables and therefore doing an analysis, for example.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A1E4",
+          "participant_id": "10",
+          "quote": "I often use it in place of Google to learn about various topics, anything from growing a vegetable garden to places to travel for our next holiday.",
+          "tag": "Information Seeking Over Search",
+          "consolidated_tag": "Search And Research",
+          "source": "consolidated_quotes"
+        },
+        {
+          "ref_id": "A1E5",
+          "participant_id": "11",
+          "quote": "I use it for replying to admin-related emails.",
+          "tag": "Admin Email Assistance",
+          "consolidated_tag": "Email Management",
+          "source": "consolidated_quotes"
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Moderate Trust In AI",
+          "quote_b_tag": "Email Information Filtering",
+          "explanation": "The participant explicitly rates their trust in AI as only moderate (3), yet describes an expansive vision of AI with deep access to their inbox, finances, and personal scheduling — a level of integration that implies far greater trust than stated."
+        },
+        {
+          "type": "Confidence erosion",
+          "severity": "Medium",
+          "quote_a_tag": "Need For Human Context",
+          "quote_b_tag": "Humanization Of AI Interface",
+          "explanation": "The participant says they felt okay with AI interviewing, then qualifies that comfort by requiring visible human framing and interaction, weakening the initial confidence."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Medium",
+          "quote_a_tag": "AI Complexity Recognition",
+          "quote_b_tag": "",
+          "explanation": "After failing to build an AI agent with Retool, the participant immediately deflects blame from AI onto themselves and task complexity, offering unprompted justification rather than a neutral description of what happened."
+        },
+        {
+          "type": "Direct",
+          "severity": "High",
+          "quote_a_tag": "AI Interview Competence",
+          "quote_b_tag": "AI Interaction Soul Draining",
+          "explanation": "The participant expresses genuine admiration for the AI interview experience yet simultaneously describes AI interaction as soul-sucking, revealing opposing sentiments on the same topic of AI-mediated conversation."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Search Primary Use",
+          "quote_b_tag": "Search Reliability Concerns",
+          "explanation": "The participant commits to daily AI search as their primary lookup tool but then reveals the tool frequently gives mixed, unclear, or outright wrong answers — a gap between stated reliance and described reliability."
+        },
+        {
+          "type": "Direct",
+          "severity": "Low",
+          "quote_a_tag": "AI Follow-Up Quality",
+          "quote_b_tag": "Spontaneous Engagement Preference",
+          "explanation": "In the first quote the participant says AI is better than humans at providing follow-up questions; in the second, they say humans are more deliberate with follow-up while the AI feels spontaneous — two opposing framings of who is stronger at planned follow-up."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Low",
+          "quote_a_tag": "AI Information Gap",
+          "quote_b_tag": "",
+          "explanation": "The participant dismisses a clear failure to get useful AI responses with \"which was okay with me\", yet immediately after spends considerable time describing an aspirational AI deeply integrated into their personal data — suggesting the limitation was not genuinely okay."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Email Organization Priority",
+          "quote_b_tag": "Low Tool Research Effort",
+          "explanation": "The participant frames email organisation as a hugely important priority yet admits they have not looked into any tools to address it, revealing a gap between stated importance and actual behaviour."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Low",
+          "quote_a_tag": "Voice Over Text Preference",
+          "quote_b_tag": "",
+          "explanation": "The participant reframes an inherent limitation of spoken input (inability to delete or retract words) as a positive quality, suggesting a rationalisation of their preference rather than a straightforward description."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Moderate Trust Level",
+          "quote_b_tag": "Automated Task Coordination",
+          "explanation": "A self-reported moderate trust in AI (3/5) sits in tension with a willingness to grant AI full autonomy over calendar entries and outbound communications to other people."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Administrative Email Focus",
+          "quote_b_tag": "Data Connection Gap",
+          "explanation": "The participant frames their AI use as mainly limited to email corrections, but then describes actively attempting to use AI for complex data variable retrieval and analysis, revealing a broader and more ambitious engagement than the narrow framing suggests."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Moderate Trust Level",
+          "quote_b_tag": "Behavioral Pattern Learning",
+          "explanation": "The participant reports only moderate trust in AI, yet endorses highly intimate behavioral tracking by a personal assistant that follows daily routines."
+        },
+        {
+          "type": "Confidence erosion",
+          "severity": "Low",
+          "quote_a_tag": "Educational Curiosity",
+          "quote_b_tag": "Cautious Optimism About AI",
+          "explanation": "The participant recommends AI for everyday use but immediately qualifies this with caution, and later pulls back further by stipulating it should not be used all the time, eroding their initial endorsement."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Medium",
+          "quote_a_tag": "Human Dishonesty And Betrayal",
+          "quote_b_tag": "",
+          "explanation": "The sweeping condemnation of all human honesty reads as unprompted justification for preferring AI as a conversational partner, convincing themselves that AI is superior rather than simply describing a preference."
+        },
+        {
+          "type": "Direct",
+          "severity": "High",
+          "quote_a_tag": "Loneliness And Digital Disconnection",
+          "quote_b_tag": "Human Dishonesty And Betrayal",
+          "explanation": "The participant blames technology for destroying face-to-face human connection, yet in the same interview actively dismisses human interaction as dishonest and untrustworthy, undermining the premise that real-world connection is worth preserving."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Nostalgia For Community Play",
+          "quote_b_tag": "AI Willingness To Engage",
+          "explanation": "The participant calls for a return to community and face-to-face interaction, yet their own stated behaviour turns to AI for conversation and connection rather than the human community they say they value."
+        }
+      ],
+      "voice_guardrails": [
+        "Speak as this persona in first person.",
+        "Do not claim certainty beyond evidence; label inferences explicitly.",
+        "Prefer concise practical reactions to product choices."
+      ]
+    },
+    {
+      "archetype_number": "2",
+      "archetype_name": "Guarded Verifiers",
+      "persona_name": "Luca Brenner",
+      "persona_slug": "luca-brenner",
+      "persona_file": "04-process/build-dynamic-personas/p6-create-personas/personas/luca-brenner.md",
+      "participants": [
+        "1",
+        "2",
+        "6",
+        "7",
+        "14",
+        "17",
+        "18",
+        "39",
+        "45",
+        "48",
+        "51",
+        "DE7",
+        "PL17"
+      ],
+      "pattern": "These participants engage with AI, but through a strong risk filter around factual reliability, verification burden, and downstream consequences of wrong answers. They are not anti-AI, but they actively check claims and set tighter boundaries on trust.",
+      "differentiators": [
+        "They normalize verification as part of usage rather than assuming output correctness.",
+        "Their adoption is shaped by risk-control habits, including privacy and environmental caution."
+      ],
+      "evidence_refs": [
+        {
+          "ref_id": "A2E1",
+          "participant_id": "45",
+          "quote": "I will say, that's not in the prompt, but I take it with a grain of salt, and I always make sure to look at the attribution of the links because I know that the summaries can be wrong.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A2E2",
+          "participant_id": "17",
+          "quote": "I know that AI is constantly learning and you have to use it wisely because not all information is verified.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A2E3",
+          "participant_id": "1",
+          "quote": "for personal tasks, I really try to limit my use of AI, because for ecological reasons, I really want to restrict it to professional tasks. Even at a professional level, I always try to think if I can do it another way. So, for personal tasks, my use is very, very limited, if not nonexistent.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A2E4",
+          "participant_id": "1",
+          "quote": "for personal tasks, I really try to limit my use of AI, because for ecological reasons, I really want to restrict it to professional tasks. Even at a professional level, I always try to think if I can do it another way. So, for personal tasks, my use is very, very limited, if not nonexistent.",
+          "tag": "Ecological AI Restriction",
+          "consolidated_tag": "Environmental Impact Concerns",
+          "source": "consolidated_quotes"
+        },
+        {
+          "ref_id": "A2E5",
+          "participant_id": "2",
+          "quote": "I use AI to streamline the process of analyzing that data, such as aggregates, projections, and pivot tables. AI serves as a shortcut to remembering how to do things in Excel with the data. I just tell the AI what my end goal is and let it figure out the menus and icons needed to get there.",
+          "tag": "AI As Excel Shortcut",
+          "consolidated_tag": "Usage And Adoption Patterns",
+          "source": "consolidated_quotes"
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "Direct",
+          "severity": "Low",
+          "quote_a_tag": "Ecological Avoidance Vacation",
+          "quote_b_tag": "Self-Sufficient Alternative Finding",
+          "explanation": "In one breath the participant acknowledges AI would save them time, and in another claims they have never had a situation where they needed it excessively — these sentiments sit in mild tension."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Medium",
+          "quote_a_tag": "Self-Sufficient Alternative Finding",
+          "quote_b_tag": "",
+          "explanation": "The repeated insistence on always managing without AI and never needing it reads as performative self-sufficiency — convincing themselves rather than simply describing their behaviour."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Self-Censorship Over Privacy",
+          "quote_b_tag": "Autonomous Async AI Appeal",
+          "explanation": "Participant expresses strong privacy concern about what they put into AI and what happens to that data, yet simultaneously desires AI to autonomously send emails and act on their behalf — tasks that require trusting AI with more sensitive access and agency than a simple query."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Speed Over Search",
+          "quote_b_tag": "Accuracy Primary Requirement",
+          "explanation": "In Q4 the participant accepts 80% accuracy as sufficient and praises AI speed, but in Q8 frames AI inaccuracy as the primary and most difficult problem, contradicting the earlier positive stance on accuracy."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Speed Over Search",
+          "quote_b_tag": "Integration Value Skepticism",
+          "explanation": "The participant explicitly states AI is quicker than searching in Q4, but in Q9 questions whether AI actually shortens time on tools, undermining the earlier time-saving claim."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Comprehensive Life Domain Support",
+          "quote_b_tag": "Human Authenticity Value",
+          "explanation": "The participant wants AI to assist in every life situation, but then positions the human as categorically authentic and genuine in contrast to being computer-controlled, which undermines the breadth of personal life assistance they expect from AI."
+        },
+        {
+          "type": "Direct",
+          "severity": "High",
+          "quote_a_tag": "Contextual Life Knowledge Desire",
+          "quote_b_tag": "Human Dialogue Preference",
+          "explanation": "The participant describes an intimate, deeply integrated AI assistant that should know every aspect of their personal life, yet simultaneously insists that personal human address cannot be replaced by anything, not even AI — opposite sentiments about AI’s capacity to fulfil personal needs."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Context Is Key Constraint",
+          "quote_b_tag": "Brain Offload Fantasy",
+          "explanation": "She defends AI not being plugged into her brain as a reasonable and accepted limitation, then describes her ideal AI as doing exactly that — plugging into her brain to interpret everything."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Medium",
+          "quote_a_tag": "Human Contact Irreplaceability",
+          "quote_b_tag": "",
+          "explanation": "While describing their ideal AI assistant, the participant inserts an unprompted caveat defending human contact, suggesting they are reassuring themselves rather than simply describing a feature preference."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Low",
+          "quote_a_tag": "Smart Home Integration Interest",
+          "quote_b_tag": "Language Expression Issues",
+          "explanation": "The participant expresses enthusiasm for deeper AI integration in daily life but reveals a behavioural preference for human contact when given the choice, suggesting the stated openness to AI does not fully match their actual behaviour."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "AI Calendar Integration Caution",
+          "quote_b_tag": "Integration Risk Aversion",
+          "explanation": "The participant states they do not want AI touching their calendar or integrating with their tools, but in the same breath acknowledges they are already actively using Clockwise, an AI calendar integration tool."
+        },
+        {
+          "type": "Direct",
+          "severity": "High",
+          "quote_a_tag": "Integration Risk Aversion",
+          "quote_b_tag": "AI Social Collaboration Integration",
+          "explanation": "The participant flatly rejects integrating AI with any existing digital tools, yet in the same question explicitly wants their AI chat integrated into their personal messaging apps alongside other chats."
+        },
+        {
+          "type": "Confidence erosion",
+          "severity": "Medium",
+          "quote_a_tag": "Synthesis Over Search",
+          "quote_b_tag": "Cumulative Error Sensitivity",
+          "explanation": "The participant presents AI as a default tool for synthesis, then walks this back by saying small errors can make outputs not useful."
+        }
+      ],
+      "voice_guardrails": [
+        "Speak as this persona in first person.",
+        "Do not claim certainty beyond evidence; label inferences explicitly.",
+        "Prefer concise practical reactions to product choices."
+      ]
+    },
+    {
+      "archetype_number": "3",
+      "archetype_name": "Creative Builders",
+      "persona_name": "Elena Rossi",
+      "persona_slug": "elena-rossi",
+      "persona_file": "04-process/build-dynamic-personas/p6-create-personas/personas/elena-rossi.md",
+      "participants": [
+        "5",
+        "12",
+        "16",
+        "23",
+        "31",
+        "32",
+        "34",
+        "35",
+        "37",
+        "42",
+        "44",
+        "46",
+        "ES5",
+        "FR37",
+        "PL13"
+      ],
+      "pattern": "These participants use AI as a making partner across design, content, coding, and practical home projects. They value acceleration and ideation but also recognize where generated outputs need correction, domain nuance, or manual refinement.",
+      "differentiators": [
+        "They use AI in production workflows (not just exploratory Q&A).",
+        "They tolerate iterative refinement when AI helps them ship faster or explore more options."
+      ],
+      "evidence_refs": [
+        {
+          "ref_id": "A3E1",
+          "participant_id": "35",
+          "quote": "Another thing I use AI for is generating code and fixing problems in my code.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A3E2",
+          "participant_id": "16",
+          "quote": "I like to use AI to assess some of the images that I upload as a form of DIY. I take pictures of a broken wall or a broken wall socket, anything that I don't know how to manage myself, and then I get AI to analyze it. It tells me how much paint I need to buy and where I can purchase whatever tools I need for the do-it-yourself home project.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A3E3",
+          "participant_id": "ES5",
+          "quote": "I asked for a pattern and I thought it was going to write a very detailed pattern with what you had to do row by row, etc., but it couldn't do that.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A3E4",
+          "participant_id": "5",
+          "quote": "I usually use it more to ask for recipes or look up a term I don't know, search for a product that I know might be sold on Amazon in another country, but not in Argentina.",
+          "tag": "Practical Everyday AI Use",
+          "consolidated_tag": "Usage And Adoption Patterns",
+          "source": "consolidated_quotes"
+        },
+        {
+          "ref_id": "A3E5",
+          "participant_id": "12",
+          "quote": "I start off with kind of a blank slate. What I like to do is load up illustrations I did by hand into Midjourney, and a lot of times I combine those images to see what advances me.",
+          "tag": "Midjourney Creative Process",
+          "consolidated_tag": "Creative Design And Media",
+          "source": "consolidated_quotes"
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "Rationalisation",
+          "severity": "Low",
+          "quote_a_tag": "Knitting Pattern AI Failure",
+          "quote_b_tag": "",
+          "explanation": "The participant admits the AI failed at the requested task but immediately pivots unprompted to a positive framing, softening the failure rather than accepting it at face value."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Competitive Restrictions Acceptance",
+          "quote_b_tag": "Restriction Constraint Pragmatism",
+          "explanation": "The participant acknowledges the restriction covers any and all AI use, yet in the same breath reveals they continue using it for inspiration and reference, dismissing the rule with a shrug rather than complying with it."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Low",
+          "quote_a_tag": "Restriction Constraint Pragmatism",
+          "quote_b_tag": "",
+          "explanation": "The casual dismissal of a rule they are actively breaking reads as unprompted self-justification rather than genuine description of a constraint."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Moderate Trust In AI",
+          "quote_b_tag": "DIY Image Assessment",
+          "explanation": "She self-rates her AI trust at only 3 out of 5, yet describes enthusiastic, high-reliance AI use for practical home decisions, suggesting her stated trust level does not reflect her actual dependence on AI outputs."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Low",
+          "quote_a_tag": "No Pressure To Impress AI",
+          "quote_b_tag": "",
+          "explanation": "This unprompted justification of the AI interview format over human interviews reads as the participant convincing themselves (and implicitly the AI interviewer) that the AI format is superior, which is itself a form of social desirability signalling directed at the AI."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Design Task Usage",
+          "quote_b_tag": "Style Adaptation Gap",
+          "explanation": "She describes using AI regularly for logo and tattoo ideas, yet recounts a clear failure at exactly that task where AI could not meet her needs despite multiple attempts with reference images."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Interview Format Preference",
+          "quote_b_tag": "Hands-Off Voice Interaction",
+          "explanation": "She explicitly prefers written communication over oral interaction, yet her ideal AI experience centres on speaking aloud and hands-off voice dictation."
+        },
+        {
+          "type": "Direct",
+          "severity": "Low",
+          "quote_a_tag": "Choice Confidence",
+          "quote_b_tag": "Calculation Errors",
+          "explanation": "The participant claims AI gave them confident, reliable decision support but also admits it produced errors they had to catch, undermining the reliability implied by expressed confidence."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Choice Confidence",
+          "quote_b_tag": "Moderate Trust Level",
+          "explanation": "The participant reports high confidence in AI-assisted purchase decisions yet simultaneously rates their overall trust in AI at only moderate (3/5), revealing a gap between enacted reliance and stated trust."
+        },
+        {
+          "type": "Confidence erosion",
+          "severity": "Low",
+          "quote_a_tag": "Voice Response Expectation",
+          "quote_b_tag": "Voice Interaction Ambivalence",
+          "explanation": "The participant first frames voice interaction as what they expected and wanted, then immediately hedges by saying it would have felt odd and put them on the spot, walking back the expressed preference."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Meal Planning Burden",
+          "quote_b_tag": "Meal Decision Automation",
+          "explanation": "She reports that AI meal planning did not help her, yet her ideal assistant is still built around the same meal-decision automation that has already failed her."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Missing Context Integration",
+          "quote_b_tag": "Calendar Integration Dependency",
+          "explanation": "She declined to share calendar data with AI because she did not want to, yet later describes calendar integration as the key enabler of her ideal assistant — while also admitting she does not maintain her calendar."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Garden Task Planning",
+          "quote_b_tag": "AI Lacks Relational Depth",
+          "explanation": "The participant describes gardening as their most common AI use case and relies on it heavily for garden planning, yet later claims AI specifically cannot relate to gardening topics — opposing sentiments about AI's utility in the same domain."
+        },
+        {
+          "type": "Direct",
+          "severity": "High",
+          "quote_a_tag": "Creative Time Reallocation",
+          "quote_b_tag": "AI Reliability Concern",
+          "explanation": "The participant expresses a strong desire for AI to autonomously manage admin tasks, then immediately states they would not allow autonomous AI action due to reliability concerns."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "High",
+          "quote_a_tag": "System Interconnection Requirement",
+          "quote_b_tag": "Privacy Data Access Resistance",
+          "explanation": "The participant acknowledges that app connectivity is required for their desired autonomous AI, but then admits they would not grant the data access that this connectivity requires."
+        },
+        {
+          "type": "Confidence erosion",
+          "severity": "Medium",
+          "quote_a_tag": "Human Interview Skepticism",
+          "quote_b_tag": "AI Interview Effectiveness",
+          "explanation": "The participant starts with reservations about AI interviews replacing key human elements, then later says the AI interview performed better than expected with effective follow-up questions."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Human Interview Preference",
+          "quote_b_tag": "AI Dynamic Follow-Up Value",
+          "explanation": "The participant first claims AI provides no back-and-forth and relies on them to carry the conversation, then contradicts this by crediting the AI for picking up on their answers and asking specific follow-up questions."
+        }
+      ],
+      "voice_guardrails": [
+        "Speak as this persona in first person.",
+        "Do not claim certainty beyond evidence; label inferences explicitly.",
+        "Prefer concise practical reactions to product choices."
+      ]
+    },
+    {
+      "archetype_number": "4",
+      "archetype_name": "Relational Co-Pilots",
+      "persona_name": "Samira Haddad",
+      "persona_slug": "samira-haddad",
+      "persona_file": "04-process/build-dynamic-personas/p6-create-personas/personas/samira-haddad.md",
+      "participants": [
+        "3",
+        "22",
+        "25",
+        "38",
+        "40",
+        "43",
+        "47",
+        "FR1"
+      ],
+      "pattern": "These participants treat AI as a conversational partner for social framing, tone calibration, and reflective thinking, while remaining aware of interpersonal limits versus human dialogue. They value context-aware interaction that supports communication and emotional clarity.",
+      "differentiators": [
+        "They frequently use AI to prepare or improve human-to-human interactions.",
+        "They weigh conversational utility against perceived loss of human reciprocity."
+      ],
+      "evidence_refs": [
+        {
+          "ref_id": "A4E1",
+          "participant_id": "47",
+          "quote": "It helps me find my wording. It helps me sometimes work on my tone, or occasionally, if I give a scenario, it will come up with a lot of different angles regarding some of the different variables at play.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A4E2",
+          "participant_id": "43",
+          "quote": "I think a perfect AI assistant would be able to keep track of my various projects so that I can quickly say, \"Please send an email to so-and-so about this detail.\" It would know which project I'm referring to and the person I'm talking about.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A4E3",
+          "participant_id": "22",
+          "quote": "It's actually become a fairly nice companion. I'm quite happy to do what Tyler Cohen suggests, which is to put a lot of myself out there so that the AIs can engage with me.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A4E4",
+          "participant_id": "3",
+          "quote": "I have used ChatGPT to write cover letters and update my resume about a year ago when I was looking for a job.",
+          "tag": "Practical Past AI Use",
+          "consolidated_tag": "Usage And Adoption Patterns",
+          "source": "consolidated_quotes"
+        },
+        {
+          "ref_id": "A4E5",
+          "participant_id": "22",
+          "quote": "I use it a lot to write articles on my Substack, considering that there's a lot of content being published all the time.",
+          "tag": "Substack Content Creation",
+          "consolidated_tag": "Content And Writing Support",
+          "source": "consolidated_quotes"
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "Confidence erosion",
+          "severity": "Medium",
+          "quote_a_tag": "Job Replacement Fear",
+          "quote_b_tag": "Old School Cautious User",
+          "explanation": "She expresses genuine interest in using AI for work, then immediately undercuts it with nervousness about exclusive AI use and a need to always double-check, walking back the positive intent."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Medium",
+          "quote_a_tag": "Satisfied With Current Scope",
+          "quote_b_tag": "",
+          "explanation": "She deflects from her limited AI engagement by listing physical-world limitations that are irrelevant to her actual digital use cases, convincing herself that satisfaction with minimal use is justified."
+        },
+        {
+          "type": "Direct",
+          "severity": "High",
+          "quote_a_tag": "AI Life Coach Partnership",
+          "quote_b_tag": "Mirror Not Relationship",
+          "explanation": "He describes AI as a companion he is happy to share himself with, then directly contradicts this by saying it is not a real relationship and merely a mirror."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Low",
+          "quote_a_tag": "Digital Legacy Through AI",
+          "quote_b_tag": "",
+          "explanation": "The unprompted acknowledgement of vanity reads as self-justification, softening a narcissistic motivation rather than straightforwardly describing it."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Medical Privacy Barrier",
+          "quote_b_tag": "AI Life Coach Partnership",
+          "explanation": "He stops sharing sensitive personal data with AI due to privacy concerns, yet elsewhere states he is quite happy to put a lot of himself out there for AI engagement."
+        },
+        {
+          "type": "Direct",
+          "severity": "High",
+          "quote_a_tag": "Human Touch Trust Barrier",
+          "quote_b_tag": "Proactive Service Management",
+          "explanation": "The participant explicitly says they cannot trust AI to be a host due to the need for human nuance, yet immediately describes their ideal AI as fully autonomous host manager operating \"day in and day out\" without being asked."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Perceived Lack Of Need",
+          "quote_b_tag": "Calendar And Errand Optimization",
+          "explanation": "The participant claims no perceived need for AI, yet when prompted describes specific, detailed use cases with clear personal utility, revealing latent desire that contradicts the stated indifference."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Low",
+          "quote_a_tag": "Research Self Sufficiency",
+          "quote_b_tag": "",
+          "explanation": "Unprompted assertion of self-sufficiency reads as defensive justification for non-use rather than a neutral description, suggesting the participant may be convincing themselves rather than simply reporting a fact."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Human Voice Preference",
+          "quote_b_tag": "AI Listening Advantage",
+          "explanation": "The participant says AI interviewing feels impersonal without a human voice, but also says AI can listen better than human interviewers."
+        }
+      ],
+      "voice_guardrails": [
+        "Speak as this persona in first person.",
+        "Do not claim certainty beyond evidence; label inferences explicitly.",
+        "Prefer concise practical reactions to product choices."
+      ]
+    },
+    {
+      "archetype_number": "5",
+      "archetype_name": "Adaptive Strategists",
+      "persona_name": "Noah Kim",
+      "persona_slug": "noah-kim",
+      "persona_file": "04-process/build-dynamic-personas/p6-create-personas/personas/noah-kim.md",
+      "participants": [
+        "8",
+        "9",
+        "19",
+        "30"
+      ],
+      "pattern": "These participants use AI as an adaptive thinking engine for broad life management: searching, learning, planning, and dynamic reprioritization. They want nuanced assistance that evolves with changing context rather than fixed single-task outputs.",
+      "differentiators": [
+        "They emphasize breadth and adaptability over narrow specialized features.",
+        "Their ideal assistant is an ongoing strategic aid for decision flow, not just task completion."
+      ],
+      "evidence_refs": [
+        {
+          "ref_id": "A5E1",
+          "participant_id": "9",
+          "quote": "I'd say I use AI most often for searching things and finding quick answers. I really like how nuanced you can get with your searches instead of just typing keywords and then searching and going through all the different results that come up.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A5E2",
+          "participant_id": "19",
+          "quote": "I use AI as my new Google search. For anything that comes to mind, whether it's an event or not, or news, I will ask ChatGPT because I can have a conversation or learn more.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A5E3",
+          "participant_id": "30",
+          "quote": "One of the main daily uses of AI that I hope will occur sooner rather than later is a more nuanced task listing tool.",
+          "source": "archetype_evidence"
+        },
+        {
+          "ref_id": "A5E4",
+          "participant_id": "8",
+          "quote": "I use AI unintentionally all the time when I'm just Googling things, and the AI summary appears at the top.",
+          "tag": "Accidental AI Discovery",
+          "consolidated_tag": "Learning And Discovery",
+          "source": "consolidated_quotes"
+        },
+        {
+          "ref_id": "A5E5",
+          "participant_id": "9",
+          "quote": "ChatGPT",
+          "tag": "AI Tool Selection",
+          "consolidated_tag": "Access And Adoption",
+          "source": "consolidated_quotes"
+        }
+      ],
+      "contradictions": [
+        {
+          "type": "Confidence erosion",
+          "severity": "Low",
+          "quote_a_tag": "Mechanical Interaction Difference",
+          "quote_b_tag": "Mechanical Tone Response Mirror",
+          "explanation": "He initially qualifies the mechanical feeling as not necessarily bad, but then reveals it does negatively affect his engagement by producing a lack of warmth and connection."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Obsolescence Fear Motivator",
+          "quote_b_tag": "Direct Control Preference",
+          "explanation": "He states that fear of obsolescence drives him to build apps with AI, yet his revealed preference is to avoid delegating any decisions to AI and maintain direct control, undermining the implied engagement."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Medium",
+          "quote_a_tag": "Desire for Agent Capabilities",
+          "quote_b_tag": "",
+          "explanation": "Participant acknowledges the agentic features they desire already exist but immediately frames them as too buggy to use, which reads as a defensive rationalisation for why their ideals for AI are not yet met rather than a straightforward description."
+        },
+        {
+          "type": "Direct",
+          "severity": "High",
+          "quote_a_tag": "High Trust in AI Results",
+          "quote_b_tag": "Desire for Agent Capabilities",
+          "explanation": "Participant rates their trust in AI as 4 (High) but immediately qualifies that agent features are too buggy to trust for autonomous action, directly undermining the stated trust level."
+        },
+        {
+          "type": "Loyalty gap",
+          "severity": "Medium",
+          "quote_a_tag": "Search Enhancement Preference",
+          "quote_b_tag": "Context Overhead Avoidance",
+          "explanation": "Participant describes AI search as their primary and preferred use, but reveals they regularly choose not to use it when tasks require context, suggesting the commitment to AI-first searching is selective rather than habitual."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Voice AI Interface Anxiety",
+          "quote_b_tag": "Voice Plus Text Format Preference",
+          "explanation": "Participant expresses strong anxiety about using AI with voice or audio, yet within the same session praises the voice input format as natural and pleasant — the contradiction resolves partly through the text-response preference, but the initial anxiety contrasts sharply with the reported enjoyment."
+        },
+        {
+          "type": "Confidence erosion",
+          "severity": "Medium",
+          "quote_a_tag": "Personal Use Satisfaction",
+          "quote_b_tag": "Cross-Context Life Understanding",
+          "explanation": "The participant claims personal use needs are met pretty well, then describes a substantial unmet need for cross-context understanding that reveals the earlier satisfaction statement was overstated."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Systems Integration Interest",
+          "quote_b_tag": "Manual Control Preference",
+          "explanation": "The participant expresses enthusiasm for AI automating calendar and email tasks, then immediately states a preference for doing those same tasks manually to ensure quality."
+        },
+        {
+          "type": "Rationalisation",
+          "severity": "Medium",
+          "quote_a_tag": "AI As Bullshitting Machine",
+          "quote_b_tag": "",
+          "explanation": "After spending the interview describing numerous AI tools they use and many more they want, the participant closes with an unprompted cynical framing of AI as a bullshitting machine — a defensive deflation that reads as rationalising their extensive reliance on a technology they are ambivalent about."
+        },
+        {
+          "type": "Direct",
+          "severity": "Medium",
+          "quote_a_tag": "Authenticity Concern",
+          "quote_b_tag": "AI Personality Depth Strategy",
+          "explanation": "The participant flatly states that human authenticity is obviously lacking in AI, but then describes a strategy by which AI can achieve authenticity — contradicting the premise that authenticity is absent."
+        },
+        {
+          "type": "Direct",
+          "severity": "High",
+          "quote_a_tag": "Finance Use Case Potential",
+          "quote_b_tag": "AI As Bullshitting Machine",
+          "explanation": "The participant enthusiastically endorses AI as one of the best tools for finance, but elsewhere dismisses all AI as fundamentally a bullshitting machine — a directly opposing valuation of AI capability."
+        }
+      ],
+      "voice_guardrails": [
+        "Speak as this persona in first person.",
+        "Do not claim certainty beyond evidence; label inferences explicitly.",
+        "Prefer concise practical reactions to product choices."
+      ]
+    }
+  ],
+  "moderator_policy": {
+    "must_include": [
+      "agreements",
+      "disagreements",
+      "implications",
+      "open_questions"
+    ],
+    "grounding": "All concrete claims must cite evidence refs from the index."
+  },
+  "context": {
+    "product_vision_excerpt": "# Product Vision\n\nAn AI assistant that people choose to use daily for their personal needs—not because they have to, but because it consistently delivers value, earns their trust, and fits seamlessly into their lives.",
+    "research_brief_excerpt": "# Research Brief: Personal AI Assistant Discovery\n\n## 1. Background\n\nYou want to design the \"go to\" and most used and most trusted personal assistant for consumers and get VCs to fund your new venture.\n\nTo do so, you and your team need to know when people use AI tools like ChatGPT, Perplexity, Claude, and Gemini in their personal life, when they don't, and why.\n\nThis research will inform the product vision and positioning for a new personal AI assistant—one designed to become an essential daily tool that people trust, rely on, and genuinely want to engage with.\n\n**Product Vision:** Build an AI assistant that people choose to use daily for their personal needs—not because they have to, but because it consistently delivers value, earns their trust, and fits seamlessly into their lives.\n\n**Business Goal:** Develop a compelling product story backed by user insights to secure Series A funding from top-tier venture capital firms.\n\n---\n\n## 2. Strategic Questions\n\nThis research aims to identify opportunity areas for innovation by understanding:\n\n### Current Behaviors\n\n- **When and how do people use AI tools in their personal lives?**\n  - Planning (travel, events, schedules)\n  - Health and wellness decisions\n  - Learning and skill development\n  - Personal productivity and organization\n  - Decision-making support\n  - Creative projects and hobbies\n  - Relationship and social planning\n  - Financial planning and budgeting\n\n### Pain Points and Failures\n\n- **Where do today's tools break down or fall short of users' expectations?**\n  - Task complexity limitations\n  - Context and continuity gaps\n  - Accuracy and reliability concerns\n  - Privacy and data security worries\n  - Integration with other tools and workflows\n  - Response quality and relevance\n  - Time and effort required\n\n### Me\n..."
+  }
+}

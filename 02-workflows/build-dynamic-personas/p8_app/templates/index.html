@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dynamic Persona Role-Play</title>
+    <link rel="stylesheet" href="/static/app.css" />
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Dynamic Persona Role-Play</h1>
+      <p>Ask a question and watch a five-persona focus-group conversation unfold.</p>
+    </header>
+
+    <main class="layout">
+      <aside class="panel">
+        <h2>System</h2>
+        <ul>
+          <li>Session pack loaded: <strong>{{ 'yes' if health.session_pack_loaded else 'no' }}</strong></li>
+          <li>OpenAI key present: <strong>{{ 'yes' if health.openai_key_present else 'no' }}</strong></li>
+          <li>Personas in pack: <strong>{{ health.pack_persona_count }}</strong></li>
+          <li>Pack path: <code>{{ pack_path }}</code></li>
+        </ul>
+
+        <h3>Recent Sessions</h3>
+        <ul>
+          {% for s in sessions %}
+          <li>
+            <code>{{ s.session_id }}</code><br />
+            turns: {{ s.turn_count }}
+          </li>
+          {% else %}
+          <li>No sessions yet.</li>
+          {% endfor %}
+        </ul>
+      </aside>
+
+      <section class="panel">
+        <h2>Personas</h2>
+        <div class="cards">
+          {% for p in personas %}
+          <article class="card">
+            <h3>{{ p.persona_name }}</h3>
+            <p>Archetype {{ p.archetype_number }} — {{ p.archetype_name }}</p>
+          </article>
+          {% endfor %}
+        </div>
+
+        <h2>API Usage</h2>
+        <pre><code>POST /api/session
+{}
+
+POST /api/session/{session_id}/ask
+{"question": "What should our MVP focus on?"}</code></pre>
+
+        <h2>Live Session</h2>
+        <div class="session-controls">
+          <button id="createSessionBtn">Create New Session</button>
+          <div id="sessionStatus">No active session.</div>
+        </div>
+
+        <form id="askForm">
+          <label for="question">Team Question</label>
+          <textarea id="question" rows="4" placeholder="What should our first release optimize for?"></textarea>
+          <button type="submit">Ask Panel</button>
+        </form>
+
+        <div id="errors" class="error"></div>
+        <div id="result"></div>
+      </section>
+    </main>
+
+    <script>
+      let activeSessionId = null;
+
+      const createBtn = document.getElementById("createSessionBtn");
+      const askForm = document.getElementById("askForm");
+      const sessionStatus = document.getElementById("sessionStatus");
+      const errorsBox = document.getElementById("errors");
+      const resultBox = document.getElementById("result");
+
+      function escapeHtml(str) {
+        return (str || "")
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;");
+      }
+
+      createBtn.addEventListener("click", async () => {
+        errorsBox.textContent = "";
+        const resp = await fetch("/api/session", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({}),
+        });
+        const data = await resp.json();
+        if (!resp.ok) {
+          errorsBox.textContent = data.error || "Failed to create session";
+          return;
+        }
+        activeSessionId = data.session_id;
+        sessionStatus.innerHTML = `Active session: <code>${activeSessionId}</code>`;
+      });
+
+      askForm.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        errorsBox.textContent = "";
+        resultBox.innerHTML = "";
+        if (!activeSessionId) {
+          errorsBox.textContent = "Create a session first.";
+          return;
+        }
+        const q = document.getElementById("question").value.trim();
+        if (!q) {
+          errorsBox.textContent = "Question is required.";
+          return;
+        }
+        const resp = await fetch(`/api/session/${activeSessionId}/ask`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ question: q }),
+        });
+        const data = await resp.json();
+        if (!resp.ok) {
+          errorsBox.textContent = `${data.error || "Request failed"}: ${(data.detail || "")}`;
+          if (data.errors) {
+            errorsBox.textContent += " | " + data.errors.join("; ");
+          }
+          return;
+        }
+
+        const parsed = data.turn.parsed_output;
+        const convo = (parsed.conversation_entries || [])
+          .map(
+            (c) => `<div class="line"><span class="speaker">${escapeHtml(c.speaker)}:</span> <span>${escapeHtml(c.message)}</span></div>`
+          )
+          .join("");
+
+        const turnHtml = `
+          <article class="turn">
+            <h3>Question</h3>
+            <p>${escapeHtml(parsed.team_question || q)}</p>
+            <h3>Focus Group Conversation</h3>
+            <div class="transcript">${convo}</div>
+            <h3>Moderator Summary</h3>
+            <pre>${escapeHtml(parsed.moderator_summary || "")}</pre>
+          </article>
+        `;
+
+        resultBox.insertAdjacentHTML("beforeend", turnHtml);
+        document.getElementById("question").value = "";
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "session_id": "session-20260224-170754-da6d6d",
+  "title": "",
+  "created_at": "2026-02-24T17:07:54.919602+00:00",
+  "updated_at": "2026-02-24T17:07:54.919602+00:00",
+  "personas": [
+    {
+      "persona_name": "Maya Patel",
+      "persona_slug": "maya-patel",
+      "archetype_number": "1",
+      "archetype_name": "Workflow Optimisers"
+    },
+    {
+      "persona_name": "Luca Brenner",
+      "persona_slug": "luca-brenner",
+      "archetype_number": "2",
+      "archetype_name": "Guarded Verifiers"
+    },
+    {
+      "persona_name": "Elena Rossi",
+      "persona_slug": "elena-rossi",
+      "archetype_number": "3",
+      "archetype_name": "Creative Builders"
+    },
+    {
+      "persona_name": "Samira Haddad",
+      "persona_slug": "samira-haddad",
+      "archetype_number": "4",
+      "archetype_name": "Relational Co-Pilots"
+    },
+    {
+      "persona_name": "Noah Kim",
+      "persona_slug": "noah-kim",
+      "archetype_number": "5",
+      "archetype_name": "Adaptive Strategists"
+    }
+  ],
+  "turns": []
+}

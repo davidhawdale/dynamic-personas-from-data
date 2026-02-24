@@ -1,0 +1,108 @@
+:root {
+  --bg: #f5f1e8;
+  --card: #fffef9;
+  --ink: #2e2a26;
+  --accent: #2f6f5e;
+  --border: #d7cfc1;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+  color: var(--ink);
+  background: radial-gradient(circle at top right, #f8f4ee 0%, var(--bg) 60%);
+}
+header {
+  padding: 1.2rem 1rem;
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(135deg, #f6efe1, #efe7d7);
+}
+h1 { margin: 0; font-size: 1.5rem; }
+p { margin: 0.4rem 0 0; }
+.layout {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 1rem;
+  padding: 1rem;
+}
+.panel {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1rem;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.8rem;
+}
+.session-controls {
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  margin-bottom: 0.8rem;
+}
+button {
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+  border-radius: 8px;
+  padding: 0.45rem 0.7rem;
+  cursor: pointer;
+}
+textarea {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.55rem;
+  margin: 0.4rem 0;
+  font: inherit;
+  background: #fff;
+}
+.error {
+  color: #8d2020;
+  font-weight: 600;
+  margin: 0.6rem 0;
+}
+.turn {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.8rem;
+  margin-top: 1rem;
+  background: #fffdf8;
+}
+.transcript {
+  border: 1px dashed var(--border);
+  border-radius: 10px;
+  padding: 0.7rem;
+  background: #faf7ef;
+}
+.line {
+  padding: 0.4rem 0;
+  border-bottom: 1px solid #e8dece;
+}
+.line:last-child {
+  border-bottom: none;
+}
+.speaker {
+  font-weight: 700;
+  color: #214f43;
+}
+.card {
+  border: 1px solid var(--border);
+  border-left: 5px solid var(--accent);
+  border-radius: 10px;
+  padding: 0.6rem 0.7rem;
+}
+code, pre { font-family: "SF Mono", Menlo, monospace; }
+pre {
+  overflow: auto;
+  background: #f7f3eb;
+  border: 1px dashed var(--border);
+  border-radius: 10px;
+  padding: 0.7rem;
+}
+@media (max-width: 860px) {
+  .layout { grid-template-columns: 1fr; }
+}
