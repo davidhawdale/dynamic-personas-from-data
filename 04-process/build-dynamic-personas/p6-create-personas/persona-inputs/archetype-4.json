@@ -1,0 +1,45 @@
+{
+  "archetype_number": "4",
+  "archetype_name": "Relational Co-Pilots",
+  "pattern": "These participants treat AI as a conversational partner for social framing, tone calibration, and reflective thinking, while remaining aware of interpersonal limits versus human dialogue. They value context-aware interaction that supports communication and emotional clarity.",
+  "differentiators": [
+    "They frequently use AI to prepare or improve human-to-human interactions.",
+    "They weigh conversational utility against perceived loss of human reciprocity."
+  ],
+  "participants": [
+    "3",
+    "22",
+    "25",
+    "38",
+    "40",
+    "43",
+    "47",
+    "FR1"
+  ],
+  "evidence_quotes": [
+    {
+      "quote": "It helps me find my wording. It helps me sometimes work on my tone, or occasionally, if I give a scenario, it will come up with a lot of different angles regarding some of the different variables at play.",
+      "participant_id": "47"
+    },
+    {
+      "quote": "I think a perfect AI assistant would be able to keep track of my various projects so that I can quickly say, \"Please send an email to so-and-so about this detail.\" It would know which project I'm referring to and the person I'm talking about.",
+      "participant_id": "43"
+    },
+    {
+      "quote": "It's actually become a fairly nice companion. I'm quite happy to do what Tyler Cohen suggests, which is to put a lot of myself out there so that the AIs can engage with me.",
+      "participant_id": "22"
+    }
+  ],
+  "participant_extract_files": [
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/3.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/22.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/25.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/38.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/40.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/43.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/47.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/FR1.md"
+  ],
+  "template_file": "10-resources/templates/persona-template.md",
+  "output_file": "04-process/build-dynamic-personas/p6-create-personas/personas/samira-haddad.md"
+}

@@ -1,0 +1,37 @@
+{
+  "archetype_number": "5",
+  "archetype_name": "Adaptive Strategists",
+  "pattern": "These participants use AI as an adaptive thinking engine for broad life management: searching, learning, planning, and dynamic reprioritization. They want nuanced assistance that evolves with changing context rather than fixed single-task outputs.",
+  "differentiators": [
+    "They emphasize breadth and adaptability over narrow specialized features.",
+    "Their ideal assistant is an ongoing strategic aid for decision flow, not just task completion."
+  ],
+  "participants": [
+    "8",
+    "9",
+    "19",
+    "30"
+  ],
+  "evidence_quotes": [
+    {
+      "quote": "I'd say I use AI most often for searching things and finding quick answers. I really like how nuanced you can get with your searches instead of just typing keywords and then searching and going through all the different results that come up.",
+      "participant_id": "9"
+    },
+    {
+      "quote": "I use AI as my new Google search. For anything that comes to mind, whether it's an event or not, or news, I will ask ChatGPT because I can have a conversation or learn more.",
+      "participant_id": "19"
+    },
+    {
+      "quote": "One of the main daily uses of AI that I hope will occur sooner rather than later is a more nuanced task listing tool.",
+      "participant_id": "30"
+    }
+  ],
+  "participant_extract_files": [
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/8.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/9.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/19.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/30.md"
+  ],
+  "template_file": "10-resources/templates/persona-template.md",
+  "output_file": "04-process/build-dynamic-personas/p6-create-personas/personas/noah-kim.md"
+}

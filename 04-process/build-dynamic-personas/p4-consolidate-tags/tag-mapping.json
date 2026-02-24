@@ -1,0 +1,3492 @@
+{
+  "mappings": [
+    {
+      "original_tag": "3D Model Visualization Gap",
+      "consolidated_tag": "Coding And Technical Support"
+    },
+    {
+      "original_tag": "ADHD Executive Function Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "AI Aggregator Not Creator",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI Appropriate For Specific Tasks",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI As Bullshitting Machine",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI As Excel Shortcut",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI As Interaction Hub",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "AI As Motivational Support",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "AI As Personal Companion",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI As Pre-Filter",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI As Reference Tool",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "AI As Search Replacement",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "AI As Shortcuts Only",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI Authenticity Challenge",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "AI Availability Advantage",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "AI Availability And Reliability",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "AI Bias As Existential Threat",
+      "consolidated_tag": "Ethics And Bias Concerns"
+    },
+    {
+      "original_tag": "AI Calendar Integration Caution",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "AI Capability Paradox",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "AI Capability Uncertainty",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "AI Color Selection Success",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI Complexity Recognition",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI Design Limitations",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "AI Duplicate Error Problem",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "AI Dynamic Follow-Up Value",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "AI Elicits Greater Truthfulness",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "AI Email Event Coordination",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "AI Energy Cost Awareness",
+      "consolidated_tag": "Environmental Impact Concerns"
+    },
+    {
+      "original_tag": "AI Factuality Preference",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "AI Follow-Up Quality",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "AI For Accounting Needs",
+      "consolidated_tag": "Financial Planning And Analysis"
+    },
+    {
+      "original_tag": "AI For Content Curation",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "AI For Creative Marketing",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "AI For Creative Pattern Design",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "AI For Presentation Design",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "AI For Product Research",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "AI For Research And Analysis",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "AI For Resume Building",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "AI Human Connection Preservation",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "AI Ignore User Constraints",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "AI Impartiality Appreciation",
+      "consolidated_tag": "Ethics And Bias Concerns"
+    },
+    {
+      "original_tag": "AI Information Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "AI Information Verification Concern",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "AI Integration Efficiency Value",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "AI Interaction Soul Draining",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "AI Interview Clarity",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Comfort",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Competence",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Conversational Gap",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Distance Perception",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Effectiveness",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Execution Clarity",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Experience",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Experience Flatness",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Felt Natural",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Frustration",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Limitations",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Neutrality",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Persistence Problem",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Scripted Limitation",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Similarity",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Speed Advantage",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Interview Technical Friction",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Knitting Pattern Limitations",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "AI Lacks Relational Depth",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI Life Coach Partnership",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI Limitations For Deep Interviews",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "AI Listening Advantage",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "AI Listening Preference",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "AI Personality Depth Strategy",
+      "consolidated_tag": "Strategic AI Perspectives"
+    },
+    {
+      "original_tag": "AI Reliability Concern",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI Social Collaboration Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "AI Social Group Chatbot",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "AI Summary And Playback Expectation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI System Integration For Daily Tasks",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "AI Tier Limitations",
+      "consolidated_tag": "Cost And Tier Constraints"
+    },
+    {
+      "original_tag": "AI Tool Selection",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "AI Travel Agent Limitation",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "AI Understanding Uncertainty",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "AI Usage Scope",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "AI Use Cases Inventory",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI Voice Skepticism",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "AI Willingness To Engage",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "AI Writing Detection",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "AI Yarn Calculation Error",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "AI-Powered Search Integration",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "API Hook Expectation",
+      "consolidated_tag": "Coding And Technical Support"
+    },
+    {
+      "original_tag": "Absence Requires No Elaboration",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Accidental AI Discovery",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Accounting And Financial Support",
+      "consolidated_tag": "Financial Planning And Analysis"
+    },
+    {
+      "original_tag": "Accuracy And Up-To-Date Information",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Accuracy As Essential Requirement",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Accuracy Defeats Solution Value",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Accuracy Primary Requirement",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Actionable Tangible Plans",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Adaptive Routine Exception Handling",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Admin And Task Prioritization Need",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Admin Assistant Invoice Task",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Admin Email Assistance",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Administrative Email Focus",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Administrative Email Support",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Aggregation And Planning Desire",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Airbnb Business Focus",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Algorithm Recommendation Frustration",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Always On Device Access",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "Ambivalence About AI Future",
+      "consolidated_tag": "Strategic AI Perspectives"
+    },
+    {
+      "original_tag": "Answer Confidence Uncertainty",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Appointment Scheduling Burden",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Appreciation For Impartiality",
+      "consolidated_tag": "Ethics And Bias Concerns"
+    },
+    {
+      "original_tag": "Artistic Imagery Curation",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Artistic Style References",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Async Convenience Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Audio Conversational Immediacy",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Auditory Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Authenticity Concern",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Auto Prompt Improvement Need",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Automated Meeting Reports Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Automated Meeting Summaries",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Automated Task Coordination",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Automation And Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Automation As Delegation",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Automation Capability Exists",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Autonomous Admin Task Delegation",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Autonomous Async AI Appeal",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Autonomous Event Coordination",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Availability Aware Suggestions",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "Banking Security Constraints",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Behavior Adaptation Over Practices",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Behavioral Pattern Learning",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Bike Fit Computation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Board Charter Collaboration",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Brain Offload Fantasy",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Brainstorming Interaction Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Breaking Down Overwhelm",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Brief Personal Introduction",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Broken Product Links",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Budgeting Tool Value",
+      "consolidated_tag": "Financial Planning And Analysis"
+    },
+    {
+      "original_tag": "Business Communication Use Case",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Business Ideas Generation",
+      "consolidated_tag": "Professional Workflow Support"
+    },
+    {
+      "original_tag": "Business Preference",
+      "consolidated_tag": "Professional Workflow Support"
+    },
+    {
+      "original_tag": "Calculation Errors",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Calendar Agenda Automation",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar And Errand Optimization",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Availability Detection",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Based Predictive Notifications",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Control Desire",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Integration Dependency",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Integration Desire",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Integration Preference",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Integration Priority",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Integration Support",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Integration Value",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Reminder Integration",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Calendar Scheduling Assistance",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Capability Boundary Testing",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Categorical Confidence Preference",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Cautious Optimism About AI",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "ChatGPT As Search Engine",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "ChatGPT For Complex Task Analysis",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "ChatGPT Project Context Success",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "ChatGPT Voice Feature Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Choice Confidence",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Citation Transparency Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Clean UX Requirement",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Code Generation And Problem Solving",
+      "consolidated_tag": "Coding And Technical Support"
+    },
+    {
+      "original_tag": "Coding Assistance",
+      "consolidated_tag": "Coding And Technical Support"
+    },
+    {
+      "original_tag": "Cognitive Burden Impact On Family Time",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Cognitive Load From Juggling",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Cognitive Overhead Concern",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "Color Matching Success",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Comfort Without Nonverbal Cues",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Communication Cost Awareness",
+      "consolidated_tag": "Cost And Tier Constraints"
+    },
+    {
+      "original_tag": "Competitive Restrictions Acceptance",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Complex Purchases",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Compositional Exploration",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Comprehensive Life Context Need",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Comprehensive Life Domain Support",
+      "consolidated_tag": "Strategic AI Perspectives"
+    },
+    {
+      "original_tag": "Comprehensive System Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Computation Task Example",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Concrete Available Options Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Confidence Level Transparency Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Confident Misinformation Risk",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Confirmation Bias Self-Awareness",
+      "consolidated_tag": "Ethics And Bias Concerns"
+    },
+    {
+      "original_tag": "Conflict Detection Value",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Connected Device Preferences",
+      "consolidated_tag": "Smart Home Automation"
+    },
+    {
+      "original_tag": "Consent-Based Data Access",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Consistency Desire",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Constant Verification Need",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Constraint Limits Exploration",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Contact Management Challenge",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Content Creation Scaffolding",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Content Creation Time Pressure",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Content Discovery Preference",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Content Strategy LinkedIn Assistant",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Context Dependent Information Gap",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Context Is Key Constraint",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Context Loss Frustration",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Context Loss With AI Interviewer",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Context Overhead Avoidance",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Context Persistence For Task Chats",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Context Picking Impressed",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Context Precision Recognition",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Context Precision Requirement",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Context Window Frustration",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Context-Dependent Tool Assessment",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Contextual Access Control",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Contextual Errand Awareness",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Contextual Life Knowledge Desire",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Contextual Meal Preference",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Contextual Memory Gap",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Contextual Message Suggestions",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Contextual Recommendations",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Contextual Reminder Pattern",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Contextual Reminder Value",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Contextual Shopping Integration",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Contextual Understanding",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Conversational Flow Importance",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "Conversational Learning Preference",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Conversational Tool Usage",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "Copy-Paste Data Transfer Burden",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Correcting AI Misinterpretation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Creative Image Generation",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Creative Inhibition Effect",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Creative Time Reallocation",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Creative Vision Gap",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Critical Thinking Erosion Concern",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "Critical Thinking Tool",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "Cross-Context Life Understanding",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Cross-Conversation Memory Gap",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Cross-Device Fragmentation",
+      "consolidated_tag": "System Fragmentation And Interoperability"
+    },
+    {
+      "original_tag": "Cross-Reference Desired",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Cross-System Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Cultural Technology Analysis",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "Cumulative Error Sensitivity",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Curiosity Driven Exploration",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Current Tool Limitations",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Current Tools Adequate",
+      "consolidated_tag": "Current Tool Sufficiency"
+    },
+    {
+      "original_tag": "Customer Care Nuance",
+      "consolidated_tag": "Professional Workflow Support"
+    },
+    {
+      "original_tag": "Cybersecurity Fear",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "DALL-E Alternative Attempt",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "DIY Image Assessment",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "DIY Material Guidance Need",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Daily Summary Email Request",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Dashboard Vision",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Data Aggregation Mismatch",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Data Analysis And Presentation",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Data Connection Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Data Integration And Cross Reference",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Data Integration For Analysis",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Data Integration Need",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Data Interpretation Failure",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Data Privacy Non-Negotiable",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Data Projection Planning",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Data Retrospection And Advice",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Data Transparency Requirement",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Decision Bias Recognition",
+      "consolidated_tag": "Ethics And Bias Concerns"
+    },
+    {
+      "original_tag": "Decision Delegation Model",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Decision Framework Support",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "Decision Speed",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Decision-Making Support",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "Dense Text Distillation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Depth Of Information Concern",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Design System Constraint Failure",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Design Task Usage",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Desire For Contextual Continuity",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Desire For Suggested Capabilities",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Desire for Agent Capabilities",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Detailed Itinerary Planning",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Detailed Option Evaluation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Deviation Value Recognition",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Device Reduction Goal",
+      "consolidated_tag": "System Fragmentation And Interoperability"
+    },
+    {
+      "original_tag": "Diagram Generation Frustration",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Digital Legacy Through AI",
+      "consolidated_tag": "Strategic AI Perspectives"
+    },
+    {
+      "original_tag": "Dimension Accuracy Limitations",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Direct Chat Speaking",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Direct Control Preference",
+      "consolidated_tag": "User Control And Safeguards"
+    },
+    {
+      "original_tag": "Discovery Through Social",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Diverse AI Usage Patterns",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "Diverse Personal AI Use",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Diverse Personal Use Cases",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Document Summarization Utility",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Domestic Automation Expectation",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Dynamic Personalisation Delight",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Ecological AI Restriction",
+      "consolidated_tag": "Environmental Impact Concerns"
+    },
+    {
+      "original_tag": "Ecological Avoidance Vacation",
+      "consolidated_tag": "Environmental Impact Concerns"
+    },
+    {
+      "original_tag": "Ecological Conviction Limits AI",
+      "consolidated_tag": "Environmental Impact Concerns"
+    },
+    {
+      "original_tag": "Ecosystem Integration Roadmap",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Educational Curiosity",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Educational Design Focus",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Efficiency As Core Motivation",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Efficiency Without Understanding Loss",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Email And Letter Writing",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Autonomy Preference",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Context Insight Discovery",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Grammar Correction",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Information Filtering",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Integration Interest",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Intelligence Filtering",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Noise Reduction",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Organization Desire",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Organization Priority",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Overload Problem",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Overwhelm",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Prioritization Need",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Sending Automation",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Sequence Automation Interest",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Sequence Automation Need",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Summarization Errors",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Summarization Integration",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Summarization Need",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Summarization Use",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Triage Burden",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Email Voice Reply Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Emotional Decision Support",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Emotional Overwhelm Pattern",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Energy Consumption Awareness",
+      "consolidated_tag": "Environmental Impact Concerns"
+    },
+    {
+      "original_tag": "Energy Preservation Through AI",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Equal Treatment of AI",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Event Planning",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Event Planning Assistance",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Event Preparation Alerts",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Event Preparation Reminders",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Evidence Vetting Burden",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Example-Driven Thinking Aid",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "Excel Charting Challenge",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Exception Handling Expectation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Execution Planning",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Exploratory Tool Testing",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Face To Face Irreplaceability",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Facial Emotion Detection",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Facial Expression Absence Impact",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Family Coordination Via AI",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Family Support Use Case",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Faster Information Acquisition",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Feedback Lag Barrier",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "File Size Limitation Frustration",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Finance Use Case Potential",
+      "consolidated_tag": "Financial Planning And Analysis"
+    },
+    {
+      "original_tag": "Financial Guidance Need",
+      "consolidated_tag": "Financial Planning And Analysis"
+    },
+    {
+      "original_tag": "Financial Scenario Analysis",
+      "consolidated_tag": "Financial Planning And Analysis"
+    },
+    {
+      "original_tag": "Financial Tracking Need",
+      "consolidated_tag": "Financial Planning And Analysis"
+    },
+    {
+      "original_tag": "Flight Reliability Doubt",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Focus Without Tangents",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Follow-Up Value Acknowledgment",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Formal Style Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Formal Tone Problem",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Frequent Personal AI Use",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Gamification For Engagement",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Garden Task Planning",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Gardening Knowledge Seeking",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Gardening Project Planning",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Generic Follow-Up Feeling",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Global Intellectual Network",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Goal-Aligned Prioritization",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Google Ecosystem Lock-In",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Graduated Permissions Model",
+      "consolidated_tag": "User Control And Safeguards"
+    },
+    {
+      "original_tag": "Grammatical Problems In AI",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Graphics And Content Creation",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Grocery List Personalization",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Grocery Shopping Intelligence",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Habit Pattern Recognition Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Habit-Based Proactive Actions",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Hallucination Distrust",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Hallucination Issue",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Hallucination Risk Concern",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Hands-Off Voice Interaction",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Health And Logistics Support",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Health And Wellness Research",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Health Information Seeking",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Healthcare AI Accuracy Concern",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Healthcare Planning Coordination",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Healthcare Trust Skepticism",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Hierarchy And Merit Preference",
+      "consolidated_tag": "Strategic AI Perspectives"
+    },
+    {
+      "original_tag": "High AI Trust",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "High Leverage Opportunity Ideas",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "High Trust in AI Results",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Hobby Identification Tools",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Hobby Learning Bootstrap",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Holiday Planning Avoidance",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Holistic Health Tracking Desire",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Holistic Interior Design Assistant",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Holistic Life Domain Support",
+      "consolidated_tag": "Strategic AI Perspectives"
+    },
+    {
+      "original_tag": "Honesty Regardless Of Format",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Hosting With Human Touch",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Housework Automation Desire",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Human Approval Before Action",
+      "consolidated_tag": "User Control And Safeguards"
+    },
+    {
+      "original_tag": "Human Authenticity And Connection",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Human Authenticity Value",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Human Cognitive Limitations In Listening",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Human Connection Concern",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Human Connection Irreplaceable",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Human Contact Irreplaceability",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Human Conversational Tone Expectation",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Human Dialogue Preference",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Human Dishonesty And Betrayal",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Human Dishonesty Critique",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Human Interaction Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Human Interaction Preference",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "Human Interview Preference",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Human Interview Skepticism",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Human Interviewer Advantage",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Human Nonverbal Communication Value",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Human Rapport Trade-Off",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Human Review Reassurance",
+      "consolidated_tag": "User Control And Safeguards"
+    },
+    {
+      "original_tag": "Human Touch Trust Barrier",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Human Verification Preference",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Human Voice Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Humanization Of AI Interface",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Idea Capture Pain",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Ideal 3D Visualization Feature",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Ideal Task Automation",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Ignored User Clarification",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Image Generation Failure",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Image Generation Frustration",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Image Text Editing Limitation",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Impulse Mitigation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "In-Conversation Task Creation",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "In-Depth Question Value",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Inaccurate Math",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Indirect Question Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Information Scope Limitation",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Information Seeking Behavior",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Information Seeking Over Search",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Information Verification Awareness",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Informed Consent For AI Interviews",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Initiative Fatigue",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Input Customization For Planning",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Insightful Follow Up Requirement",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Integrated Workflow Needs",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Integration Risk Aversion",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Integration Value Skepticism",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Intellectual Dialogue With Models",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Intelligent Booking Assistance",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Intelligent Content Curation",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Intentional Imperfection Paradox",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Intergenerational Connection Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Interpersonal Context Gap",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Interpersonal Deliberation Support",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Interview Format Preference",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Interview Prep Coaching",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Investment Decision Support",
+      "consolidated_tag": "Financial Planning And Analysis"
+    },
+    {
+      "original_tag": "Invoice Admin Automation",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Invoice Follow-up Administration",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Iterative Code Assistance",
+      "consolidated_tag": "Coding And Technical Support"
+    },
+    {
+      "original_tag": "Iterative Narrowing Dialogue",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Iterative Recipe Refinement",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Iterative Refinement Acceptance",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Iterative Refinement Mindset",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "JARVIS Vision",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Job Replacement Fear",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Job Search Automation Feature",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Job Search Integration Interest",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Kids Activity Scheduling",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Knitting Pattern AI Failure",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Lack Of Conversational Flow",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "Lack Of Immediate Feedback Adaptation",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Lack Of Spontaneity In AI",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Language Comfort Advantage",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Language Comfort With AI Interview",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Language Expression Accuracy Concern",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Language Expression Issues",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Learning By Example Preference",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Learning Through Curiosity",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Legal Contract Assessment",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Less Intimidated By AI",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Less Nervous With AI",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Less Nervous Without Human Presence",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Life Foresight And Planning",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Life Situation Definition",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Lifecycle Habit Scanning",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Light Personal Use",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "Limited Contextual Extension",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Limited Personal Use",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Limited Tool Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "LinkedIn Content Creation Need",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Live Feedback Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Location Aware Recommendations",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Loneliness And Digital Disconnection",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Loss Of Community Play",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Low Tool Research Effort",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Low Trust In AI Results",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Machine Identity Clarity Important",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Machine Interaction Disconnect",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "Machine Transparency Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Maintain Meaning",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Male Voice Authority Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Manual Control Preference",
+      "consolidated_tag": "User Control And Safeguards"
+    },
+    {
+      "original_tag": "Manual Override More Efficient",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Manual Workaround",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Marketing Assessment",
+      "consolidated_tag": "Professional Workflow Support"
+    },
+    {
+      "original_tag": "Material And Tool Guidance",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Material-Specific Gap",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Meal Decision Automation",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Meal Planning Burden",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Meal Planning Support",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Mechanical Interaction Difference",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "Mechanical Tone Response Mirror",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Medical Decision Support",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Medical Insight Seeking",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Medical Pattern Recognition Need",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Medical Privacy Barrier",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Memory And Context",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Memory Continuity Need",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Memory Persistence Need",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Mental Health AI Support",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Mental Load Management Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Message Conciseness",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Midjourney Creative Process",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Mirror Not Relationship",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Misinterpretation And Degradation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Missed Email Management Feature",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Missing Context Integration",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Missing Social Cues",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Missing Warmth In AI Interview",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Mobile AI Access Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Mobile Access Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Mobile Writing Tools",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Model Hallucination Awareness",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Moderate AI Trust",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Moderate Trust Assessment",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Moderate Trust In AI",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Moderate Trust Level",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Moderate Trust Stance",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Moderation Surprise Acceptance",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Modern Life Pressure And Exhaustion",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Monologue Effect",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Multi-App System Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Multi-Domain Learning Pattern",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Multi-Domain Task Management",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Multi-Email Integration Need",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Multi-Format Resource Expectation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Multi-Parameter Trip Planning",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Multi-Platform Availability",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "Multi-Platform Integration Needed",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Multi-System Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Multimedia Content Creation",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Multimedia Content Gap",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Multimodal Interaction Preference",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "Multimodal Resource Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Multiple Questions Per Prompt",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Music Recommendation Capability",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Narrow Solution Framing",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Need For Human Context",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "News Source Preference",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Newsletter Content Enhancement",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "No Body Language Concern",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "No Current Tool Limitations",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "No Judgment From AI",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "No Personal AI Use",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "No Pressure To Impress AI",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "No System Integration Ideas",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "No Unmet AI Needs",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Non-Judgmental AI Perception",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Non-Judgmental Sharing Space",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Nonverbal Communication Gap",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Nostalgia For Community Play",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Nuance Complexity Barrier",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Objective Decision Seeking",
+      "consolidated_tag": "Cognitive Support Patterns"
+    },
+    {
+      "original_tag": "Obsolescence Fear Motivator",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Off Script Flexibility Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Office Suite Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Old School Cautious User",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "One-Sided Perception",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Opinionated AI Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Organization Efficiency Goals",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Organization Focus",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "PII Sharing Concern",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Pacing Assistance Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Pause Detection Challenge",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Pause For Reflection",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Paywall Limitation Awareness",
+      "consolidated_tag": "Cost And Tier Constraints"
+    },
+    {
+      "original_tag": "Paywall Opacity",
+      "consolidated_tag": "Cost And Tier Constraints"
+    },
+    {
+      "original_tag": "Perceived Lack Of Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Performance Preparation Scheduling",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Periodic Background Monitoring",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Persistent Context Per Chat",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Personal AI Assistant Vision",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Personal Assistant Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Personal Bias Checking Support",
+      "consolidated_tag": "Ethics And Bias Concerns"
+    },
+    {
+      "original_tag": "Personal Communication Tasks",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Personal Context Preservation",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Personal Recipe And Translation Uses",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Personal Research Interest",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Personal Survey Experience",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Personal Task Variety",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Personal Trainer AI Assistant",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Personal Use Satisfaction",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Personalised Response Style",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "Personalization Gap In AI",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Personalization Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Personalized AI Understanding",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Personalized Assistant Gap",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Personalized Guidance",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Personalized Interviewing",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Personalized Recommendation Expectation",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Personalized Reminder System",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Personalized Travel Preferences",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Philosophical AI Reflection",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Phone Aversion",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Photo Location Memory",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Photo Location Memory Enhancement",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Physical Activity Motivation",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Physical Activity Support",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Planning Tasks",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Platform Integration Friction",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Podcast Ideation And Script Planning",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Practical AI Applications",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Practical AI Usage Scope",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "Practical AI Verification",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Practical Everyday AI Use",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Practical Past AI Use",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Practical Task Automation",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Precision And Tone Refinement",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Preference For Detail",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Preference For Direct Communication",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Preference For Limited Private Access",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "Preference Learning Desire",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Preference Memory Desire",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Preference Memory For Repetitive Tasks",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Presentation Creation Efficiency",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Pressure-Free Thinking Space",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Preventive Problem Management",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Priority Email Detection",
+      "consolidated_tag": "Email Management"
+    },
+    {
+      "original_tag": "Privacy Boundary Setting",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Privacy Concern About Personal Disclosure",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Privacy Concerns With Email",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Privacy Data Access Resistance",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Privacy Data Avoidance",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Privacy Data Blocker",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Privacy Data Concern",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Privacy Skepticism",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Privacy-Aware Integration",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Proactive AI Anticipation",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Proactive Anticipation Need",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Proactive Assistant Preference",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Proactive Context Coaching",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Proactive Event Coordination",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Proactive Mental Load Management",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Proactive Opportunity Pings",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Proactive Prompt Improvement",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Proactive Reminder Needs",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Proactive Service Management",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Proactive Task Reduction",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Proactive Without Prompting",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Proactivity Over Passivity",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Proactivity Versus Passivity",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Process Value Over Output",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Product Comparison Gap",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Product Search Failure Pattern",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Productivity Boost Expectation",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Professional Assistant Preference",
+      "consolidated_tag": "Professional Workflow Support"
+    },
+    {
+      "original_tag": "Progress Check-in",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Project Context Memory",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Project Overview Maintenance",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Project Timeline Planning",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Prompt Control Frustration",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Prompt Engineering Learning Gap",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Prompt Guidance Desire",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Prompt Labor Cost",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Prompt Precision Expectation",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Public Transport Navigation",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Public Transport Preference",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Quality Over Speed",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Question Redundancy Issue",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Quick Prompt Recovery",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Rate Limiting Frustration",
+      "consolidated_tag": "Cost And Tier Constraints"
+    },
+    {
+      "original_tag": "Reaction Absence Adjustment",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Reactive Versus Proactive Pattern",
+      "consolidated_tag": "Proactive Assistance"
+    },
+    {
+      "original_tag": "Read Only Financial Trust",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Real-Time Information Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Realistic Daily Scheduling Expectation",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Recipe And Kitchen Use",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Recipe Finding Help",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Recipe Preference Personalization",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Recipe Refinement Process",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Recipe Refinement Value",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Recommendation Validation Process",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Relationship Building With AI",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Relationship Reflection Practice",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Relaxation Without Visual Judgment",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Repetition Frustration Stakes",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Repetitive Context Burden",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Republic Of Letters Collaboration",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Research And Grant Writing",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Research Assistance For Shopping",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Research Interpretation Gap",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Research Self Sufficiency",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Research Verification Pattern",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Response Edit Inability Frustration",
+      "consolidated_tag": "Interaction Dynamics"
+    },
+    {
+      "original_tag": "Restriction Constraint Pragmatism",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Results Skepticism",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Resume Optimization",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Retool Agent Creation Failure",
+      "consolidated_tag": "Coding And Technical Support"
+    },
+    {
+      "original_tag": "Reunion Event Focus",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Reverse Calendly Vision",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Robustness Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Route Optimization Concern",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Route Optimization Daily Planning",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Route Planning Assistance",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Route Planning Expectations",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Routine Task Memory Preference",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Rumination Pattern Detection",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Safe Data Gathering Relationship",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Safeguards Before Automation",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Sales Outreach Assistant",
+      "consolidated_tag": "Professional Workflow Support"
+    },
+    {
+      "original_tag": "Satisfied With Current Scope",
+      "consolidated_tag": "Current Tool Sufficiency"
+    },
+    {
+      "original_tag": "Schedule Integration Need",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Scientific Literature Access Limitation",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Scope Based Project Planning",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Scope Clarity Uncertainty",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Search Enhancement Preference",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Search Primary Use",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Search Reliability Concerns",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Search Synthesis Primary Need",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Secure Environment Access Barriers",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Security Concerns",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Selective Integration Need",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Self-Censorship Over Privacy",
+      "consolidated_tag": "Privacy And Security"
+    },
+    {
+      "original_tag": "Self-Sufficient Alternative Finding",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Serendipitous Suggestion Openness",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Shopping Friction From Accessibility",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Shopping List Integration",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Skepticism Of Marketing Claims",
+      "consolidated_tag": "Professional Workflow Support"
+    },
+    {
+      "original_tag": "Smart Calendar Scheduling",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Smart Fridge Integration Interest",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Smart Home Appliance Integration",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Smart Home Integration Interest",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Smart Kitchen Inventory Tracking",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Smart Search For Travel",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Smart Task Prioritization",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Smartphone Only Device Landscape",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Social Advice Seeking",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Social Media Inspired Creativity",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Source Citation Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Source Discovery Value",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Source Mismatch Frustration",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Specialised Professional Assistants",
+      "consolidated_tag": "Professional Workflow Support"
+    },
+    {
+      "original_tag": "Speech Habituation Anxiety",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Speech Recognition Concern",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Speed Over Search",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Sponsored Content Distrust",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Spontaneous Engagement Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Sports Injury Diagnosis",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "Starting Point Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Static Image Limitation",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Static Interaction Limitation",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Step-By-Step Task Transparency",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Still Learning About AI",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Structure Rigor Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Structured Format Limits Exploration",
+      "consolidated_tag": "Learning And Discovery"
+    },
+    {
+      "original_tag": "Structured Prompt Technique",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Style Adaptation Gap",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Substack Content Creation",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Substrate Specificity Limitation",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Supermarket Integration Vision",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Survey Not Interview",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Switched To Paid Version",
+      "consolidated_tag": "Cost And Tier Constraints"
+    },
+    {
+      "original_tag": "Synthesis Over Individual Sources",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "Synthesis Over Search",
+      "consolidated_tag": "Search And Research"
+    },
+    {
+      "original_tag": "System Fragmentation Pain",
+      "consolidated_tag": "System Fragmentation And Interoperability"
+    },
+    {
+      "original_tag": "System Integration",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "System Integration Benefits",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "System Integration Desire",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "System Integration For Daily Management",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "System Integration For Task Management",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "System Integration Need",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "System Integration Opportunities",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "System Integration Preference",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "System Interconnection Rejection",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "System Interconnection Requirement",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Systems Integration Interest",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Task Breakdown And Scheduling",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Task Decomposition Strategy",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Task Management Fragmentation",
+      "consolidated_tag": "System Fragmentation And Interoperability"
+    },
+    {
+      "original_tag": "Task Management Tool Need",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Task Organization Need",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Task Range Diversity",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Taste-Based Recipe Suggestions",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Teaching Financial Literacy",
+      "consolidated_tag": "Financial Planning And Analysis"
+    },
+    {
+      "original_tag": "Technical Stalling",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Text Composition Advantage",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Text Refinement Use Case",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Thinking Clarification Through Dialogue",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Thought Ordering Via AI",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Thought Structuring Support",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Thought-To-Action Automation",
+      "consolidated_tag": "Automation And Delegation"
+    },
+    {
+      "original_tag": "Thread Persistence Value",
+      "consolidated_tag": "Memory And Context Continuity"
+    },
+    {
+      "original_tag": "Time Management Support Need",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Time Sensitivity Paralysis",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Time Tracking And Awareness",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Tool Adoption Driven By Curiosity",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "Tool Integration Gap",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Tool Limitations Blocking Use",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Tool Limitations Unsure",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Tool Quality Gatekeeping",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Transparency And Collaboration Need",
+      "consolidated_tag": "Personalization And Adaptation"
+    },
+    {
+      "original_tag": "Transparency Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Transparency Requirement For AI Actions",
+      "consolidated_tag": "User Control And Safeguards"
+    },
+    {
+      "original_tag": "Travel Agent Analogy",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Travel No Real Friction",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Travel Plan Input Requirements",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Travel Planning Assistance",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Travel Planning Unrealism",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Travel Planning Use Case",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Travel Planning Via AI",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Travel Research Use Case",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Travel Translation Utility",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Tree Diagnosis Method",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Trip Optimization Query",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Trip Planning AI Usage",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Trip Planning Priorities",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Trip Planning Support",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Trip Planning Unrealistic Expectations",
+      "consolidated_tag": "Travel Planning"
+    },
+    {
+      "original_tag": "Trust And Transparency Baseline",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Trust Based System Access",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "Trust Requires Clarity",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "Trust Through Genuine Presence",
+      "consolidated_tag": "Trust And Verification"
+    },
+    {
+      "original_tag": "UX Heuristic Analysis Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Unbiased Reasoning Imperative",
+      "consolidated_tag": "Ethics And Bias Concerns"
+    },
+    {
+      "original_tag": "Uncanny Valley Observation",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Unemotional AI Interaction Preference",
+      "consolidated_tag": "Emotional Support And Reflection"
+    },
+    {
+      "original_tag": "Unified Information Channel",
+      "consolidated_tag": "Data And System Integration"
+    },
+    {
+      "original_tag": "Unified Task Processing",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Unified Unified Calendar View",
+      "consolidated_tag": "Calendar And Scheduling"
+    },
+    {
+      "original_tag": "Unlimited Prompt Persistence",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Usage Frequency",
+      "consolidated_tag": "Access And Adoption"
+    },
+    {
+      "original_tag": "User Interface Complaint",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "User Validated Product Recommendations",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "VIP Contact Prioritization",
+      "consolidated_tag": "Task Organization And Prioritization"
+    },
+    {
+      "original_tag": "Vague Requirements Caused Failure",
+      "consolidated_tag": "Prompting And Instruction Quality"
+    },
+    {
+      "original_tag": "Verbal Comfort Gap",
+      "consolidated_tag": "Tool Reliability And Limitations"
+    },
+    {
+      "original_tag": "Verification Need For AI Output",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Verification Through Attribution Check",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Verified Information Requirement",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Verified Product Recommendations",
+      "consolidated_tag": "Shopping And Recommendations"
+    },
+    {
+      "original_tag": "Video Recording Discomfort",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Visual Authenticity Design",
+      "consolidated_tag": "Human Connection And Rapport"
+    },
+    {
+      "original_tag": "Visual Content Creation",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Visual Cooking Assistance",
+      "consolidated_tag": "Recipes And Cooking Support"
+    },
+    {
+      "original_tag": "Visual Cue Deficit",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Visual Feedback Desire",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Visual Technique Limitation",
+      "consolidated_tag": "Creative Design And Media"
+    },
+    {
+      "original_tag": "Voice AI Interface Anxiety",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice AI Interview Feeling",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice And Visual Feedback Value",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Dictation Importance",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Formality And Structure",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Input Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Interaction Ambivalence",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Interaction Gap",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Interaction Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Interaction Skepticism",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Interface Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Interruption Frustration",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Over Text Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Plus Text Format Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Recording Novelty",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Response Expectation",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Voice Transcription Preference",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Weak AI Interview Version",
+      "consolidated_tag": "AI Interview Experience"
+    },
+    {
+      "original_tag": "Wellness Professional AI",
+      "consolidated_tag": "Health And Wellness Support"
+    },
+    {
+      "original_tag": "WhisperFlow Tool Satisfaction",
+      "consolidated_tag": "Voice Interaction Experience"
+    },
+    {
+      "original_tag": "Work Life Balance Priority",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Workflow Efficiency Vision",
+      "consolidated_tag": "Time And Productivity"
+    },
+    {
+      "original_tag": "Writing Assistance",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Writing Enhancement",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Writing Struggle",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Writing Style Preservation",
+      "consolidated_tag": "Content And Writing Support"
+    },
+    {
+      "original_tag": "Written Communication Comfort",
+      "consolidated_tag": "Social And Relationship Communication"
+    },
+    {
+      "original_tag": "Written Format Preference",
+      "consolidated_tag": "Usage And Adoption Patterns"
+    },
+    {
+      "original_tag": "Wrong Yarn Substitute",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    },
+    {
+      "original_tag": "Yarn Quantity Miscalculation",
+      "consolidated_tag": "Home And DIY Support"
+    },
+    {
+      "original_tag": "Yarn Substitute Inaccuracy",
+      "consolidated_tag": "Accuracy And Hallucination Risk"
+    }
+  ]
+}

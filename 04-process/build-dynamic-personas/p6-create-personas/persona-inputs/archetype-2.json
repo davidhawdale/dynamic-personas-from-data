@@ -1,0 +1,55 @@
+{
+  "archetype_number": "2",
+  "archetype_name": "Guarded Verifiers",
+  "pattern": "These participants engage with AI, but through a strong risk filter around factual reliability, verification burden, and downstream consequences of wrong answers. They are not anti-AI, but they actively check claims and set tighter boundaries on trust.",
+  "differentiators": [
+    "They normalize verification as part of usage rather than assuming output correctness.",
+    "Their adoption is shaped by risk-control habits, including privacy and environmental caution."
+  ],
+  "participants": [
+    "1",
+    "2",
+    "6",
+    "7",
+    "14",
+    "17",
+    "18",
+    "39",
+    "45",
+    "48",
+    "51",
+    "DE7",
+    "PL17"
+  ],
+  "evidence_quotes": [
+    {
+      "quote": "I will say, that's not in the prompt, but I take it with a grain of salt, and I always make sure to look at the attribution of the links because I know that the summaries can be wrong.",
+      "participant_id": "45"
+    },
+    {
+      "quote": "I know that AI is constantly learning and you have to use it wisely because not all information is verified.",
+      "participant_id": "17"
+    },
+    {
+      "quote": "for personal tasks, I really try to limit my use of AI, because for ecological reasons, I really want to restrict it to professional tasks. Even at a professional level, I always try to think if I can do it another way. So, for personal tasks, my use is very, very limited, if not nonexistent.",
+      "participant_id": "1"
+    }
+  ],
+  "participant_extract_files": [
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/1.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/2.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/6.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/7.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/14.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/17.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/18.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/39.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/45.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/48.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/51.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/DE7.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/PL17.md"
+  ],
+  "template_file": "10-resources/templates/persona-template.md",
+  "output_file": "04-process/build-dynamic-personas/p6-create-personas/personas/luca-brenner.md"
+}

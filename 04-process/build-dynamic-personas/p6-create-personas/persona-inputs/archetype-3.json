@@ -1,0 +1,59 @@
+{
+  "archetype_number": "3",
+  "archetype_name": "Creative Builders",
+  "pattern": "These participants use AI as a making partner across design, content, coding, and practical home projects. They value acceleration and ideation but also recognize where generated outputs need correction, domain nuance, or manual refinement.",
+  "differentiators": [
+    "They use AI in production workflows (not just exploratory Q&A).",
+    "They tolerate iterative refinement when AI helps them ship faster or explore more options."
+  ],
+  "participants": [
+    "5",
+    "12",
+    "16",
+    "23",
+    "31",
+    "32",
+    "34",
+    "35",
+    "37",
+    "42",
+    "44",
+    "46",
+    "ES5",
+    "FR37",
+    "PL13"
+  ],
+  "evidence_quotes": [
+    {
+      "quote": "Another thing I use AI for is generating code and fixing problems in my code.",
+      "participant_id": "35"
+    },
+    {
+      "quote": "I like to use AI to assess some of the images that I upload as a form of DIY. I take pictures of a broken wall or a broken wall socket, anything that I don't know how to manage myself, and then I get AI to analyze it. It tells me how much paint I need to buy and where I can purchase whatever tools I need for the do-it-yourself home project.",
+      "participant_id": "16"
+    },
+    {
+      "quote": "I asked for a pattern and I thought it was going to write a very detailed pattern with what you had to do row by row, etc., but it couldn't do that.",
+      "participant_id": "ES5"
+    }
+  ],
+  "participant_extract_files": [
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/5.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/12.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/16.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/23.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/31.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/32.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/34.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/35.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/37.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/42.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/44.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/46.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/ES5.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/FR37.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/PL13.md"
+  ],
+  "template_file": "10-resources/templates/persona-template.md",
+  "output_file": "04-process/build-dynamic-personas/p6-create-personas/personas/elena-rossi.md"
+}

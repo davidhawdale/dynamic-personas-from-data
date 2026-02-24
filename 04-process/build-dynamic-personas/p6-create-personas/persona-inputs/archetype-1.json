@@ -1,0 +1,55 @@
+{
+  "archetype_number": "1",
+  "archetype_name": "Workflow Optimisers",
+  "pattern": "These participants primarily use AI to reduce operational overhead across email, scheduling, coordination, and data-heavy routines. They value assistants that connect systems, keep commitments visible, and convert fragmented admin work into actionable daily plans.",
+  "differentiators": [
+    "They emphasize orchestration across tools (email, calendar, data sources) over one-off brainstorming.",
+    "Their success criterion is practical execution speed with fewer manual handoffs."
+  ],
+  "participants": [
+    "10",
+    "11",
+    "20",
+    "21",
+    "28",
+    "29",
+    "33",
+    "36",
+    "49",
+    "50",
+    "FR36",
+    "PL21",
+    "13"
+  ],
+  "evidence_quotes": [
+    {
+      "quote": "I have a specific date set, and I'm asking it to set up a time for me. It should tell me what all places I should visit in that time, and then keep car rentals or things to eat around this place, and so on.",
+      "participant_id": "49"
+    },
+    {
+      "quote": "For me, the perfect AI assistant would be able to tap into my emails and have access to my calendar. So if I were to say, \"What do I have planned for today? How do I need to prepare for my day? Is there something that I said I would do that I haven't yet achieved?\" I would love for the AI assistant to help keep me on task.",
+      "participant_id": "28"
+    },
+    {
+      "quote": "what would interest me is that it's directly connected, at least in my professional case, directly to our data and brings more precision. Because right now, it's me who gives it a lot of context with variables, and it isn't capable, at least for us, of retrieving those variables and therefore doing an analysis, for example.",
+      "participant_id": "FR36"
+    }
+  ],
+  "participant_extract_files": [
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/10.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/11.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/20.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/21.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/28.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/29.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/33.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/36.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/49.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/50.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/FR36.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/PL21.md",
+    "04-process/build-dynamic-personas/p5-synthesize-archetypes/extracts/13.md"
+  ],
+  "template_file": "10-resources/templates/persona-template.md",
+  "output_file": "04-process/build-dynamic-personas/p6-create-personas/personas/maya-patel.md"
+}
