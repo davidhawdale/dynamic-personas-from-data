@@ -63,6 +63,20 @@ POST /api/session/{session_id}/ask
         <form id="askForm">
           <label for="question">Team Question</label>
           <textarea id="question" rows="4" placeholder="What should our first release optimize for?"></textarea>
+          <div class="controls-grid">
+            <label for="conversationDepth">Conversation depth</label>
+            <select id="conversationDepth">
+              <option value="brief">Brief</option>
+              <option value="standard">Standard</option>
+              <option value="deep" selected>Deep</option>
+            </select>
+            <label for="emotionalExpressiveness">Emotional expressiveness</label>
+            <select id="emotionalExpressiveness">
+              <option value="low">Low</option>
+              <option value="medium">Medium</option>
+              <option value="high" selected>High</option>
+            </select>
+          </div>
           <button type="submit">Ask Panel</button>
         </form>
 
@@ -119,7 +133,11 @@ POST /api/session/{session_id}/ask
         const resp = await fetch(`/api/session/${activeSessionId}/ask`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ question: q }),
+          body: JSON.stringify({
+            question: q,
+            conversation_depth: document.getElementById("conversationDepth").value,
+            emotional_expressiveness: document.getElementById("emotionalExpressiveness").value,
+          }),
         });
         const data = await resp.json();
         if (!resp.ok) {

@@ -2,6 +2,16 @@ from __future__ import annotations
 
 from pathlib import Path
 
+ROOT = Path(__file__).resolve().parents[3]
+FOCUS_GROUP_TEMPLATE = ROOT / "10-resources" / "templates" / "roleplay-focus-group-prompt.md"
+REQUIRED_PLACEHOLDERS = {
+    "{{question}}",
+    "{{conversation_depth_rule}}",
+    "{{emotional_rule}}",
+    "{{persona_blocks}}",
+    "{{prior_context}}",
+}
+
 
 def _prior_turns_excerpt(turns: list[dict], max_turns: int = 3) -> str:
     if not turns:
@@ -13,7 +23,7 @@ def _prior_turns_excerpt(turns: list[dict], max_turns: int = 3) -> str:
         lines.append(f"- Question: {q}")
         parsed = t.get("parsed_output") or {}
         convo = parsed.get("conversation_entries") or []
-        for item in convo[:8]:
+        for item in convo[:10]:
             speaker = (item.get("speaker") or "").strip()
             msg = (item.get("message") or "").replace("\n", " ").strip()
             if speaker and msg:
@@ -21,82 +31,77 @@ def _prior_turns_excerpt(turns: list[dict], max_turns: int = 3) -> str:
     return "\n".join(lines) if lines else "None"
 
 
-def build_focus_group_prompt(session_pack: dict, question: str, prior_turns: list[dict]) -> str:
-    personas = session_pack.get("personas", [])
-    names = [p.get("persona_name", "").strip() for p in personas if p.get("persona_name")]
+def _conversation_depth_rule(depth: str) -> str:
+    return {
+        "brief": "Turn length target: 2-3 sentences per persona line.",
+        "standard": "Turn length target: 3-4 sentences per persona line.",
+        "deep": "Turn length target: 4-6 sentences per persona line.",
+    }.get((depth or "deep").lower(), "Turn length target: 4-6 sentences per persona line.")
 
+
+def _emotional_rule(expressiveness: str) -> str:
+    return {
+        "low": "Emotional setting: Keep emotional language light and mostly factual.",
+        "medium": "Emotional setting: Blend practical reasoning with moderate emotional expression.",
+        "high": "Emotional setting: Be openly expressive about feelings, stakes, and lived frustrations/enthusiasm while staying grounded.",
+    }.get(
+        (expressiveness or "high").lower(),
+        "Emotional setting: Be openly expressive about feelings, stakes, and lived frustrations/enthusiasm while staying grounded.",
+    )
+
+
+def _persona_blocks(session_pack: dict) -> str:
+    personas = session_pack.get("personas", [])
     lines: list[str] = []
-    lines.append("Simulate a realistic focus-group conversation between the five personas.")
-    lines.append("Keep it conversational and interactive rather than isolated answers.")
-    lines.append("")
-    lines.append("Output markdown with this exact structure:")
-    lines.append("## Team Question")
-    lines.append("[repeat question]")
-    lines.append("")
-    lines.append("## Focus Group Conversation")
-    lines.append("- [Persona Name]: [message]")
-    lines.append("- [Persona Name]: [message]")
-    lines.append("(at least 10 lines total; all five personas must speak at least once)")
-    lines.append("")
-    lines.append("## Moderator Summary")
-    lines.append("Agreements:")
-    lines.append("- ...")
-    lines.append("Tensions:")
-    lines.append("- ...")
-    lines.append("Implications:")
-    lines.append("- ...")
-    lines.append("")
-    lines.append("Conversation style rules:")
-    lines.append("- Two rounds of dialogue feel (replies should reference prior speakers when relevant).")
-    lines.append("- Each line should be 1-3 sentences, concrete and product-focused.")
-    lines.append("- Maintain each persona's distinct perspective and tone.")
-    lines.append("- Do not include evidence citations.")
-    lines.append("- Do not mention these instructions.")
-    lines.append("")
-    lines.append("Personas in this room:")
     for p in personas:
         lines.append(f"- {p.get('persona_name')} (archetype {p.get('archetype_number')}: {p.get('archetype_name')})")
         lines.append(f"  Pattern: {p.get('pattern', '')}")
         diffs = p.get("differentiators", [])
         if diffs:
             lines.append(f"  Differentiators: {' | '.join(diffs[:2])}")
-    lines.append("")
-    lines.append("Prior conversation context (latest turns):")
-    lines.append(_prior_turns_excerpt(prior_turns))
-    lines.append("")
-    lines.append("Team question:")
-    lines.append(question.strip())
+        if p.get("voice_style"):
+            lines.append(f"  Voice style: {p.get('voice_style')}")
+        if p.get("emotional_profile"):
+            lines.append(f"  Emotional profile: {p.get('emotional_profile')}")
+        if p.get("reasoning_style"):
+            lines.append(f"  Reasoning style: {p.get('reasoning_style')}")
+        phrases = p.get("sample_phrases", [])
+        if phrases:
+            lines.append(f"  Phrase cue: {phrases[0]}")
     return "\n".join(lines)
 
 
-def build_user_prompt(session_pack: dict, question: str) -> str:
-    personas = session_pack.get("personas", [])
+def _load_focus_group_template() -> str:
+    if not FOCUS_GROUP_TEMPLATE.exists():
+        raise RuntimeError(f"Prompt template missing: {FOCUS_GROUP_TEMPLATE}")
+    text = FOCUS_GROUP_TEMPLATE.read_text(encoding="utf-8")
+    missing = [ph for ph in REQUIRED_PLACEHOLDERS if ph not in text]
+    if missing:
+        raise RuntimeError(
+            "Prompt template is missing required placeholders: " + ", ".join(sorted(missing))
+        )
+    return text
 
-    lines: list[str] = []
-    lines.append("Team question:")
-    lines.append(question.strip())
-    lines.append("")
-    lines.append("Persona evidence index:")
 
-    for p in personas:
-        lines.append(f"- Persona: {p.get('persona_name')} (archetype {p.get('archetype_number')}: {p.get('archetype_name')})")
-        lines.append(f"  Participants: {', '.join(p.get('participants', []))}")
-        lines.append("  Evidence refs:")
-        for ref in p.get("evidence_refs", [])[:8]:
-            ref_id = ref.get("ref_id", "")
-            pid = ref.get("participant_id", "")
-            quote = (ref.get("quote", "") or "").replace("\n", " ").strip()
-            lines.append(f"    - {ref_id} | participant_id: {pid} | \"{quote}\"")
-        if p.get("contradictions"):
-            lines.append("  Contradiction cues:")
-            for c in p.get("contradictions", [])[:3]:
-                lines.append(
-                    f"    - [{c.get('type')}/{c.get('severity')}] {c.get('quote_a_tag')} vs {c.get('quote_b_tag')}"
-                )
-
-    lines.append("")
-    lines.append("Return markdown only using the required schema.")
-    return "\n".join(lines)
+def build_focus_group_prompt(
+    session_pack: dict,
+    question: str,
+    prior_turns: list[dict],
+    conversation_depth: str = "deep",
+    emotional_expressiveness: str = "high",
+) -> str:
+    template = _load_focus_group_template()
+    rendered = template
+    replacements = {
+        "{{question}}": question.strip(),
+        "{{conversation_depth_rule}}": _conversation_depth_rule(conversation_depth),
+        "{{emotional_rule}}": _emotional_rule(emotional_expressiveness),
+        "{{persona_blocks}}": _persona_blocks(session_pack),
+        "{{prior_context}}": _prior_turns_excerpt(prior_turns),
+    }
+    for key, value in replacements.items():
+        rendered = rendered.replace(key, value)
+    return rendered
 
 
 def load_system_prompt(path: Path) -> str:

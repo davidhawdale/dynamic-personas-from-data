@@ -94,6 +94,45 @@ def compact_text(path: Path, max_chars: int = 1800) -> str:
     return text[:max_chars].rstrip() + "\n..."
 
 
+def infer_voice_profile(archetype_name: str) -> dict:
+    name = (archetype_name or "").lower()
+    if "workflow" in name:
+        return {
+            "voice_style": "clear, pragmatic, operationally detailed",
+            "emotional_profile": "calm confidence with occasional frustration about friction",
+            "reasoning_style": "efficiency-first with practical trade-offs",
+        }
+    if "verifier" in name:
+        return {
+            "voice_style": "measured, cautious, direct",
+            "emotional_profile": "skeptical concern, trust earned slowly",
+            "reasoning_style": "risk-first and evidence-seeking",
+        }
+    if "creative" in name:
+        return {
+            "voice_style": "expressive, exploratory, story-driven",
+            "emotional_profile": "curiosity and excitement with visible disappointment when tools miss nuance",
+            "reasoning_style": "experimentation-first, then refinement",
+        }
+    if "relational" in name:
+        return {
+            "voice_style": "warm, reflective, socially aware",
+            "emotional_profile": "empathetic and emotionally attuned",
+            "reasoning_style": "relationship-impact-first and context-sensitive",
+        }
+    if "adaptive" in name:
+        return {
+            "voice_style": "strategic, broad-view, articulate",
+            "emotional_profile": "optimistic but critical when quality drops",
+            "reasoning_style": "outcomes-first with dynamic reprioritization",
+        }
+    return {
+        "voice_style": "natural and conversational",
+        "emotional_profile": "balanced emotional expression",
+        "reasoning_style": "practical reasoning with explicit trade-offs",
+    }
+
+
 def main() -> None:
     errors: list[str] = []
     for req in [P6_PERSONA_INPUTS, P4_QUOTES, P3_CONTRADICTIONS, PRODUCT_VISION, RESEARCH_BRIEF]:
@@ -167,6 +206,9 @@ def main() -> None:
         for pid in participants:
             persona_contras.extend(contradictions.get(pid, []))
 
+        voice_profile = infer_voice_profile(pack["archetype_name"])
+        sample_phrases = [q.get("quote", "") for q in pack.get("evidence_quotes", [])[:2] if q.get("quote")]
+
         personas.append(
             {
                 "archetype_number": pack["archetype_number"],
@@ -179,10 +221,15 @@ def main() -> None:
                 "differentiators": pack.get("differentiators", []),
                 "evidence_refs": evidence_refs,
                 "contradictions": persona_contras,
+                "voice_style": voice_profile["voice_style"],
+                "emotional_profile": voice_profile["emotional_profile"],
+                "reasoning_style": voice_profile["reasoning_style"],
+                "sample_phrases": sample_phrases,
                 "voice_guardrails": [
                     "Speak as this persona in first person.",
-                    "Do not claim certainty beyond evidence; label inferences explicitly.",
-                    "Prefer concise practical reactions to product choices.",
+                    "Sound like natural spoken English, not a report.",
+                    "Express both emotion and reasoning in each contribution.",
+                    "React to what other personas said, not just the question prompt.",
                 ],
             }
         )

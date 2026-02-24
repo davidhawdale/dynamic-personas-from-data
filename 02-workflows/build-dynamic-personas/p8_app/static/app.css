@@ -60,6 +60,19 @@ textarea {
   font: inherit;
   background: #fff;
 }
+.controls-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.4rem 0.7rem;
+  margin: 0.5rem 0 0.8rem;
+}
+select {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.45rem;
+  font: inherit;
+  background: #fff;
+}
 .error {
   color: #8d2020;
   font-weight: 600;

@@ -242,6 +242,12 @@ def api_get_session(session_id: str):
 async def api_ask(session_id: str, request: Request):
     payload = await request.json()
     question = (payload.get("question") or "").strip()
+    conversation_depth = (payload.get("conversation_depth") or "deep").strip().lower()
+    emotional_expressiveness = (payload.get("emotional_expressiveness") or "high").strip().lower()
+    if conversation_depth not in {"brief", "standard", "deep"}:
+        conversation_depth = "deep"
+    if emotional_expressiveness not in {"low", "medium", "high"}:
+        emotional_expressiveness = "high"
     if not question:
         return JSONResponse(status_code=400, content={"error": "PARSING_FAIL", "detail": "Question is required"})
 
@@ -255,7 +261,13 @@ async def api_ask(session_id: str, request: Request):
         return JSONResponse(status_code=400, content={"error": "PACK_MISSING_OR_INVALID"})
 
     system_prompt = load_system_prompt(SYSTEM_PROMPT_FILE)
-    user_prompt = build_focus_group_prompt(pack, question, sess.get("turns", []))
+    user_prompt = build_focus_group_prompt(
+        pack,
+        question,
+        sess.get("turns", []),
+        conversation_depth=conversation_depth,
+        emotional_expressiveness=emotional_expressiveness,
+    )
     expected_names = [p.get("persona_name", "") for p in pack.get("personas", []) if p.get("persona_name")]
 
     raw = ""
@@ -299,6 +311,8 @@ async def api_ask(session_id: str, request: Request):
     turn = {
         "turn_id": f"turn-{len(sess.get('turns', [])) + 1}",
         "question": question,
+        "conversation_depth": conversation_depth,
+        "emotional_expressiveness": emotional_expressiveness,
         "raw_model_output": raw,
         "parsed_output": parsed,
         "verification": {"status": "PASS", "errors": []},
